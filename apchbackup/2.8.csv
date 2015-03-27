@@ -1,0 +1,959 @@
+Kind,Name,CountClassCoupled,CountDeclMethod,PercentLackOfCohesion
+Public Class,org.apache.xerces.dom.CoreDocumentImpl,58,125,97
+Public Class,org.apache.xerces.xinclude.XIncludeHandler,56,112,96
+Public Class,xni.PSVIWriter,56,109,97
+Public Class,org.apache.xerces.impl.dtd.DTDGrammar,36,102,96
+Public Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl,63,85,95
+Public Abstract Class,org.apache.xerces.dom.NodeImpl,21,84,97
+Public Class,org.apache.xerces.dom.DeferredDocumentImpl,28,79,88
+Class,org.apache.xerces.jaxp.datatype.XMLGregorianCalendarImpl,23,68,95
+Public Abstract Class,org.apache.xml.serialize.BaseMarkupSerializer,41,62,92
+Public Class,xni.DocumentTracer,24,61,90
+Public Class,org.apache.xerces.impl.xs.XMLSchemaValidator,82,59,95
+Public Class,org.apache.xerces.util.URI,5,58,93
+Public Class,org.apache.xerces.dom.RangeImpl,15,55,78
+Class,org.apache.xerces.jaxp.validation.ValidatorHandlerImpl,61,54,94
+Public Class,org.apache.xerces.impl.dtd.XMLDTDProcessor,31,53,93
+Public Abstract Class,org.apache.xerces.parsers.AbstractSAXParser,48,52,94
+Public Class,org.apache.xerces.impl.xpath.regex.RegularExpression,22,52,92
+Public Class,org.apache.xerces.impl.xs.opti.DefaultXMLDocumentHandler,12,52,96
+Class,org.apache.xerces.impl.xpath.regex.Token,17,51,95
+Public Abstract Class,org.apache.xerces.parsers.AbstractXMLDocumentParser,13,51,95
+Public Class,org.apache.xerces.impl.xs.SchemaGrammar,45,50,96
+Public Class,org.apache.xerces.util.DOMUtil,20,50,0
+Public Class,org.apache.xml.serialize.OutputFormat,13,50,95
+Class,org.apache.xerces.impl.xpath.regex.RegexParser,14,49,92
+Private Class,org.apache.xerces.parsers.DOMParserImpl.AbortHandler,13,49,95
+Public Class,org.apache.xerces.impl.dtd.XMLDTDValidator,46,49,93
+Class,org.apache.xerces.jaxp.datatype.DurationImpl,22,48,87
+Public Class,org.apache.xerces.util.XMLAttributesImpl,5,47,81
+Public Class,org.apache.xerces.dom.AttrImpl,16,46,91
+Public Class,org.apache.xerces.dom.DocumentImpl,30,46,87
+Public Class,org.apache.xerces.impl.XMLEntityManager,61,45,95
+Public Class,org.apache.xerces.parsers.AbstractDOMParser,67,45,87
+Public Class,org.apache.xerces.dom.ElementImpl,18,43,79
+Public Class,org.apache.xerces.impl.XMLDTDScannerImpl,25,43,90
+Public Class,org.apache.xerces.impl.xs.XSComplexTypeDecl,18,43,91
+Public Class,org.apache.xerces.impl.xs.traversers.XSDHandler,77,43,94
+Public Class,org.apache.xerces.dom.ASModelImpl,13,40,91
+Public Class,org.apache.xerces.impl.xs.XMLSchemaLoader,68,40,91
+Public Class,sax.DocumentTracer,22,39,92
+Class,org.apache.xerces.impl.xpath.regex.ParserForXMLSchema,8,38,97
+Public Class,org.apache.html.dom.HTMLInputElementImpl,4,38,100
+Public Class,org.apache.xerces.impl.xs.opti.DefaultNode,6,38,0
+Public Class,org.apache.html.dom.HTMLTableElementImpl,11,37,96
+Public Class,org.apache.xerces.parsers.XML11Configuration,49,36,95
+Public Class,org.apache.html.dom.HTMLObjectElementImpl,4,35,100
+Public Class,org.apache.xerces.parsers.XML11DTDConfiguration,47,35,94
+Public Class,org.apache.xerces.parsers.XML11NonValidatingConfiguration,41,35,94
+Public Abstract Class,org.apache.xerces.dom.ParentNode,12,34,80
+Public Class,org.apache.xerces.impl.xs.XSElementDecl,16,34,92
+Public Class,org.apache.html.dom.HTMLDocumentImpl,29,33,95
+Public Class,org.apache.xerces.impl.XMLDocumentFragmentScannerImpl,33,33,92
+Public Class,org.apache.xerces.impl.XMLNamespaceBinder,17,33,87
+Public Abstract Class,org.apache.xerces.impl.dv.xs.AbstractDateTimeDV,17,32,98
+Public Class,org.apache.xerces.dom.DOMNormalizer,67,32,92
+Public Class,org.apache.xerces.impl.xs.opti.DefaultDocument,14,32,93
+Public Class,org.apache.html.dom.HTMLTableCellElementImpl,3,31,100
+Public Abstract Class,org.apache.xerces.impl.XMLScanner,24,30,92
+Public Class,org.apache.xerces.impl.XMLEntityScanner,18,30,74
+Public Class,org.apache.xerces.impl.xs.XSConstraints,31,30,96
+Protected Class,org.apache.xerces.dom.DOMNormalizer.XMLAttributesProxy,15,29,83
+Public Abstract Class,org.apache.xerces.parsers.DTDParser,9,29,100
+Public Class,org.apache.xerces.dom.NamedNodeMapImpl,7,29,83
+Public Class,sax.Writer,25,29,92
+Public Class,org.apache.xerces.dom.DOMConfigurationImpl,35,28,93
+Public Interface,org.apache.xerces.xni.XMLAttributes,3,28,0
+Class,org.apache.xerces.jaxp.UnparsedEntityHandler,8,27,73
+Class,org.apache.xerces.jaxp.validation.DOMResultAugmentor,34,27,90
+Class,org.apache.xerces.jaxp.validation.DOMResultBuilder,40,27,88
+Public Class,org.apache.html.dom.HTMLAnchorElementImpl,2,27,100
+Public Class,org.apache.html.dom.HTMLImageElementImpl,2,27,100
+Public Class,org.apache.xerces.impl.xs.opti.ElementImpl,6,26,84
+Public Class,org.apache.xerces.impl.xs.opti.SchemaDOM,16,26,85
+Public Class,org.apache.wml.dom.WMLInputElementImpl,2,25,100
+Public Class,org.apache.xerces.dom.TreeWalkerImpl,8,25,81
+Public Class,org.apache.html.dom.HTMLSelectElementImpl,6,24,95
+Public Class,org.apache.xerces.xpointer.XPointerHandler,23,24,85
+Class,org.apache.xerces.impl.xpath.regex.Op,11,23,89
+Public Class,org.apache.html.dom.HTMLAppletElementImpl,2,23,100
+Public Class,org.apache.html.dom.HTMLElementImpl,8,23,100
+Public Class,org.apache.html.dom.HTMLTextAreaElementImpl,2,23,100
+Public Class,org.apache.wml.dom.WMLImgElementImpl,2,23,100
+Public Class,org.apache.xerces.impl.xs.opti.SchemaDOMParser,24,23,81
+Public Class,org.apache.xerces.parsers.DTDConfiguration,33,23,94
+Public Class,org.apache.xml.serialize.XMLSerializer,35,23,88
+Public Class,sax.helpers.AttributesImpl,3,23,76
+Public Class,xni.Writer,24,23,88
+Class,org.apache.xerces.jaxp.TeeXMLDocumentFilterImpl,9,22,42
+Public Abstract Class,org.apache.xerces.parsers.BasicParserConfiguration,18,22,91
+Public Abstract Class,xni.parser.AbstractConfiguration,19,22,89
+Public Class,org.apache.xerces.dom.DocumentTypeImpl,9,22,86
+Public Class,org.apache.xerces.impl.xs.XSDeclarationPool,8,22,87
+Public Class,org.apache.xerces.impl.xs.opti.DefaultElement,5,22,0
+Public Class,org.apache.xerces.parsers.NonValidatingConfiguration,29,22,95
+Public Class,org.apache.xerces.util.AttributesProxy,8,22,0
+Public Class,org.apache.xerces.util.XMLCatalogResolver,13,22,84
+Public Interface,org.apache.xerces.xni.XMLDTDHandler,7,22,100
+Protected Abstract Class,org.apache.xerces.impl.xs.XMLSchemaValidator.ValueStoreBase,12,21,82
+Public Abstract Class,org.apache.xerces.impl.xs.identity.IdentityConstraint,11,21,86
+Public Class,org.apache.html.dom.HTMLIFrameElementImpl,2,21,100
+Public Class,org.apache.html.dom.HTMLTableRowElementImpl,10,21,95
+Public Class,org.apache.wml.dom.WMLSelectElementImpl,2,21,100
+Public Class,org.apache.xerces.dom.DOMInputImpl,3,21,79
+Public Class,org.apache.xerces.dom.PSVIElementNSImpl,16,21,91
+Public Class,org.apache.xerces.impl.dtd.XMLDTDLoader,27,21,84
+Public Class,org.apache.xerces.impl.validation.ValidationState,6,21,84
+Public Class,org.apache.xerces.impl.xs.XSWildcardDecl,11,21,80
+Public Class,org.apache.xerces.impl.xs.util.SimpleLocator,1,21,80
+Public Class,org.apache.xerces.parsers.DOMParserImpl,40,21,89
+Public Class,org.apache.xerces.util.XMLChar,2,21,91
+Public Class,org.apache.xml.serialize.DOMSerializerImpl,55,21,83
+Protected Static Class,org.apache.xerces.parsers.AbstractSAXParser.AttributesProxy,7,20,0
+Public Interface,org.apache.wml.WMLInputElement,1,20,0
+Public Interface,org.apache.xerces.dom3.as.ASModel,10,20,0
+Class,org.apache.xerces.impl.xs.traversers.SchemaContentHandler,20,19,81
+Public Class,org.apache.html.dom.HTMLFormElementImpl,4,19,94
+Public Class,org.apache.html.dom.HTMLLinkElementImpl,2,19,100
+Public Class,org.apache.wml.dom.WMLCardElementImpl,2,19,100
+Public Class,org.apache.xerces.dom.TextImpl,6,19,100
+Public Class,org.apache.xerces.impl.XMLErrorReporter,15,19,90
+Public Class,xni.PassThroughFilter,10,19,50
+Public Interface,org.apache.xerces.xni.parser.XMLParserConfiguration,11,19,0
+Public Interface,org.apache.xerces.xs.XSSimpleTypeDefinition,3,19,100
+Public Static Class,org.apache.xerces.impl.xs.SchemaGrammar.Schema4Annotations,27,19,0
+Static Class,org.apache.xerces.impl.dv.xs.AbstractDateTimeDV.DateTimeData,5,19,81
+Class,org.apache.xerces.impl.xpath.regex.RangeToken,9,18,79
+Class,org.apache.xerces.impl.xs.traversers.XSDComplexTypeTraverser,43,18,78
+Public Class,org.apache.xerces.dom.EntityImpl,2,18,90
+Public Class,org.apache.xerces.dom.PSVIAttrNSImpl,14,18,89
+Public Class,org.apache.xerces.impl.xs.XSDDescription,4,18,89
+Public Class,org.apache.xerces.util.XMLResourceIdentifierImpl,2,18,66
+Public Class,org.apache.xml.serialize.HTMLSerializer,22,18,79
+Public Class,org.apache.xml.serialize.Printer,6,18,64
+Public Interface,org.apache.wml.WMLImgElement,1,18,0
+Public Interface,org.apache.xerces.xni.XMLDocumentHandler,10,18,0
+Public Interface,org.apache.xerces.xs.XSElementDeclaration,8,18,0
+Public Abstract Class,org.apache.xerces.dom.CharacterDataImpl,7,17,78
+Public Class,jaxp.TypeInfoWriter,29,17,85
+Public Class,org.apache.html.dom.HTMLAreaElementImpl,2,17,100
+Public Class,org.apache.html.dom.HTMLFrameElementImpl,2,17,100
+Public Class,org.apache.xerces.impl.xs.ElementPSVImpl,12,17,88
+Public Class,org.apache.xerces.impl.xs.XSAttributeDecl,11,17,85
+Public Class,org.apache.xerces.impl.xs.XSModelGroupImpl,9,17,75
+Public Class,org.apache.xerces.impl.xs.XSParticleDecl,8,17,80
+Public Class,org.apache.xerces.jaxp.SAXParserImpl,41,17,86
+Public Class,org.apache.xerces.parsers.XMLGrammarPreparser,20,17,86
+Public Class,org.apache.xml.serialize.IndentPrinter,6,17,58
+Public Class,org.apache.xml.serialize.TextSerializer,11,17,0
+Public Static Class,org.apache.xerces.jaxp.SAXParserImpl.JAXPSAXParser,22,17,74
+Class,org.apache.xerces.jaxp.validation.SoftReferenceGrammarPool,10,16,77
+Class,org.apache.xerces.xpointer.ElementSchemePointer,15,16,81
+Private Static Class,org.apache.xerces.jaxp.validation.ValidatorHandlerImpl.XMLSchemaTypeInfoProvider,15,16,64
+Public Class,org.apache.xerces.dom.AttributeMap,10,16,100
+Public Class,org.apache.xerces.dom.CoreDOMImplementationImpl,29,16,89
+Public Class,org.apache.xerces.dom.ElementNSImpl,14,16,81
+Public Class,org.apache.xerces.impl.xpath.regex.REUtil,11,16,93
+Public Class,org.apache.xerces.impl.xs.XSModelImpl,27,16,78
+Public Class,org.apache.xerces.jaxp.DocumentBuilderImpl,41,16,85
+Public Class,org.apache.xerces.util.JAXPNamespaceContextWrapper,6,16,75
+Public Class,org.apache.xerces.xni.parser.XMLInputSource,4,16,70
+Public Class,org.apache.xml.serialize.HTMLdtd,12,16,93
+Public Interface,org.apache.wml.WMLSelectElement,1,16,0
+Public Interface,org.apache.xerces.dom3.as.ASElementDeclaration,5,16,100
+Class,org.apache.xerces.jaxp.JAXPValidatorComponent,18,15,87
+Public Class,org.apache.html.dom.HTMLOptionElementImpl,7,15,100
+Public Class,org.apache.html.dom.HTMLScriptElementImpl,6,15,100
+Public Class,org.apache.html.dom.HTMLTableSectionElementImpl,6,15,93
+Public Class,org.apache.wml.dom.WMLDoElementImpl,2,15,100
+Public Class,org.apache.wml.dom.WMLMetaElementImpl,2,15,100
+Public Class,org.apache.xerces.impl.XML11DocumentScannerImpl,15,15,90
+Public Class,org.apache.xerces.impl.xs.opti.SchemaParsingConfig,32,15,92
+Public Class,org.apache.xerces.parsers.DOMParser,29,15,89
+Static Class,org.apache.xerces.impl.dv.xs.DecimalDV.XDecimal,10,15,61
+Class,org.apache.xerces.jaxp.validation.ValidatorImpl,27,14,75
+Class,org.apache.xerces.jaxp.validation.XMLSchemaValidatorComponentManager,27,14,81
+Class,org.apache.xerces.xpointer.ShortHandPointer,11,14,80
+Public Class,org.apache.xerces.dom.AttrNSImpl,7,14,82
+Public Class,org.apache.xerces.impl.XML11DTDScannerImpl,12,14,92
+Public Class,org.apache.xerces.impl.XMLDocumentScannerImpl,29,14,91
+Public Class,org.apache.xerces.impl.XMLEntityManager.ScannedEntity,11,14,88
+Public Class,org.apache.xerces.impl.io.UTF8Reader,9,14,75
+Public Class,org.apache.xerces.impl.xs.AttributePSVImpl,8,14,85
+Public Class,org.apache.xerces.impl.xs.XSAttributeGroupDecl,18,14,80
+Public Class,org.apache.xerces.util.XML11Char,3,14,86
+Public Class,org.apache.xerces.util.XMLGrammarPoolImpl,6,14,70
+Public Class,xni.Counter,22,14,83
+Public Interface,org.apache.wml.WMLCardElement,1,14,0
+Public Interface,org.apache.xerces.xni.XMLDocumentFragmentHandler,9,14,0
+Public Interface,org.apache.xerces.xs.datatypes.XSDateTime,3,14,0
+Public Static Class,org.apache.xerces.impl.xs.SchemaGrammar.BuiltinSchemaGrammar,21,14,0
+Class,org.apache.xerces.impl.dtd.BalancedDTDGrammar,8,13,58
+Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl.ValidationContextImpl,2,13,50
+Class,org.apache.xerces.jaxp.validation.DOMValidatorHelper,44,13,85
+Public Class,org.apache.html.dom.HTMLBodyElementImpl,2,13,100
+Public Class,org.apache.html.dom.HTMLTableColElementImpl,2,13,100
+Public Class,org.apache.wml.dom.WMLGoElementImpl,2,13,100
+Public Class,org.apache.wml.dom.WMLOptionElementImpl,2,13,100
+Public Class,org.apache.wml.dom.WMLTableElementImpl,2,13,100
+Public Class,org.apache.xerces.dom.NodeIteratorImpl,5,13,71
+Public Class,org.apache.xerces.impl.XML11EntityScanner,12,13,0
+Public Class,org.apache.xerces.impl.xs.XSAttributeUseImpl,9,13,80
+Public Class,org.apache.xerces.impl.xs.models.XSDFACM,20,13,80
+Public Class,org.apache.xerces.jaxp.validation.XMLSchemaFactory,48,13,75
+Public Class,org.apache.xerces.parsers.DOMASBuilderImpl,21,13,92
+Public Class,org.apache.xerces.parsers.XMLGrammarCachingConfiguration,19,13,89
+Public Class,org.apache.xerces.xinclude.MultipleScopeNamespaceSupport,5,13,23
+Public Class,sax.Counter,20,13,85
+Public Class,ui.TreeView,49,13,84
+Public Interface,org.apache.xerces.dom3.as.ElementEditAS,4,13,0
+Public Interface,org.apache.xerces.xni.grammars.XMLGrammarLoader,9,13,0
+Class,org.apache.xerces.impl.xs.traversers.XSDocumentInfo,13,12,85
+Class,org.apache.xerces.jaxp.validation.DOMValidatorHelper.DOMNamespaceContext,11,12,77
+Private Static Class,org.apache.xerces.impl.xs.SchemaGrammar.XSAnyType,12,12,0
+Public Class,dom.Writer,21,12,85
+Public Class,jaxp.InlineSchemaValidator,35,12,85
+Public Class,org.apache.html.dom.HTMLButtonElementImpl,4,12,100
+Public Class,org.apache.xerces.impl.dtd.models.CMStateSet,3,12,21
+Public Class,org.apache.xerces.impl.xpath.regex.Match,5,12,61
+Public Class,org.apache.xerces.impl.xs.opti.DefaultText,2,12,0
+Public Class,org.apache.xerces.util.NamespaceSupport,5,12,51
+Public Class,org.apache.xerces.util.SAXInputSource,5,12,54
+Public Class,org.apache.xerces.util.SAXLocatorWrapper,3,12,62
+Public Class,org.apache.xml.serialize.XML11Serializer,19,12,100
+Public Interface,org.apache.xerces.dom3.as.ASObject,2,12,100
+Public Interface,org.apache.xerces.xni.XMLDTDContentModelHandler,4,12,100
+Public Interface,org.apache.xerces.xs.ItemPSVI,6,12,100
+Static Class,org.apache.xerces.impl.dv.xs.PrecisionDecimalDV.XPrecisionDecimal,5,12,70
+Abstract Class,org.apache.xerces.impl.xs.traversers.XSDAbstractTraverser,40,11,86
+Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl.(Anon_1),1,11,0
+Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl.(Anon_4),1,11,0
+Private Class,org.apache.xerces.jaxp.JAXPValidatorComponent.XNI2SAX,12,11,68
+Private Class,org.apache.xerces.xpointer.ElementSchemePointer.Tokens,8,11,80
+Protected Class,org.apache.xerces.impl.XMLEntityManager.RewindableInputStream,4,11,57
+Public Class,org.apache.wml.dom.WMLAElementImpl,2,11,100
+Public Class,org.apache.wml.dom.WMLElementImpl,3,11,100
+Public Class,org.apache.wml.dom.WMLPElementImpl,2,11,100
+Public Class,org.apache.wml.dom.WMLTemplateElementImpl,2,11,100
+Public Class,org.apache.xerces.dom.DOMLocatorImpl,2,11,63
+Public Class,org.apache.xerces.dom.PSVIDocumentImpl,17,11,100
+Public Class,org.apache.xerces.impl.xs.traversers.XSAttributeChecker,35,11,95
+Public Class,org.apache.xerces.util.XMLStringBuffer,2,11,63
+Public Class,org.apache.xerces.xinclude.XIncludeTextReader,26,11,74
+Public Class,simpletype.SimpleTypeUsage,16,11,96
+Public Interface,org.apache.xerces.dom3.as.ASContentModel,3,11,100
+Public Interface,org.apache.xerces.impl.dv.ValidationContext,1,11,0
+Public Interface,org.apache.xerces.xs.XSModel,11,11,0
+Public Static Class,socket.KeepSocketOpen.Client,18,11,79
+Static Class,ui.DOMTree.Model,10,11,72
+Class,org.apache.html.dom.SecuritySupport,10,10,90
+Class,org.apache.xerces.dom.SecuritySupport,10,10,90
+Class,org.apache.xerces.impl.dv.SecuritySupport,10,10,90
+Class,org.apache.xerces.impl.xs.traversers.XSDSimpleTypeTraverser,27,10,75
+Class,org.apache.xerces.parsers.SecuritySupport,10,10,90
+Class,org.apache.xerces.xinclude.SecuritySupport,10,10,90
+Class,org.apache.xml.serialize.SecuritySupport,10,10,90
+Class,xni.SecuritySupport,10,10,90
+Private Static Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl.XSFacetImpl,6,10,77
+Private Static Class,org.apache.xerces.impl.xpath.XPath.Tokens,8,10,80
+Protected Class,org.apache.xerces.impl.xs.XMLSchemaValidator.ValueStoreCache,17,10,65
+Public Abstract Class,org.apache.xerces.impl.dv.xs.TypeValidator,3,10,100
+Public Class,org.apache.html.dom.HTMLBuilder,15,10,65
+Public Class,org.apache.xerces.dom.DOMErrorImpl,5,10,81
+Public Class,org.apache.xerces.dom.events.EventImpl,3,10,87
+Public Class,org.apache.xerces.impl.dtd.XMLContentSpec,1,10,91
+Public Class,org.apache.xerces.impl.io.ASCIIReader,7,10,65
+Public Class,org.apache.xerces.impl.io.UCSReader,4,10,76
+Public Class,org.apache.xerces.impl.xs.XSLoaderImpl,14,10,30
+Public Class,org.apache.xerces.util.ErrorHandlerWrapper,8,10,50
+Public Class,org.apache.xerces.util.ParserConfigurationSettings,6,10,75
+Public Class,org.apache.xerces.util.SymbolTable,4,10,63
+Public Class,org.apache.xerces.util.XMLEntityDescriptionImpl,2,10,40
+Public Class,org.apache.xerces.xni.QName,2,10,44
+Public Class,org.apache.xerces.xni.parser.XMLParseException,3,10,65
+Public Interface,org.apache.wml.WMLDoElement,1,10,0
+Public Interface,org.apache.wml.WMLMetaElement,1,10,0
+Public Interface,org.apache.xerces.dom3.as.ASAttributeDeclaration,3,10,100
+Public Interface,org.apache.xerces.dom3.as.DocumentAS,5,10,0
+Public Interface,org.apache.xerces.xni.XMLResourceIdentifier,1,10,0
+Public Interface,org.apache.xerces.xs.XSAttributeDeclaration,7,10,0
+Public Interface,org.apache.xerces.xs.XSComplexTypeDefinition,4,10,100
+Public Interface,org.apache.xerces.xs.XSNamespaceItem,10,10,0
+Public Static Class,ui.DOMTreeFull.Model,8,10,77
+Class,org.apache.html.dom.HTMLCollectionImpl,18,9,84
+Class,org.apache.xerces.jaxp.validation.EmptyXMLSchema,3,9,88
+Class,org.apache.xerces.jaxp.validation.SimpleXMLSchema,3,9,80
+Class,org.apache.xerces.util.ErrorHandlerWrapper.createXMLParseException.(Anon_1),2,9,0
+Private Class,org.apache.xerces.jaxp.JAXPValidatorComponent.SAX2XNI,12,9,88
+Private Class,org.apache.xerces.xpointer.XPointerHandler.Tokens,8,9,81
+Protected Static Class,org.apache.xerces.impl.xs.XMLSchemaValidator.XPathMatcherStack,3,9,48
+Public Abstract Class,org.apache.xerces.impl.dtd.models.CMNode,1,9,82
+Public Class,dom.wrappers.Xerces,13,9,66
+Public Class,jaxp.SourceValidator,29,9,82
+Public Class,org.apache.html.dom.HTMLHRElementImpl,2,9,100
+Public Class,org.apache.html.dom.HTMLMetaElementImpl,2,9,100
+Public Class,org.apache.html.dom.HTMLParamElementImpl,2,9,100
+Public Class,org.apache.wml.dom.WMLAccessElementImpl,2,9,100
+Public Class,org.apache.wml.dom.WMLAnchorElementImpl,2,9,100
+Public Class,org.apache.wml.dom.WMLFieldsetElementImpl,2,9,100
+Public Class,org.apache.wml.dom.WMLOptgroupElementImpl,2,9,100
+Public Class,org.apache.wml.dom.WMLPostfieldElementImpl,2,9,100
+Public Class,org.apache.wml.dom.WMLSetvarElementImpl,2,9,100
+Public Class,org.apache.wml.dom.WMLTimerElementImpl,2,9,100
+Public Class,org.apache.xerces.dom.DOMOutputImpl,3,9,77
+Public Class,org.apache.xerces.dom.EntityReferenceImpl,9,9,85
+Public Class,org.apache.xerces.dom.NotationImpl,6,9,82
+Public Class,org.apache.xerces.impl.dtd.XMLDTDDescription,3,9,33
+Public Class,org.apache.xerces.impl.dtd.models.CMAny,4,9,55
+Public Class,org.apache.xerces.impl.dtd.models.CMLeaf,6,9,38
+Public Class,org.apache.xerces.impl.validation.ConfigurableValidationState,1,9,44
+Public Class,org.apache.xerces.impl.xpath.XPath,19,9,81
+Public Class,org.apache.xerces.impl.xs.SubstitutionGroupHandler,11,9,80
+Public Class,org.apache.xerces.impl.xs.XSAnnotationImpl,17,9,61
+Public Class,org.apache.xerces.impl.xs.identity.XPathMatcher,18,9,72
+Public Class,org.apache.xerces.impl.xs.models.CMBuilder,16,9,68
+Public Class,org.apache.xerces.impl.xs.models.XSCMLeaf,4,9,55
+Public Class,org.apache.xerces.impl.xs.opti.AttrImpl,4,9,72
+Public Class,org.apache.xerces.impl.xs.opti.NamedNodeMapImpl,4,9,44
+Public Class,org.apache.xerces.impl.xs.opti.NodeImpl,1,9,77
+Public Class,org.apache.xerces.jaxp.DocumentBuilderFactoryImpl,17,9,60
+Public Class,org.apache.xerces.util.DOMErrorHandlerWrapper,13,9,68
+Public Class,org.apache.xerces.util.HTTPInputSource,8,9,72
+Public Class,org.apache.xerces.util.SymbolHash,1,9,29
+Public Class,org.apache.xerces.xni.XMLString,1,9,33
+Public Class,socket.DelayedInput,18,9,84
+Public Class,ui.DOMTreeFull,8,9,94
+Public Interface,org.apache.xerces.xni.NamespaceContext,2,9,100
+Public Interface,org.apache.xerces.xni.XMLLocator,1,9,0
+Class,org.apache.xerces.util.AugmentationsImpl.LargeContainer,4,8,25
+Class,org.apache.xerces.util.AugmentationsImpl.SmallContainer,5,8,37
+Class,ui.TreeView.ErrorStorer,10,8,50
+Private Class,org.apache.xerces.jaxp.datatype.XMLGregorianCalendarImpl.Parser,7,8,52
+Private Static Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl.XSMVFacetImpl,5,8,75
+Private Static Class,org.apache.xerces.impl.xs.XSLoaderImpl.XSGrammarMerger,15,8,0
+Protected Static Class,org.apache.xerces.impl.xs.XMLSchemaValidator.ShortVector,1,8,43
+Public Abstract Class,org.apache.xerces.dom.ChildNode,1,8,79
+Public Abstract Class,org.apache.xerces.impl.dv.SchemaDVFactory,7,8,87
+Public Class,dom.DOMAddLines,19,8,75
+Public Class,org.apache.xerces.impl.XML11NSDocumentScannerImpl,21,8,65
+Public Class,org.apache.xerces.impl.XMLNSDocumentScannerImpl,21,8,65
+Public Class,org.apache.xerces.impl.dtd.DTDGrammarBucket,4,8,58
+Public Class,org.apache.xerces.impl.dtd.XML11DTDProcessor,10,8,0
+Public Class,org.apache.xerces.impl.dv.xs.DurationDV,15,8,87
+Public Class,org.apache.xerces.impl.xpath.regex.BMPattern,3,8,25
+Public Class,org.apache.xerces.impl.xs.XSNotationDecl,5,8,85
+Public Class,org.apache.xerces.impl.xs.models.CMNodeFactory,14,8,75
+Public Class,org.apache.xerces.impl.xs.models.XSAllCM,6,8,57
+Public Class,org.apache.xerces.jaxp.SAXParserFactoryImpl,13,8,68
+Public Class,org.apache.xerces.jaxp.datatype.DatatypeFactoryImpl,8,8,0
+Public Class,org.apache.xerces.parsers.XIncludeAwareParserConfiguration,18,8,71
+Public Class,org.apache.xerces.util.IntStack,2,8,25
+Public Interface,org.apache.wml.WMLAElement,1,8,0
+Public Interface,org.apache.wml.WMLGoElement,1,8,0
+Public Interface,org.apache.wml.WMLOptionElement,1,8,0
+Public Interface,org.apache.wml.WMLTableElement,1,8,0
+Public Interface,org.apache.xerces.dom3.as.ASEntityDeclaration,1,8,100
+Public Interface,org.apache.xerces.dom3.as.ASNamedObjectMap,3,8,0
+Public Interface,org.apache.xerces.impl.dv.XSSimpleType,7,8,100
+Public Interface,org.apache.xerces.xpointer.XPointerPart,5,8,100
+Public Interface,org.apache.xerces.xs.XSAttributeUse,5,8,0
+Static Class,org.apache.xerces.impl.xpath.regex.Token.ClosureToken,2,8,78
+Static Class,org.apache.xerces.jaxp.validation.ValidatorHandlerImpl.ResolutionForwarder,11,8,75
+Static Class,org.apache.xerces.jaxp.validation.XMLSchemaFactory.XMLGrammarPoolWrapper,3,8,0
+Abstract Class,org.apache.xerces.util.AugmentationsImpl.AugmentationsItemsContainer,1,7,0
+Class,dom.traversal.IteratorView.Errors,9,7,42
+Class,dom.traversal.TreeWalkerView.Errors,9,7,42
+Class,org.apache.html.dom.ObjectFactory,19,7,77
+Class,org.apache.xerces.dom.ObjectFactory,19,7,77
+Class,org.apache.xerces.impl.dv.ObjectFactory,19,7,77
+Class,org.apache.xerces.jaxp.validation.ReadOnlyGrammarPool,3,7,57
+Class,org.apache.xerces.parsers.ObjectFactory,19,7,77
+Class,org.apache.xerces.xinclude.ObjectFactory,19,7,77
+Class,org.apache.xml.serialize.ObjectFactory,19,7,77
+Class,ui.TreeView.ParseError,1,7,68
+Class,xni.ObjectFactory,19,7,77
+Private Static Class,org.apache.xerces.impl.dv.xs.DoubleDV.XDouble,5,7,42
+Private Static Class,org.apache.xerces.impl.dv.xs.FloatDV.XFloat,5,7,42
+Private Static Class,org.apache.xerces.impl.xs.traversers.XSDHandler.XSAnnotationGrammarPool,8,7,64
+Protected Class,org.apache.xerces.parsers.AbstractSAXParser.LocatorProxy,2,7,0
+Protected Static Class,org.apache.xerces.impl.XMLEntityManager.ExternalEntity,2,7,35
+Protected Static Class,org.apache.xerces.impl.XMLEntityManager.InternalEntity,1,7,42
+Public Class,dom.traversal.TreeWalkerView,40,7,74
+Public Class,jaxp.ParserAPIUsage,16,7,71
+Public Class,org.apache.html.dom.HTMLBaseFontElementImpl,2,7,100
+Public Class,org.apache.html.dom.HTMLFontElementImpl,2,7,100
+Public Class,org.apache.html.dom.HTMLOListElementImpl,2,7,100
+Public Class,org.apache.html.dom.HTMLStyleElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLBElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLBigElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLBrElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLEmElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLIElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLOneventElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLSmallElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLStrongElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLTdElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLUElementImpl,2,7,100
+Public Class,org.apache.wml.dom.WMLWmlElementImpl,2,7,100
+Public Class,org.apache.xerces.dom.ProcessingInstructionImpl,2,7,78
+Public Class,org.apache.xerces.impl.Constants,5,7,98
+Public Class,org.apache.xerces.impl.dtd.models.DFAContentModel,14,7,73
+Public Class,org.apache.xerces.impl.dv.util.Base64,3,7,85
+Public Class,org.apache.xerces.impl.dv.xs.SchemaDVFactoryImpl,11,7,61
+Public Class,org.apache.xerces.impl.validation.ValidationManager,3,7,57
+Public Class,org.apache.xerces.impl.xs.XSGroupDecl,7,7,82
+Public Class,org.apache.xerces.impl.xs.opti.TextImpl,4,7,46
+Public Class,org.apache.xerces.impl.xs.util.XSNamedMapImpl,4,7,53
+Public Class,org.apache.xerces.impl.xs.util.XSObjectListImpl,2,7,53
+Public Class,org.apache.xerces.parsers.CachingParserPool,9,7,69
+Public Class,org.apache.xerces.parsers.IntegratedParserConfiguration,16,7,71
+Public Class,org.apache.xerces.parsers.StandardParserConfiguration,10,7,84
+Public Class,org.apache.xerces.parsers.XIncludeParserConfiguration,16,7,78
+Public Class,org.apache.xerces.parsers.XPointerParserConfiguration,17,7,78
+Public Class,org.apache.xerces.util.EncodingMap,2,7,57
+Public Class,org.apache.xerces.util.EntityResolver2Wrapper,13,7,42
+Public Class,org.apache.xerces.util.LocatorProxy,2,7,0
+Public Class,org.apache.xerces.util.SynchronizedSymbolTable,1,7,0
+Public Class,socket.io.WrappedOutputStream,2,7,57
+Public Interface,org.apache.xerces.xni.parser.XMLComponent,4,7,0
+Public Interface,org.apache.xerces.xs.XSTypeDefinition,1,7,100
+Public Static Abstract Class,org.apache.xerces.impl.XMLEntityManager.Entity,1,7,50
+Public Static Class,org.apache.xerces.parsers.CachingParserPool.SynchronizedGrammarPool,3,7,0
+Static Class,org.apache.xerces.impl.dv.xs.ListDV.ListData,2,7,42
+Abstract Class,org.apache.xerces.impl.xs.traversers.XSDAbstractParticleTraverser,21,6,66
+Class,org.apache.xerces.impl.dv.xs.PrecisionDecimalDV,7,6,0
+Class,org.apache.xerces.impl.xs.traversers.XSDAttributeTraverser,27,6,0
+Class,org.apache.xerces.impl.xs.traversers.XSDElementTraverser,35,6,83
+Class,org.apache.xerces.jaxp.JAXPValidatorComponent.(Anon_3),2,6,0
+Class,org.apache.xerces.xpointer.XPointerErrorHandler,6,6,66
+Class,org.apache.xml.serialize.SerializerFactoryImpl,14,6,50
+Class,ui.TreeView.FileNameInput,14,6,72
+Private Static Class,org.apache.xerces.impl.XMLEntityManager.CharacterBufferPool,1,6,52
+Private Static Class,org.apache.xerces.impl.xs.opti.SchemaDOMParser.BooleanStack,1,6,41
+Protected Class,org.apache.xerces.impl.xs.XMLSchemaValidator.XSIErrorReporter,7,6,33
+Public Abstract Class,org.apache.xml.serialize.SerializerFactory,14,6,94
+Public Class,dom.DOM3,17,6,95
+Public Class,dom.traversal.IteratorView,40,6,72
+Public Class,org.apache.xerces.dom.DOMStringListImpl,3,6,0
+Public Class,org.apache.xerces.dom.events.MutationEventImpl,2,6,86
+Public Class,org.apache.xerces.impl.dtd.models.CMBinOp,3,6,16
+Public Class,org.apache.xerces.impl.dv.xs.BaseDVFactory,9,6,75
+Public Class,org.apache.xerces.impl.xs.SchemaNamespaceSupport,8,6,50
+Public Class,org.apache.xerces.impl.xs.identity.Selector.Matcher,9,6,45
+Public Class,org.apache.xerces.impl.xs.models.XSCMBinOp,3,6,16
+Public Class,org.apache.xerces.util.AugmentationsImpl,4,6,0
+Public Class,org.apache.xerces.util.DOMEntityResolverWrapper,11,6,72
+Public Class,org.apache.xerces.util.DOMInputSource,4,6,33
+Public Class,org.apache.xerces.util.DefaultErrorHandler,6,6,66
+Public Class,org.apache.xml.serialize.EncodingInfo,12,6,72
+Public Class,xni.parser.PSVIConfiguration,4,6,66
+Public Interface,org.apache.wml.WMLPElement,1,6,0
+Public Interface,org.apache.wml.WMLTemplateElement,1,6,0
+Public Interface,org.apache.xerces.dom3.as.CharacterDataEditAS,1,6,0
+Public Interface,org.apache.xerces.xni.grammars.XMLGrammarPool,3,6,0
+Public Interface,org.apache.xerces.xni.grammars.XMLSchemaDescription,3,6,100
+Public Interface,org.apache.xerces.xs.datatypes.XSDecimal,3,6,0
+Public Interface,org.apache.xml.serialize.Serializer,7,6,0
+Public Static Class,org.apache.xerces.impl.xpath.XPath.NodeTest,2,6,58
+Public Static Class,org.apache.xerces.parsers.CachingParserPool.ShadowedGrammarPool,3,6,33
+Static Class,org.apache.xerces.impl.xpath.regex.Token.ModifierToken,2,6,62
+Abstract Class,org.apache.xerces.jaxp.validation.AbstractXMLSchema,7,5,40
+Class,org.apache.xerces.jaxp.validation.DraconianErrorHandler,2,5,80
+Private Class,org.apache.xerces.xpointer.XPointerHandler.Scanner,8,5,68
+Private Static Class,org.apache.xerces.impl.dv.xs.QNameDV.XQName,2,5,0
+Private Static Class,org.apache.xerces.impl.xpath.XPath.Scanner,8,5,78
+Private Static Class,org.apache.xerces.jaxp.JAXPValidatorComponent.DraconianErrorHandler,2,5,80
+Protected Class,org.apache.xerces.impl.XMLDocumentFragmentScannerImpl.FragmentContentDispatcher,18,5,0
+Protected Class,org.apache.xerces.impl.XMLDocumentScannerImpl.ContentDispatcher,17,5,0
+Protected Class,org.apache.xerces.impl.xs.identity.Field.Matcher,13,5,50
+Public Abstract Class,org.apache.xerces.impl.dv.DTDDVFactory,6,5,80
+Public Class,dom.Counter,18,5,67
+Public Class,dom.GetElementsByTagName,18,5,69
+Public Class,dom.traversal.NameNodeFilter,2,5,40
+Public Class,org.apache.html.dom.HTMLBaseElementImpl,2,5,100
+Public Class,org.apache.html.dom.HTMLFrameSetElementImpl,2,5,100
+Public Class,org.apache.html.dom.HTMLLIElementImpl,2,5,100
+Public Class,org.apache.html.dom.HTMLLabelElementImpl,2,5,100
+Public Class,org.apache.html.dom.HTMLLegendElementImpl,2,5,100
+Public Class,org.apache.html.dom.HTMLMapElementImpl,4,5,80
+Public Class,org.apache.html.dom.HTMLModElementImpl,2,5,100
+Public Class,org.apache.html.dom.HTMLOptGroupElementImpl,2,5,100
+Public Class,org.apache.html.dom.HTMLUListElementImpl,2,5,100
+Public Class,org.apache.wml.dom.WMLHeadElementImpl,2,5,100
+Public Class,org.apache.wml.dom.WMLNoopElementImpl,2,5,100
+Public Class,org.apache.wml.dom.WMLPrevElementImpl,2,5,100
+Public Class,org.apache.wml.dom.WMLRefreshElementImpl,2,5,100
+Public Class,org.apache.wml.dom.WMLTrElementImpl,2,5,100
+Public Class,org.apache.xerces.dom.DOMMessageFormatter,8,5,65
+Public Class,org.apache.xerces.dom.DeepNodeListImpl,6,5,56
+Public Class,org.apache.xerces.dom.DocumentFragmentImpl,4,5,100
+Public Class,org.apache.xerces.dom.ElementDefinitionImpl,4,5,66
+Public Class,org.apache.xerces.impl.dtd.models.CMUniOp,3,5,0
+Public Class,org.apache.xerces.impl.dv.xs.DecimalDV,7,5,0
+Public Class,org.apache.xerces.impl.dv.xs.DoubleDV,7,5,0
+Public Class,org.apache.xerces.impl.io.MalformedByteSequenceException,3,5,62
+Public Class,org.apache.xerces.impl.xs.XSGrammarBucket,5,5,19
+Public Class,org.apache.xerces.impl.xs.identity.Field,8,5,40
+Public Class,org.apache.xerces.impl.xs.identity.Selector,7,5,60
+Public Class,org.apache.xerces.impl.xs.models.XSCMUniOp,3,5,0
+Public Class,org.apache.xerces.impl.xs.models.XSEmptyCM,4,5,80
+Public Class,org.apache.xerces.impl.xs.util.ShortListImpl,1,5,9
+Public Class,org.apache.xerces.impl.xs.util.StringListImpl,2,5,44
+Public Class,org.apache.xerces.impl.xs.util.XInt,2,5,0
+Public Class,org.apache.xerces.impl.xs.util.XSNamedMap4Types,4,5,19
+Public Class,org.apache.xerces.util.EntityResolverWrapper,11,5,40
+Public Class,org.apache.xerces.util.SecurityManager,0,5,60
+Public Class,org.apache.xerces.util.ShadowedSymbolTable,1,5,0
+Public Class,org.apache.xerces.xinclude.XIncludeNamespaceSupport,2,5,40
+Public Class,org.apache.xml.serialize.XHTMLSerializer,4,5,0
+Public Class,socket.io.WrappedInputStream,2,5,26
+Public Class,ui.DOMTree,3,5,100
+Public Class,xni.parser.CSVConfiguration,18,5,80
+Public Interface,org.apache.xerces.dom3.as.NodeEditAS,2,5,100
+Public Interface,org.apache.xerces.impl.xs.identity.FieldActivator,4,5,0
+Public Interface,org.apache.xerces.impl.xs.models.XSCMValidator,4,5,100
+Public Interface,org.apache.xerces.xni.Augmentations,2,5,0
+Public Interface,org.apache.xerces.xs.XSFacet,3,5,0
+Public Interface,org.apache.xerces.xs.XSIDCDefinition,3,5,100
+Public Interface,org.apache.xerces.xs.XSLoader,6,5,0
+Public Interface,org.apache.xerces.xs.XSParticle,2,5,0
+Public Interface,org.apache.xerces.xs.XSWildcard,3,5,100
+Static Class,org.apache.xerces.dom.DeferredDocumentImpl.IntVector,1,5,40
+Static Class,org.apache.xerces.impl.xpath.regex.RegularExpression.Context,3,5,66
+Static Class,org.apache.xerces.impl.xpath.regex.Token.ParenToken,1,5,60
+Static Class,org.apache.xerces.impl.xpath.regex.Token.UnionToken,5,5,60
+Static Class,org.apache.xerces.impl.xs.SchemaNamespaceSupport.SchemaRootContext,10,5,66
+Static Class,org.apache.xerces.impl.xs.XMLSchemaLoader.LocationArray,3,5,9
+Class,org.apache.html.dom.CollectionIndex,0,4,0
+Class,org.apache.xerces.impl.xs.traversers.XSDWildcardTraverser,15,4,0
+Class,org.apache.xerces.jaxp.validation.XMLSchema,1,4,50
+Class,org.apache.xerces.util.XMLErrorCode,1,4,0
+Class,xni.PSVIWriter.ElementState,1,4,37
+Private Class,org.apache.xerces.xpointer.ElementSchemePointer.Scanner,7,4,63
+Private Static Class,org.apache.xerces.impl.dv.xs.Base64BinaryDV.XBase64,2,4,0
+Private Static Class,org.apache.xerces.impl.dv.xs.HexBinaryDV.XHex,2,4,0
+Private Static Class,org.apache.xerces.impl.xs.SchemaGrammar.BuiltinAttrDecl,5,4,0
+Protected Class,org.apache.xerces.impl.xs.XMLSchemaValidator.LocalIDKey,1,4,25
+Protected Class,org.apache.xerces.util.NamespaceSupport.Prefixes,4,4,33
+Protected Static Class,org.apache.xerces.impl.XMLDocumentFragmentScannerImpl.ElementStack,2,4,25
+Protected Static Class,org.apache.xerces.impl.xs.traversers.XSDAbstractParticleTraverser.ParticleArray,2,4,16
+Public Abstract Class,org.apache.xerces.util.ErrorHandlerProxy,4,4,0
+Public Class,org.apache.xerces.dom.ASDOMImplementationImpl,8,4,75
+Public Class,org.apache.xerces.dom.DOMImplementationListImpl,3,4,0
+Public Class,org.apache.xerces.dom.DeferredAttrImpl,1,4,50
+Public Class,org.apache.xerces.dom.DeferredAttrNSImpl,2,4,50
+Public Class,org.apache.xerces.dom.DeferredDocumentTypeImpl,7,4,50
+Public Class,org.apache.xerces.dom.DeferredElementDefinitionImpl,4,4,50
+Public Class,org.apache.xerces.dom.DeferredElementImpl,3,4,50
+Public Class,org.apache.xerces.dom.DeferredElementNSImpl,5,4,50
+Public Class,org.apache.xerces.dom.DeferredEntityImpl,1,4,50
+Public Class,org.apache.xerces.dom.DeferredEntityReferenceImpl,1,4,50
+Public Class,org.apache.xerces.impl.XMLVersionDetector,15,4,61
+Public Class,org.apache.xerces.impl.dv.DatatypeException,5,4,50
+Public Class,org.apache.xerces.impl.dv.ValidatedInfo,4,4,66
+Public Class,org.apache.xerces.impl.dv.util.ByteListImpl,2,4,50
+Public Class,org.apache.xerces.impl.dv.xs.DateDV,10,4,0
+Public Class,org.apache.xerces.impl.dv.xs.DayDV,10,4,75
+Public Class,org.apache.xerces.impl.dv.xs.FloatDV,7,4,0
+Public Class,org.apache.xerces.impl.dv.xs.MonthDV,10,4,0
+Public Class,org.apache.xerces.impl.dv.xs.MonthDayDV,10,4,75
+Public Class,org.apache.xerces.impl.dv.xs.TimeDV,11,4,0
+Public Class,org.apache.xerces.impl.dv.xs.YearDV,10,4,0
+Public Class,org.apache.xerces.impl.dv.xs.YearMonthDV,10,4,0
+Public Class,org.apache.xerces.impl.xs.XSImplementationImpl,7,4,75
+Public Class,org.apache.xerces.impl.xs.util.NSItemListImpl,2,4,33
+Public Class,org.apache.xerces.parsers.SAXParser,6,4,75
+Public Class,org.apache.xerces.parsers.SecurityConfiguration,5,4,75
+Public Class,org.apache.xerces.parsers.XMLDocumentParser,5,4,0
+Public Class,org.apache.xerces.xni.XNIException,1,4,62
+Public Class,org.apache.xerces.xni.parser.XMLConfigurationException,1,4,70
+Public Class,simpletype.DatatypeInterfaceUsage,21,4,50
+Public Class,ui.DOMParserSaveEncoding,5,4,50
+Public Class,xni.UpperCaseFilter,5,4,75
+Public Interface,org.apache.wml.WMLAccessElement,1,4,0
+Public Interface,org.apache.wml.WMLAnchorElement,1,4,0
+Public Interface,org.apache.wml.WMLElement,1,4,0
+Public Interface,org.apache.wml.WMLFieldsetElement,1,4,0
+Public Interface,org.apache.wml.WMLOptgroupElement,1,4,0
+Public Interface,org.apache.wml.WMLPostfieldElement,1,4,0
+Public Interface,org.apache.wml.WMLSetvarElement,1,4,0
+Public Interface,org.apache.wml.WMLTimerElement,1,4,0
+Public Interface,org.apache.xerces.dom3.as.ASNotationDeclaration,1,4,0
+Public Interface,org.apache.xerces.dom3.as.DOMASBuilder,5,4,0
+Public Interface,org.apache.xerces.xpointer.XPointerProcessor,5,4,100
+Public Interface,org.apache.xerces.xs.ElementPSVI,3,4,0
+Public Interface,org.apache.xerces.xs.XSAttributeGroupDefinition,3,4,0
+Public Interface,org.apache.xerces.xs.XSModelGroup,2,4,100
+Public Interface,org.apache.xerces.xs.XSNotationDeclaration,3,4,0
+Public Interface,org.apache.xerces.xs.XSObject,2,4,0
+Public Static Class,org.apache.xerces.impl.xpath.XPath.Axis,1,4,65
+Public Static Class,org.apache.xerces.impl.xpath.XPath.LocationPath,4,4,25
+Public Static Class,org.apache.xerces.impl.xpath.XPath.Step,3,4,25
+Static Class,org.apache.xerces.impl.xpath.regex.Op.UnionOp,1,4,0
+Static Class,org.apache.xerces.impl.xpath.regex.Token.CharToken,3,4,50
+Static Class,org.apache.xerces.impl.xpath.regex.Token.ConcatToken,1,4,50
+Static Class,org.apache.xerces.impl.xpath.regex.Token.ConditionToken,2,4,44
+Static Class,org.apache.xerces.impl.xpath.regex.Token.StringToken,2,4,50
+Abstract Class,org.apache.xerces.impl.xs.traversers.Container,4,3,88
+Class,jaxp.InlineSchemaValidator.getPrefixes.(Anon_1),3,3,33
+Class,jaxp.InlineSchemaValidator.getPrefixes.(Anon_2),3,3,33
+Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl.getActualEnumeration.(Anon_2),2,3,0
+Class,org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl.getEnumerationItemTypeList.(Anon_3),2,3,0
+Class,org.apache.xerces.impl.xs.traversers.LargeContainer,3,3,0
+Class,org.apache.xerces.impl.xs.traversers.SmallContainer,2,3,0
+Class,org.apache.xerces.impl.xs.traversers.XSDAttributeGroupTraverser,14,3,0
+Class,org.apache.xerces.impl.xs.traversers.XSDGroupTraverser,19,3,0
+Class,org.apache.xerces.impl.xs.util.StringListImpl.(Anon_1),1,3,0
+Class,org.apache.xerces.impl.xs.util.XSNamedMapImpl.(Anon_1),2,3,0
+Class,org.apache.xerces.jaxp.SchemaValidatorConfiguration,8,3,51
+Class,org.apache.xerces.jaxp.validation.StreamValidatorHelper,22,3,43
+Class,org.apache.xerces.jaxp.validation.Util,7,3,0
+Class,org.apache.xerces.jaxp.validation.WeakReferenceXMLSchema,4,3,66
+Class,org.apache.xerces.util.AugmentationsImpl.SmallContainer.SmallContainerKeyEnumeration,2,3,16
+Class,socket.KeepSocketOpen.Client.InputStreamReporter,4,3,33
+Private Static Class,org.apache.xerces.impl.xs.traversers.XSDHandler.XSDKey,2,3,22
+Protected Class,org.apache.xerces.impl.xs.XMLSchemaValidator.KeyRefValueStore,7,3,33
+Protected Static Class,org.apache.xerces.util.SymbolHash.Entry,0,3,0
+Protected Static Class,org.apache.xerces.xinclude.XIncludeHandler.Notation,2,3,77
+Protected Static Class,org.apache.xerces.xinclude.XIncludeHandler.UnparsedEntity,2,3,76
+Public Abstract Class,org.apache.xerces.parsers.XMLParser,6,3,75
+Public Class,org.apache.html.dom.HTMLBRElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLDListElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLDOMImplementationImpl,5,3,66
+Public Class,org.apache.html.dom.HTMLDirectoryElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLDivElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLHeadElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLHeadingElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLHtmlElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLIsIndexElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLMenuElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLParagraphElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLPreElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLQuoteElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLTableCaptionElementImpl,2,3,100
+Public Class,org.apache.html.dom.HTMLTitleElementImpl,6,3,100
+Public Class,org.apache.xerces.dom.CDATASectionImpl,2,3,100
+Public Class,org.apache.xerces.dom.CommentImpl,2,3,100
+Public Class,org.apache.xerces.dom.DOMImplementationImpl,10,3,66
+Public Class,org.apache.xerces.dom.DOMImplementationSourceImpl,8,3,0
+Public Class,org.apache.xerces.dom.DeferredCDATASectionImpl,1,3,50
+Public Class,org.apache.xerces.dom.DeferredCommentImpl,1,3,50
+Public Class,org.apache.xerces.dom.DeferredNotationImpl,1,3,50
+Public Class,org.apache.xerces.dom.DeferredProcessingInstructionImpl,1,3,50
+Public Class,org.apache.xerces.dom.DeferredTextImpl,1,3,50
+Public Class,org.apache.xerces.dom.PSVIDOMImplementationImpl,11,3,66
+Public Class,org.apache.xerces.impl.dtd.XML11DTDValidator,7,3,66
+Public Class,org.apache.xerces.impl.dtd.XMLEntityDecl,1,3,33
+Public Class,org.apache.xerces.impl.dtd.XMLSimpleType,3,3,60
+Public Class,org.apache.xerces.impl.dv.dtd.DTDDVFactoryImpl,10,3,0
+Public Class,org.apache.xerces.impl.dv.xs.AnyURIDV,9,3,81
+Public Class,org.apache.xerces.impl.dv.xs.Base64BinaryDV,8,3,0
+Public Class,org.apache.xerces.impl.dv.xs.DateTimeDV,11,3,0
+Public Class,org.apache.xerces.impl.dv.xs.EntityDV,6,3,0
+Public Class,org.apache.xerces.impl.dv.xs.FullDVFactory,7,3,50
+Public Class,org.apache.xerces.impl.dv.xs.HexBinaryDV,8,3,0
+Public Class,org.apache.xerces.impl.dv.xs.IDDV,6,3,0
+Public Class,org.apache.xerces.impl.dv.xs.IDREFDV,6,3,0
+Public Class,org.apache.xerces.impl.dv.xs.ListDV,6,3,0
+Public Class,org.apache.xerces.impl.dv.xs.QNameDV,8,3,66
+Public Class,org.apache.xerces.impl.xpath.XPathException,1,3,50
+Public Class,org.apache.xerces.impl.xs.XMLSchemaException,1,3,55
+Public Class,org.apache.xerces.impl.xs.identity.KeyRef,2,3,0
+Public Class,ui.DefaultImages,2,3,0
+Public Class,ui.TreeViewer,7,3,0
+Public Class,xni.XMLGrammarBuilder,17,3,60
+Public Class,xni.parser.NonValidatingParserConfiguration,3,3,33
+Public Class,xs.QueryXS,16,3,100
+Public Interface,dom.ParserWrapper,6,3,0
+Public Interface,org.apache.xerces.dom3.as.DOMImplementationAS,3,3,0
+Public Interface,org.apache.xerces.jaxp.validation.XSGrammarPoolContainer,3,3,0
+Public Interface,org.apache.xerces.xni.parser.XMLDTDScanner,3,3,0
+Public Interface,org.apache.xerces.xni.parser.XMLErrorHandler,3,3,0
+Public Interface,org.apache.xerces.xni.parser.XMLPullParserConfiguration,4,3,0
+Public Interface,org.apache.xerces.xs.PSVIProvider,3,3,0
+Public Interface,org.apache.xerces.xs.ShortList,1,3,0
+Public Interface,org.apache.xerces.xs.StringList,1,3,0
+Public Interface,org.apache.xerces.xs.XSModelGroupDefinition,3,3,0
+Public Interface,org.apache.xerces.xs.XSMultiValueFacet,2,3,0
+Public Interface,org.apache.xerces.xs.XSNamedMap,2,3,0
+Public Interface,org.apache.xerces.xs.datatypes.ByteList,1,3,0
+Public Interface,org.apache.xerces.xs.datatypes.ObjectList,0,3,0
+Public Interface,org.apache.xml.serialize.DOMSerializer,4,3,0
+Public Static Class,org.apache.xerces.impl.xs.identity.Field.XPath,9,3,0
+Public Static Class,socket.KeepSocketOpen.Server,10,3,33
+Static Class,org.apache.xerces.impl.Constants.ArrayEnumeration,1,3,16
+Static Class,org.apache.xerces.impl.xpath.regex.Op.ChildOp,0,3,33
+Static Class,org.apache.xerces.impl.xpath.regex.Op.ModifierOp,0,3,33
+Static Class,org.apache.xerces.jaxp.validation.XMLSchemaFactory.XMLGrammarPoolImplExtension,0,3,0
+Static Class,socket.DelayedInput.DelayedInputStream,8,3,66
+Class,org.apache.xerces.dom.CharacterDataImpl.(Anon_1),1,2,0
+Class,org.apache.xerces.dom.ParentNode.getChildNodesUnoptimized.(Anon_1),2,2,0
+Class,org.apache.xerces.impl.dv.xs.AnyAtomicDV,3,2,0
+Class,org.apache.xerces.impl.dv.xs.DayTimeDurationDV,10,2,0
+Class,org.apache.xerces.impl.dv.xs.YearMonthDurationDV,9,2,0
+Class,org.apache.xerces.impl.xs.traversers.XSAnnotationInfo,3,2,19
+Class,org.apache.xerces.impl.xs.traversers.XSDAbstractIDConstraintTraverser,13,2,0
+Class,org.apache.xerces.impl.xs.traversers.XSDKeyrefTraverser,13,2,0
+Class,org.apache.xerces.impl.xs.traversers.XSDNotationTraverser,12,2,0
+Class,org.apache.xerces.impl.xs.traversers.XSDUniqueOrKeyTraverser,12,2,0
+Class,org.apache.xerces.impl.xs.util.XSObjectListImpl.(Anon_1),1,2,0
+Class,org.apache.xerces.parsers.AbstractSAXParser.parse.(catch_24).(Anon_1),2,2,0
+Class,org.apache.xerces.parsers.AbstractSAXParser.parse.(catch_26).(Anon_2),2,2,0
+Class,org.apache.xerces.util.JAXPNamespaceContextWrapper.getAllPrefixes.(Anon_1),0,2,0
+Class,ui.TreeView.createUI.(Anon_1),2,2,100
+Class,ui.TreeView.createUI.(Anon_2),2,2,100
+Class,ui.TreeView.createUI.(Anon_4),2,2,100
+Private Class,org.apache.xerces.impl.xs.traversers.XSDComplexTypeTraverser.ComplexTypeRecoverableError,2,2,66
+Private Static Class,org.apache.xerces.impl.xs.SubstitutionGroupHandler.OneSubGroup,1,2,50
+Private Static Class,org.apache.xerces.jaxp.datatype.DurationImpl.DurationStream,3,2,50
+Private Static Class,org.apache.xerces.util.DOMErrorHandlerWrapper.DOMErrorTypeMap,4,2,50
+Protected Class,org.apache.xerces.impl.XML11NSDocumentScannerImpl.NS11ContentDispatcher,9,2,0
+Protected Class,org.apache.xerces.impl.XMLNSDocumentScannerImpl.NSContentDispatcher,9,2,0
+Protected Class,org.apache.xerces.impl.xs.XMLSchemaValidator.KeyValueStore,4,2,0
+Protected Class,org.apache.xerces.impl.xs.XMLSchemaValidator.UniqueValueStore,4,2,0
+Protected Static Class,org.apache.xerces.impl.dtd.DTDGrammar.QNameHashtable,2,2,16
+Protected Static Class,org.apache.xerces.util.SymbolTable.Entry,2,2,0
+Protected Static Class,org.apache.xerces.util.XMLGrammarPoolImpl.Entry,2,2,12
+Public Class,org.apache.html.dom.NameNodeListImpl,4,2,0
+Public Class,org.apache.wml.dom.WMLDOMImplementationImpl,9,2,50
+Public Class,org.apache.wml.dom.WMLDocumentImpl,49,2,66
+Public Class,org.apache.xerces.dom.DOMXSImplementationSourceImpl,7,2,0
+Public Class,org.apache.xerces.impl.Version,3,2,50
+Public Class,org.apache.xerces.impl.XML11NamespaceBinder,1,2,0
+Public Class,org.apache.xerces.impl.dtd.XML11NSDTDValidator,10,2,50
+Public Class,org.apache.xerces.impl.dtd.XMLAttributeDecl,2,2,0
+Public Class,org.apache.xerces.impl.dtd.XMLElementDecl,3,2,50
+Public Class,org.apache.xerces.impl.dtd.XMLNSDTDValidator,10,2,50
+Public Class,org.apache.xerces.impl.dtd.XMLNotationDecl,1,2,0
+Public Class,org.apache.xerces.impl.dtd.models.MixedContentModel,3,2,0
+Public Class,org.apache.xerces.impl.dtd.models.SimpleContentModel,3,2,40
+Public Class,org.apache.xerces.impl.dv.DVFactoryException,1,2,100
+Public Class,org.apache.xerces.impl.dv.dtd.ENTITYDatatypeValidator,3,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.IDDatatypeValidator,4,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.IDREFDatatypeValidator,4,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.ListDatatypeValidator,4,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.NMTOKENDatatypeValidator,4,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.NOTATIONDatatypeValidator,3,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.StringDatatypeValidator,3,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.XML11DTDDVFactoryImpl,8,2,50
+Public Class,org.apache.xerces.impl.dv.dtd.XML11IDDatatypeValidator,4,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.XML11IDREFDatatypeValidator,4,2,0
+Public Class,org.apache.xerces.impl.dv.dtd.XML11NMTOKENDatatypeValidator,4,2,0
+Public Class,org.apache.xerces.impl.dv.util.HexBin,1,2,62
+Public Class,org.apache.xerces.impl.dv.xs.AnySimpleDV,3,2,0
+Public Class,org.apache.xerces.impl.dv.xs.BooleanDV,6,2,50
+Public Class,org.apache.xerces.impl.dv.xs.SchemaDateTimeException,1,2,100
+Public Class,org.apache.xerces.impl.dv.xs.StringDV,5,2,0
+Public Class,org.apache.xerces.impl.dv.xs.UnionDV,5,2,0
+Public Class,org.apache.xerces.impl.xpath.regex.ParseException,1,2,50
+Public Class,org.apache.xerces.xinclude.XInclude11TextReader,4,2,0
+Public Interface,org.apache.wml.WMLBElement,1,2,0
+Public Interface,org.apache.wml.WMLBigElement,1,2,0
+Public Interface,org.apache.wml.WMLBrElement,1,2,0
+Public Interface,org.apache.wml.WMLEmElement,1,2,0
+Public Interface,org.apache.wml.WMLIElement,1,2,0
+Public Interface,org.apache.wml.WMLOneventElement,1,2,0
+Public Interface,org.apache.wml.WMLSmallElement,1,2,0
+Public Interface,org.apache.wml.WMLStrongElement,1,2,0
+Public Interface,org.apache.wml.WMLTdElement,1,2,0
+Public Interface,org.apache.wml.WMLUElement,1,2,0
+Public Interface,org.apache.wml.WMLWmlElement,1,2,0
+Public Interface,org.apache.xerces.dom3.as.ASObjectList,1,2,0
+Public Interface,org.apache.xerces.dom3.as.DocumentEditAS,0,2,0
+Public Interface,org.apache.xerces.impl.XMLEntityDescription,1,2,0
+Public Interface,org.apache.xerces.impl.XMLEntityHandler,4,2,0
+Public Interface,org.apache.xerces.impl.dtd.XMLDTDValidatorFilter,0,2,0
+Public Interface,org.apache.xerces.impl.validation.EntityState,1,2,0
+Public Interface,org.apache.xerces.impl.xs.identity.ValueStore,3,2,0
+Public Interface,org.apache.xerces.xni.grammars.XSGrammar,1,2,0
+Public Interface,org.apache.xerces.xni.parser.XMLComponentManager,2,2,0
+Public Interface,org.apache.xerces.xni.parser.XMLDTDContentModelSource,1,2,0
+Public Interface,org.apache.xerces.xni.parser.XMLDTDSource,1,2,0
+Public Interface,org.apache.xerces.xni.parser.XMLDocumentScanner,3,2,0
+Public Interface,org.apache.xerces.xni.parser.XMLDocumentSource,1,2,0
+Public Interface,org.apache.xerces.xs.LSInputList,1,2,0
+Public Interface,org.apache.xerces.xs.XSAnnotation,1,2,100
+Public Interface,org.apache.xerces.xs.XSImplementation,3,2,0
+Public Interface,org.apache.xerces.xs.XSNamespaceItemList,1,2,0
+Public Interface,org.apache.xerces.xs.XSObjectList,1,2,0
+Public Interface,org.apache.xerces.xs.datatypes.XSQName,2,2,0
+Public Static Class,org.apache.xerces.impl.xs.identity.Selector.XPath,8,2,0
+Public Static Class,org.apache.xerces.util.URI.MalformedURIException,1,2,100
+Static Class,org.apache.html.dom.ObjectFactory.ConfigurationError,2,2,50
+Static Class,org.apache.xerces.dom.ObjectFactory.ConfigurationError,2,2,50
+Static Class,org.apache.xerces.impl.dv.ObjectFactory.ConfigurationError,2,2,50
+Static Class,org.apache.xerces.impl.xpath.regex.Op.CharOp,0,2,0
+Static Class,org.apache.xerces.impl.xpath.regex.Op.RangeOp,2,2,0
+Static Class,org.apache.xerces.impl.xpath.regex.Op.StringOp,1,2,0
+Static Class,org.apache.xerces.jaxp.validation.SoftReferenceGrammarPool.Entry,4,2,25
+Static Class,org.apache.xerces.parsers.ObjectFactory.ConfigurationError,2,2,50
+Static Class,org.apache.xerces.xinclude.ObjectFactory.ConfigurationError,2,2,50
+Static Class,org.apache.xml.serialize.ObjectFactory.ConfigurationError,2,2,50
+Static Class,sax.helpers.AttributesImpl.ListNode,1,2,41
+Static Class,xni.ObjectFactory.ConfigurationError,2,2,50
+Class,dom.traversal.IteratorView.IteratorView.(Anon_2),6,1,0
+Class,dom.traversal.IteratorView.IteratorView.(Anon_3),1,1,100
+Class,dom.traversal.IteratorView.IteratorView.(Anon_4),1,1,0
+Class,dom.traversal.IteratorView.main.(Anon_1),2,1,0
+Class,dom.traversal.TreeWalkerView.TreeWalkerView.(Anon_2),6,1,0
+Class,dom.traversal.TreeWalkerView.TreeWalkerView.(Anon_3),1,1,100
+Class,dom.traversal.TreeWalkerView.TreeWalkerView.(Anon_4),1,1,0
+Class,dom.traversal.TreeWalkerView.main.(Anon_1),2,1,0
+Class,org.apache.html.dom.SecuritySupport.getContextClassLoader.(Anon_1),3,1,0
+Class,org.apache.html.dom.SecuritySupport.getFileExists.(Anon_7),3,1,0
+Class,org.apache.html.dom.SecuritySupport.getFileInputStream.(Anon_5),3,1,0
+Class,org.apache.html.dom.SecuritySupport.getLastModified.(Anon_8),3,1,0
+Class,org.apache.html.dom.SecuritySupport.getParentClassLoader.(Anon_3),3,1,0
+Class,org.apache.html.dom.SecuritySupport.getResourceAsStream.(Anon_6),3,1,0
+Class,org.apache.html.dom.SecuritySupport.getSystemClassLoader.(Anon_2),2,1,0
+Class,org.apache.html.dom.SecuritySupport.getSystemProperty.(Anon_4),2,1,0
+Class,org.apache.xerces.dom.DocumentImpl.LEntry,2,1,25
+Class,org.apache.xerces.dom.LCount,2,1,80
+Class,org.apache.xerces.dom.NodeListCache,2,1,83
+Class,org.apache.xerces.dom.ParentNode.UserDataRecord,1,1,33
+Class,org.apache.xerces.dom.SecuritySupport.getContextClassLoader.(Anon_1),3,1,0
+Class,org.apache.xerces.dom.SecuritySupport.getFileExists.(Anon_7),3,1,0
+Class,org.apache.xerces.dom.SecuritySupport.getFileInputStream.(Anon_5),3,1,0
+Class,org.apache.xerces.dom.SecuritySupport.getLastModified.(Anon_8),3,1,0
+Class,org.apache.xerces.dom.SecuritySupport.getParentClassLoader.(Anon_3),3,1,0
+Class,org.apache.xerces.dom.SecuritySupport.getResourceAsStream.(Anon_6),3,1,0
+Class,org.apache.xerces.dom.SecuritySupport.getSystemClassLoader.(Anon_2),2,1,0
+Class,org.apache.xerces.dom.SecuritySupport.getSystemProperty.(Anon_4),2,1,0
+Class,org.apache.xerces.impl.XMLErrorReporter.getSAXErrorHandler.(Anon_1),2,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getContextClassLoader.(Anon_1),3,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getFileExists.(Anon_7),3,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getFileInputStream.(Anon_5),3,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getLastModified.(Anon_8),3,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getParentClassLoader.(Anon_3),3,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getResourceAsStream.(Anon_6),3,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getSystemClassLoader.(Anon_2),2,1,0
+Class,org.apache.xerces.impl.dv.SecuritySupport.getSystemProperty.(Anon_4),2,1,0
+Class,org.apache.xerces.impl.xpath.XPath.parseExpression.(Anon_1),3,1,0
+Class,org.apache.xerces.impl.xs.traversers.OneAttr,1,1,0
+Class,org.apache.xerces.jaxp.DefaultValidationErrorHandler,5,1,0
+Class,org.apache.xerces.jaxp.JAXPValidatorComponent.JAXPValidatorComponent.(Anon_1),5,1,0
+Class,org.apache.xerces.jaxp.JAXPValidatorComponent.JAXPValidatorComponent.(Anon_2),9,1,0
+Class,org.apache.xerces.jaxp.validation.JAXPValidationMessageFormatter,8,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getContextClassLoader.(Anon_1),3,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getFileExists.(Anon_7),3,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getFileInputStream.(Anon_5),3,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getLastModified.(Anon_8),3,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getParentClassLoader.(Anon_3),3,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getResourceAsStream.(Anon_6),3,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getSystemClassLoader.(Anon_2),2,1,0
+Class,org.apache.xerces.parsers.SecuritySupport.getSystemProperty.(Anon_4),2,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getContextClassLoader.(Anon_1),3,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getFileExists.(Anon_7),3,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getFileInputStream.(Anon_5),3,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getLastModified.(Anon_8),3,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getParentClassLoader.(Anon_3),3,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getResourceAsStream.(Anon_6),3,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getSystemClassLoader.(Anon_2),2,1,0
+Class,org.apache.xerces.xinclude.SecuritySupport.getSystemProperty.(Anon_4),2,1,0
+Class,org.apache.xerces.xpointer.ElementSchemePointer.parseXPointer.(Anon_1),3,1,0
+Class,org.apache.xerces.xpointer.XPointerHandler.parseXPointer.(Anon_1),3,1,0
+Class,org.apache.xerces.xpointer.XPointerMessageFormatter,7,1,33
+Class,org.apache.xml.serialize.SecuritySupport.getContextClassLoader.(Anon_1),3,1,0
+Class,org.apache.xml.serialize.SecuritySupport.getFileExists.(Anon_7),3,1,0
+Class,org.apache.xml.serialize.SecuritySupport.getFileInputStream.(Anon_5),3,1,0
+Class,org.apache.xml.serialize.SecuritySupport.getLastModified.(Anon_8),3,1,0
+Class,org.apache.xml.serialize.SecuritySupport.getParentClassLoader.(Anon_3),3,1,0
+Class,org.apache.xml.serialize.SecuritySupport.getResourceAsStream.(Anon_6),3,1,0
+Class,org.apache.xml.serialize.SecuritySupport.getSystemClassLoader.(Anon_2),2,1,0
+Class,org.apache.xml.serialize.SecuritySupport.getSystemProperty.(Anon_4),2,1,0
+Class,ui.TreeView.XMLTreeCellRenderer,11,1,100
+Class,ui.TreeView.createUI.(Anon_3),4,1,0
+Class,ui.TreeView.main.(for_loop_5).(Anon_5),2,1,0
+Class,xni.SecuritySupport.getContextClassLoader.(Anon_1),3,1,0
+Class,xni.SecuritySupport.getFileExists.(Anon_7),3,1,0
+Class,xni.SecuritySupport.getFileInputStream.(Anon_5),3,1,0
+Class,xni.SecuritySupport.getLastModified.(Anon_8),3,1,0
+Class,xni.SecuritySupport.getParentClassLoader.(Anon_3),3,1,0
+Class,xni.SecuritySupport.getResourceAsStream.(Anon_6),3,1,0
+Class,xni.SecuritySupport.getSystemClassLoader.(Anon_2),2,1,0
+Class,xni.SecuritySupport.getSystemProperty.(Anon_4),2,1,0
+Private Static Class,org.apache.xerces.impl.XMLEntityManager.CharacterBuffer,0,1,0
+Private Static Class,org.apache.xerces.impl.dtd.DTDGrammar.ChildrenList,1,1,100
+Protected Class,org.apache.xerces.impl.XMLDocumentScannerImpl.DTDDispatcher,16,1,0
+Protected Class,org.apache.xerces.impl.XMLDocumentScannerImpl.PrologDispatcher,12,1,0
+Protected Class,org.apache.xerces.impl.XMLDocumentScannerImpl.TrailingMiscDispatcher,10,1,0
+Protected Class,org.apache.xerces.impl.XMLDocumentScannerImpl.XMLDeclDispatcher,17,1,0
+Protected Interface,org.apache.xerces.impl.XMLDocumentFragmentScannerImpl.Dispatcher,2,1,0
+Public Abstract Class,org.apache.xerces.parsers.XMLGrammarParser,5,1,100
+Public Class,dom.DOMGenerate,14,1,0
+Public Class,jaxp.DatatypeAPIUsage,10,1,0
+Public Class,org.apache.html.dom.HTMLFieldSetElementImpl,2,1,100
+Public Class,org.apache.xerces.dom.DeferredDOMImplementationImpl,0,1,0
+Public Class,org.apache.xerces.dom.RangeExceptionImpl,1,1,100
+Public Class,org.apache.xerces.dom3.as.DOMASException,1,1,80
+Public Class,org.apache.xerces.impl.dv.InvalidDatatypeFacetException,1,1,100
+Public Class,org.apache.xerces.impl.dv.InvalidDatatypeValueException,1,1,100
+Public Class,org.apache.xerces.impl.dv.XSFacets,5,1,52
+Public Class,org.apache.xerces.impl.dv.xs.IntegerDV,5,1,0
+Public Class,org.apache.xerces.impl.msg.XMLMessageFormatter,8,1,50
+Public Class,org.apache.xerces.impl.xs.XSMessageFormatter,7,1,33
+Public Class,org.apache.xerces.impl.xs.identity.UniqueOrKey,1,1,0
+Public Class,org.apache.xerces.impl.xs.util.XIntPool,1,1,50
+Public Class,org.apache.xerces.impl.xs.util.XSGrammarPool,7,1,0
+Public Class,org.apache.xerces.util.DatatypeMessageFormatter,8,1,0
+Public Class,org.apache.xerces.util.SAXMessageFormatter,8,1,0
+Public Class,org.apache.xerces.util.XMLSymbols,1,1,100
+Public Class,org.apache.xerces.xinclude.XIncludeMessageFormatter,7,1,33
+Public Class,org.apache.xerces.xs.XSException,1,1,75
+Public Class,org.apache.xml.serialize.Encodings,6,1,16
+Public Class,socket.KeepSocketOpen,7,1,0
+Public Class,xni.parser.CSVParser,1,1,0
+Public Class,xni.parser.PSVIParser,1,1,0
+Public Interface,dom.ParserWrapper.DocumentInfo,1,1,0
+Public Interface,org.apache.xerces.dom.DeferredNode,0,1,100
+Public Interface,org.apache.xerces.dom3.as.ASDataType,0,1,100
+Public Interface,org.apache.xerces.dom3.as.DOMASWriter,3,1,0
+Public Interface,org.apache.xerces.impl.ExternalSubsetResolver,4,1,0
+Public Interface,org.apache.xerces.impl.RevalidationHandler,2,1,0
+Public Interface,org.apache.xerces.impl.dtd.XMLContentSpec.Provider,1,1,0
+Public Interface,org.apache.xerces.impl.dtd.models.ContentModelValidator,1,1,0
+Public Interface,org.apache.xerces.impl.dv.DatatypeValidator,3,1,0
+Public Interface,org.apache.xerces.util.MessageFormatter,3,1,0
+Public Interface,org.apache.xerces.xni.grammars.Grammar,1,1,0
+Public Interface,org.apache.xerces.xni.grammars.XMLDTDDescription,1,1,0
+Public Interface,org.apache.xerces.xni.grammars.XMLGrammarDescription,1,1,100
+Public Interface,org.apache.xerces.xni.parser.XMLEntityResolver,4,1,0
+Public Interface,org.apache.xerces.xs.AttributePSVI,1,1,0
+Public Interface,org.apache.xerces.xs.datatypes.XSDouble,0,1,0
+Public Interface,org.apache.xerces.xs.datatypes.XSFloat,0,1,0
+Public Interface,org.w3c.dom.html.HTMLDOMImplementation,2,1,0
+Static Class,org.apache.xerces.dom.CoreDOMImplementationImpl.RevalidationHandlerHolder,1,1,0
+Static Class,org.apache.xerces.dom.CoreDOMImplementationImpl.XMLDTDLoaderHolder,1,1,0
+Static Class,org.apache.xerces.impl.xpath.regex.Op.ConditionOp,0,1,0
+Static Class,org.apache.xerces.impl.xpath.regex.RegexParser.ReferencePosition,0,1,0
+Static Class,org.apache.xerces.impl.xpath.regex.Token.FixedStringContainer,1,1,100
+Static Class,org.apache.xerces.jaxp.validation.SoftReferenceGrammarPool.SoftGrammarReference,3,1,0
+Static Class,org.apache.xerces.util.DOMUtil.ThrowableMethods,4,1,100
+Static Class,org.apache.xml.serialize.DOMSerializerImpl.DocumentMethods,4,1,100
+Static Class,org.apache.xml.serialize.EncodingInfo.CharToByteConverterMethods,5,1,100
+Static Class,org.apache.xml.serialize.EncodingInfo.CharsetMethods,5,1,100
+Class,org.apache.xerces.dom.DeferredDocumentImpl.RefCount,0,0,0
+Class,org.apache.xerces.dom.DocumentImpl.EnclosingAttr,2,0,0
+Class,org.apache.xerces.impl.xs.traversers.XSDAbstractTraverser.FacetInfo,2,0,0
+Public Class,org.apache.xerces.impl.xs.SchemaSymbols,1,0,0
+Public Class,org.apache.xml.serialize.ElementState,2,0,0
+Public Class,org.apache.xml.serialize.LineSeparator,1,0,0
+Public Class,org.apache.xml.serialize.Method,1,0,0
+Public Interface,org.apache.html.dom.HTMLFormControl,0,0,0
+Public Interface,org.apache.wml.WMLDOMImplementation,0,0,0
+Public Interface,org.apache.wml.WMLDocument,0,0,0
+Public Interface,org.apache.wml.WMLHeadElement,0,0,0
+Public Interface,org.apache.wml.WMLNoopElement,0,0,0
+Public Interface,org.apache.wml.WMLPrevElement,0,0,0
+Public Interface,org.apache.wml.WMLRefreshElement,0,0,0
+Public Interface,org.apache.wml.WMLTrElement,0,0,0
+Public Interface,org.apache.xerces.jaxp.JAXPConstants,1,0,0
+Public Interface,org.apache.xerces.parsers.XML11Configurable,0,0,0
+Public Interface,org.apache.xerces.xni.parser.XMLDTDContentModelFilter,0,0,0
+Public Interface,org.apache.xerces.xni.parser.XMLDTDFilter,0,0,0
+Public Interface,org.apache.xerces.xni.parser.XMLDocumentFilter,0,0,0
+Public Interface,org.apache.xerces.xs.XSConstants,0,0,0
+Public Interface,org.apache.xerces.xs.XSTerm,0,0,0
+Public Static Class,org.apache.xml.serialize.OutputFormat.DTD,1,0,0
+Public Static Class,org.apache.xml.serialize.OutputFormat.Defaults,1,0,0
+Static Class,org.apache.xerces.util.XMLAttributesImpl.Attribute,4,0,0

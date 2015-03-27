@@ -1,0 +1,211 @@
+Kind,Name,CountClassCoupled,CountDeclMethod,PercentLackOfCohesion,DATE
+Class,com.jrefinery.chart.data.ArrayHolder,0,2,0,06/07/2002
+Class,com.jrefinery.chart.demo.JFreeChartDemo.JFreeChartDemo.(Anon_1),3,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.MultiShapesXYDemo.DemoRenderer,11,7,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_1),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_10),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_11),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_2),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_3),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_4),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_5),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_6),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_7),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_8),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.ThermometerDemo.jbInit.(Anon_9),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.TimerThread,5,2,0,06/07/2002
+Class,com.jrefinery.chart.demo.jdbc.swing.swingdemo.jbInit.(Anon_1),2,1,0,06/07/2002
+Class,com.jrefinery.chart.demo.jdbc.swing.swingdemo.setupGlassPane.(Anon_2),1,5,0,06/07/2002
+Class,com.jrefinery.chart.ui.LegendPropertyEditPanel,16,13,78,06/07/2002
+Class,com.jrefinery.chart.ui.NumberAxisPropertyEditPanel,21,13,72,06/07/2002
+Protected Class,com.jrefinery.chart.demo.jdbc.swing.swingdemo.RefreshChartDataThread,15,1,0,06/07/2002
+Public Abstract Class,com.jrefinery.chart.AbstractCategoryItemRenderer,8,9,77,06/07/2002
+Public Abstract Class,com.jrefinery.chart.AbstractTitle,11,23,93,06/07/2002
+Public Abstract Class,com.jrefinery.chart.AbstractXYItemRenderer,8,8,66,06/07/2002
+Public Abstract Class,com.jrefinery.chart.Axis,18,36,92,06/07/2002
+Public Abstract Class,com.jrefinery.chart.BarRenderer,6,6,85,06/07/2002
+Public Abstract Class,com.jrefinery.chart.CategoryAxis,5,2,0,06/07/2002
+Public Abstract Class,com.jrefinery.chart.CategoryPlot,21,36,91,06/07/2002
+Public Abstract Class,com.jrefinery.chart.DateAxis,12,21,91,06/07/2002
+Public Abstract Class,com.jrefinery.chart.Legend,9,8,85,06/07/2002
+Public Abstract Class,com.jrefinery.chart.LegendTitle,6,4,75,06/07/2002
+Public Abstract Class,com.jrefinery.chart.NumberAxis,14,21,89,06/07/2002
+Public Abstract Class,com.jrefinery.chart.Plot,25,46,94,06/07/2002
+Public Abstract Class,com.jrefinery.chart.TickUnit,1,4,25,06/07/2002
+Public Abstract Class,com.jrefinery.chart.ValueAxis,11,41,94,06/07/2002
+Public Abstract Class,com.jrefinery.chart.WindAxis,9,14,76,06/07/2002
+Public Class,com.jrefinery.chart.AreaCategoryItemRenderer,12,2,0,06/07/2002
+Public Class,com.jrefinery.chart.AreaXYItemRenderer,19,10,81,06/07/2002
+Public Class,com.jrefinery.chart.AxisNotCompatibleException,1,1,0,06/07/2002
+Public Class,com.jrefinery.chart.CandlestickRenderer,26,12,64,06/07/2002
+Public Class,com.jrefinery.chart.ChartFactory,41,20,0,06/07/2002
+Public Class,com.jrefinery.chart.ChartFrame,4,3,33,06/07/2002
+Public Class,com.jrefinery.chart.ChartMouseEvent,2,3,33,06/07/2002
+Public Class,com.jrefinery.chart.ChartPanel,47,46,93,06/07/2002
+Public Class,com.jrefinery.chart.ChartRenderingInfo,4,13,69,06/07/2002
+Public Class,com.jrefinery.chart.ChartUtilities,12,4,0,06/07/2002
+Public Class,com.jrefinery.chart.CombinedXYPlot,18,12,61,06/07/2002
+Public Class,com.jrefinery.chart.CrosshairInfo,1,9,64,06/07/2002
+Public Class,com.jrefinery.chart.DateTickUnit,3,2,85,06/07/2002
+Public Class,com.jrefinery.chart.DateTitle,7,5,0,06/07/2002
+Public Class,com.jrefinery.chart.DateUnit,2,4,25,06/07/2002
+Public Class,com.jrefinery.chart.DefaultShapeFactory,5,2,0,06/07/2002
+Public Class,com.jrefinery.chart.HighLow,8,14,83,06/07/2002
+Public Class,com.jrefinery.chart.HighLowRenderer,17,3,0,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalBarRenderer,20,7,0,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalBarRenderer3D,22,9,66,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalCategoryAxis,28,14,67,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalCategoryPlot,26,15,0,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalDateAxis,27,19,57,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalIntervalBarRenderer,17,7,0,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalLogarithmicAxis,17,14,78,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalNumberAxis,26,17,52,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalNumberAxis3D,23,10,76,06/07/2002
+Public Class,com.jrefinery.chart.HorizontalSymbolicAxis,25,15,82,06/07/2002
+Public Class,com.jrefinery.chart.ImageTitle,8,10,66,06/07/2002
+Public Class,com.jrefinery.chart.JFreeChart,34,31,88,06/07/2002
+Public Class,com.jrefinery.chart.JThermometer,16,19,68,06/07/2002
+Public Class,com.jrefinery.chart.LegendItem,4,11,83,06/07/2002
+Public Class,com.jrefinery.chart.LegendItemCollection,6,5,19,06/07/2002
+Public Class,com.jrefinery.chart.LineAndShapeRenderer,25,7,77,06/07/2002
+Public Class,com.jrefinery.chart.Marker,1,5,60,06/07/2002
+Public Class,com.jrefinery.chart.MeterLegend,26,8,78,06/07/2002
+Public Class,com.jrefinery.chart.MeterPlot,34,35,95,06/07/2002
+Public Class,com.jrefinery.chart.NumberTickUnit,2,2,0,06/07/2002
+Public Class,com.jrefinery.chart.OverlaidVerticalCategoryPlot,16,11,54,06/07/2002
+Public Class,com.jrefinery.chart.OverlaidXYPlot,12,10,55,06/07/2002
+Public Class,com.jrefinery.chart.PeriodMarkerPlot,26,15,0,06/07/2002
+Public Class,com.jrefinery.chart.PiePlot,38,33,92,06/07/2002
+Public Class,com.jrefinery.chart.PlotException,1,1,0,06/07/2002
+Public Class,com.jrefinery.chart.PlotNotCompatibleException,1,1,0,06/07/2002
+Public Class,com.jrefinery.chart.SeriesShapeFactory,6,4,75,06/07/2002
+Public Class,com.jrefinery.chart.SignalRenderer,21,2,50,06/07/2002
+Public Class,com.jrefinery.chart.Spacer,0,7,36,06/07/2002
+Public Class,com.jrefinery.chart.StackedHorizontalBarRenderer,16,6,0,06/07/2002
+Public Class,com.jrefinery.chart.StackedVerticalBarRenderer,15,4,0,06/07/2002
+Public Class,com.jrefinery.chart.StackedVerticalBarRenderer3D,20,4,0,06/07/2002
+Public Class,com.jrefinery.chart.StandardLegend,24,16,80,06/07/2002
+Public Class,com.jrefinery.chart.StandardLegendItemLayout,4,4,56,06/07/2002
+Public Class,com.jrefinery.chart.StandardXYItemRenderer,23,12,84,06/07/2002
+Public Class,com.jrefinery.chart.TextTitle,13,16,75,06/07/2002
+Public Class,com.jrefinery.chart.ThermometerPlot,33,46,95,06/07/2002
+Public Class,com.jrefinery.chart.Tick,3,6,66,06/07/2002
+Public Class,com.jrefinery.chart.TickUnits,7,7,42,06/07/2002
+Public Class,com.jrefinery.chart.VerticalBarRenderer,20,7,0,06/07/2002
+Public Class,com.jrefinery.chart.VerticalBarRenderer3D,26,9,66,06/07/2002
+Public Class,com.jrefinery.chart.VerticalCategoryAxis,20,10,65,06/07/2002
+Public Class,com.jrefinery.chart.VerticalCategoryPlot,27,17,0,06/07/2002
+Public Class,com.jrefinery.chart.VerticalIntervalBarRenderer,24,8,81,06/07/2002
+Public Class,com.jrefinery.chart.VerticalLogarithmicAxis,16,11,77,06/07/2002
+Public Class,com.jrefinery.chart.VerticalNumberAxis,26,16,62,06/07/2002
+Public Class,com.jrefinery.chart.VerticalNumberAxis3D,17,6,66,06/07/2002
+Public Class,com.jrefinery.chart.VerticalSymbolicAxis,25,15,82,06/07/2002
+Public Class,com.jrefinery.chart.VerticalXYBarRenderer,17,6,58,06/07/2002
+Public Class,com.jrefinery.chart.WindItemRenderer,17,2,0,06/07/2002
+Public Class,com.jrefinery.chart.XYPlot,33,40,91,06/07/2002
+Public Class,com.jrefinery.chart.XYStepRenderer,12,2,0,06/07/2002
+Public Class,com.jrefinery.chart.data.LinearPlotFitAlgorithm,4,3,50,06/07/2002
+Public Class,com.jrefinery.chart.data.MovingAveragePlotFitAlgorithm,5,4,58,06/07/2002
+Public Class,com.jrefinery.chart.data.PlotFit,3,5,19,06/07/2002
+Public Class,com.jrefinery.chart.demo.AreaChartDemo,10,2,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.CombinedXYPlotDemo,11,5,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.DemoDatasetFactory,13,18,94,06/07/2002
+Public Class,com.jrefinery.chart.demo.DescriptionPanel,5,2,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.DynamicDataDemo,15,3,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.EmptyXYDataset,2,6,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.First,6,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.GanttDemo,6,4,100,06/07/2002
+Public Class,com.jrefinery.chart.demo.HorizontalBar3DDemo,5,2,100,06/07/2002
+Public Class,com.jrefinery.chart.demo.IntervalBarChartDemo,18,3,60,06/07/2002
+Public Class,com.jrefinery.chart.demo.JFreeChartAppletDemo,5,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.JFreeChartDemo,65,44,95,06/07/2002
+Public Class,com.jrefinery.chart.demo.JFreeChartDemo2,9,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.JFreeChartDemo3,12,3,33,06/07/2002
+Public Class,com.jrefinery.chart.demo.JFreeChartServletDemo,26,9,88,06/07/2002
+Public Class,com.jrefinery.chart.demo.LineChartDemo1,14,2,100,06/07/2002
+Public Class,com.jrefinery.chart.demo.LineChartDemo2,12,2,100,06/07/2002
+Public Class,com.jrefinery.chart.demo.MeterPlotDemo,16,2,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.MouseListenerDemo1,11,4,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.MouseListenerDemo2,11,4,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.MultiShapesXYDemo,19,2,77,06/07/2002
+Public Class,com.jrefinery.chart.demo.OverlaidCategoryChartDemo,20,2,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.OverlaidPlotDemo,13,5,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.Performance,8,7,85,06/07/2002
+Public Class,com.jrefinery.chart.demo.Performance2,6,11,81,06/07/2002
+Public Class,com.jrefinery.chart.demo.PieChartDemo1,6,2,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.PriceVolumeDemo,13,5,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.SampleSignalDataset,3,10,19,06/07/2002
+Public Class,com.jrefinery.chart.demo.SampleXYDataset,4,8,37,06/07/2002
+Public Class,com.jrefinery.chart.demo.SampleXYDataset2,4,6,70,06/07/2002
+Public Class,com.jrefinery.chart.demo.SampleXYDatasetThread,3,2,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.SampleXYSymbolicDataset,7,20,82,06/07/2002
+Public Class,com.jrefinery.chart.demo.SampleYSymbolicDataset,9,16,77,06/07/2002
+Public Class,com.jrefinery.chart.demo.Second,11,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.SymbolicXYPlotDemo,31,11,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.SymbolicYPlotDemo,18,8,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.ThermometerDemo,26,6,82,06/07/2002
+Public Class,com.jrefinery.chart.demo.TimeSeriesDemo,6,2,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.TimeSeriesDemo2,7,2,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.VerticalBar3DDemo,5,2,100,06/07/2002
+Public Class,com.jrefinery.chart.demo.XYSeriesDemo,8,2,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.XYStepChartDemo,23,5,80,06/07/2002
+Public Class,com.jrefinery.chart.demo.jdbc.servlet.BaseImageServlet,44,17,87,06/07/2002
+Public Class,com.jrefinery.chart.demo.jdbc.servlet.ImageDataAvailable,3,2,50,06/07/2002
+Public Class,com.jrefinery.chart.demo.jdbc.servlet.ImageDemoPie,8,3,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.jdbc.servlet.ImageSelectSQL,2,2,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.jdbc.swing.dbConnection,20,25,89,06/07/2002
+Public Class,com.jrefinery.chart.demo.jdbc.swing.swingdemo,36,12,89,06/07/2002
+Public Class,com.jrefinery.chart.demo.resources.DemoResources,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.resources.DemoResources_de,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.resources.DemoResources_es,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.resources.DemoResources_fr,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.demo.resources.DemoResources_pl,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.entity.CategoryItemEntity,2,6,33,06/07/2002
+Public Class,com.jrefinery.chart.entity.ChartEntity,2,5,40,06/07/2002
+Public Class,com.jrefinery.chart.entity.PieSectionEntity,2,4,0,06/07/2002
+Public Class,com.jrefinery.chart.entity.StandardEntityCollection,5,4,0,06/07/2002
+Public Class,com.jrefinery.chart.entity.XYItemEntity,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.event.AxisChangeEvent,1,2,0,06/07/2002
+Public Class,com.jrefinery.chart.event.ChartChangeEvent,1,7,77,06/07/2002
+Public Class,com.jrefinery.chart.event.LegendChangeEvent,1,1,0,06/07/2002
+Public Class,com.jrefinery.chart.event.PlotChangeEvent,1,1,0,06/07/2002
+Public Class,com.jrefinery.chart.event.TitleChangeEvent,1,1,0,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.HighLowToolTipGenerator,4,2,0,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.StandardCategoryToolTipGenerator,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.StandardPieToolTipGenerator,2,1,0,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.StandardToolTipsCollection,6,4,0,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.StandardXYToolTipGenerator,4,3,33,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.SymbolicXYToolTipGenerator,4,2,0,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.TimeSeriesToolTipGenerator,8,4,50,06/07/2002
+Public Class,com.jrefinery.chart.tooltips.ToolTip,3,3,33,06/07/2002
+Public Class,com.jrefinery.chart.ui.AxisPropertyEditPanel,20,19,88,06/07/2002
+Public Class,com.jrefinery.chart.ui.ChartPropertyEditPanel,19,9,73,06/07/2002
+Public Class,com.jrefinery.chart.ui.PlotPropertyEditPanel,20,13,78,06/07/2002
+Public Class,com.jrefinery.chart.ui.TitlePropertyEditPanel,15,8,68,06/07/2002
+Public Interface,com.jrefinery.chart.AxisConstants,6,0,0,06/07/2002
+Public Interface,com.jrefinery.chart.CategoryItemRenderer,7,7,0,06/07/2002
+Public Interface,com.jrefinery.chart.CategoryPlotConstants,1,0,0,06/07/2002
+Public Interface,com.jrefinery.chart.ChartMouseListener,1,2,0,06/07/2002
+Public Interface,com.jrefinery.chart.ChartPanelConstants,1,0,0,06/07/2002
+Public Interface,com.jrefinery.chart.HorizontalAxis,3,2,0,06/07/2002
+Public Interface,com.jrefinery.chart.HorizontalValuePlot,1,2,0,06/07/2002
+Public Interface,com.jrefinery.chart.JFreeChartConstants,4,0,0,06/07/2002
+Public Interface,com.jrefinery.chart.JFreeChartInfo,3,0,0,06/07/2002
+Public Interface,com.jrefinery.chart.LegendItemLayout,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.ShapeFactory,1,2,0,06/07/2002
+Public Interface,com.jrefinery.chart.VerticalAxis,3,2,0,06/07/2002
+Public Interface,com.jrefinery.chart.VerticalValuePlot,1,2,0,06/07/2002
+Public Interface,com.jrefinery.chart.XYItemRenderer,8,6,0,06/07/2002
+Public Interface,com.jrefinery.chart.data.PlotFitAlgorithm,2,3,0,06/07/2002
+Public Interface,com.jrefinery.chart.demo.jdbc.servlet.Constants,1,0,0,06/07/2002
+Public Interface,com.jrefinery.chart.entity.EntityCollection,1,3,0,06/07/2002
+Public Interface,com.jrefinery.chart.event.AxisChangeListener,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.event.ChartChangeListener,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.event.LegendChangeListener,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.event.PlotChangeListener,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.event.TitleChangeListener,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.tooltips.CategoryToolTipGenerator,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.tooltips.PieToolTipGenerator,1,1,0,06/07/2002
+Public Interface,com.jrefinery.chart.tooltips.ToolTipGenerator,0,0,0,06/07/2002
+Public Interface,com.jrefinery.chart.tooltips.ToolTipsCollection,2,3,0,06/07/2002
+Public Interface,com.jrefinery.chart.tooltips.XYToolTipGenerator,1,1,0,06/07/2002

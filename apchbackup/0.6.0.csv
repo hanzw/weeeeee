@@ -1,0 +1,90 @@
+Kind,Name,CountClassCoupled,CountDeclMethod,PercentLackOfCohesion,DATE
+Class,com.jrefinery.chart.LegendItem,2,1,66,11/27/2001
+Class,com.jrefinery.chart.data.ArrayHolder,0,2,0,11/27/2001
+Class,com.jrefinery.chart.demo.JFreeChartDemo.JFreeChartDemo.(Anon_1),3,1,0,11/27/2001
+Class,com.jrefinery.chart.ui.LegendPropertyEditPanel,16,13,78,11/27/2001
+Class,com.jrefinery.chart.ui.NumberAxisPropertyEditPanel,22,13,72,11/27/2001
+Public Abstract Class,com.jrefinery.chart.AbstractTitle,11,21,91,11/27/2001
+Public Abstract Class,com.jrefinery.chart.Axis,22,33,93,11/27/2001
+Public Abstract Class,com.jrefinery.chart.BarPlot,8,14,88,11/27/2001
+Public Abstract Class,com.jrefinery.chart.CategoryAxis,5,2,0,11/27/2001
+Public Abstract Class,com.jrefinery.chart.DateAxis,11,14,79,11/27/2001
+Public Abstract Class,com.jrefinery.chart.Legend,9,8,85,11/27/2001
+Public Abstract Class,com.jrefinery.chart.NumberAxis,17,22,89,11/27/2001
+Public Abstract Class,com.jrefinery.chart.Plot,25,37,92,11/27/2001
+Public Abstract Class,com.jrefinery.chart.TickUnit,1,3,33,11/27/2001
+Public Abstract Class,com.jrefinery.chart.Title,10,8,56,11/27/2001
+Public Abstract Class,com.jrefinery.chart.ValueAxis,10,14,81,11/27/2001
+Public Class,com.jrefinery.chart.AxisNotCompatibleException,1,1,0,11/27/2001
+Public Class,com.jrefinery.chart.Bar,7,7,67,11/27/2001
+Public Class,com.jrefinery.chart.ChartFactory,31,13,0,11/27/2001
+Public Class,com.jrefinery.chart.DateTitle,7,5,0,11/27/2001
+Public Class,com.jrefinery.chart.DateUnit,2,4,25,11/27/2001
+Public Class,com.jrefinery.chart.HighLow,6,13,82,11/27/2001
+Public Class,com.jrefinery.chart.HighLowPlot,25,15,86,11/27/2001
+Public Class,com.jrefinery.chart.HorizontalBarPlot,25,17,70,11/27/2001
+Public Class,com.jrefinery.chart.HorizontalBarRenderer,10,3,66,11/27/2001
+Public Class,com.jrefinery.chart.HorizontalCategoryAxis,18,11,27,11/27/2001
+Public Class,com.jrefinery.chart.HorizontalDateAxis,30,18,44,11/27/2001
+Public Class,com.jrefinery.chart.HorizontalNumberAxis,26,15,46,11/27/2001
+Public Class,com.jrefinery.chart.ImageTitle,8,9,51,11/27/2001
+Public Class,com.jrefinery.chart.JFreeChart,26,26,87,11/27/2001
+Public Class,com.jrefinery.chart.JFreeChartFrame,4,2,0,11/27/2001
+Public Class,com.jrefinery.chart.JFreeChartPanel,34,16,85,11/27/2001
+Public Class,com.jrefinery.chart.Line,6,5,60,11/27/2001
+Public Class,com.jrefinery.chart.LineAndShapeRenderer,9,3,44,11/27/2001
+Public Class,com.jrefinery.chart.LinePlot,23,16,87,11/27/2001
+Public Class,com.jrefinery.chart.NumberTickUnit,2,2,50,11/27/2001
+Public Class,com.jrefinery.chart.PiePlot,29,28,91,11/27/2001
+Public Class,com.jrefinery.chart.PlotException,1,1,0,11/27/2001
+Public Class,com.jrefinery.chart.PlotNotCompatibleException,1,1,0,11/27/2001
+Public Class,com.jrefinery.chart.StackedHorizontalBarRenderer,11,4,0,11/27/2001
+Public Class,com.jrefinery.chart.StackedVerticalBarRenderer,11,4,0,11/27/2001
+Public Class,com.jrefinery.chart.StackedVerticalBarRenderer3D,16,4,0,11/27/2001
+Public Class,com.jrefinery.chart.StandardLegend,22,16,78,11/27/2001
+Public Class,com.jrefinery.chart.StandardTitle,12,7,52,11/27/2001
+Public Class,com.jrefinery.chart.StandardXYItemRenderer,10,5,60,11/27/2001
+Public Class,com.jrefinery.chart.TextTitle,13,16,66,11/27/2001
+Public Class,com.jrefinery.chart.Tick,4,6,66,11/27/2001
+Public Class,com.jrefinery.chart.TickUnits,7,4,25,11/27/2001
+Public Class,com.jrefinery.chart.VerticalBarPlot,24,20,75,11/27/2001
+Public Class,com.jrefinery.chart.VerticalBarPlot3D,15,6,0,11/27/2001
+Public Class,com.jrefinery.chart.VerticalBarRenderer,10,3,100,11/27/2001
+Public Class,com.jrefinery.chart.VerticalBarRenderer3D,15,4,0,11/27/2001
+Public Class,com.jrefinery.chart.VerticalCategoryAxis,17,8,37,11/27/2001
+Public Class,com.jrefinery.chart.VerticalNumberAxis,26,15,60,11/27/2001
+Public Class,com.jrefinery.chart.VerticalNumberAxis3D,19,6,66,11/27/2001
+Public Class,com.jrefinery.chart.VerticalXYBarPlot,22,13,0,11/27/2001
+Public Class,com.jrefinery.chart.XYPlot,26,20,88,11/27/2001
+Public Class,com.jrefinery.chart.data.LinearPlotFitAlgorithm,4,3,50,11/27/2001
+Public Class,com.jrefinery.chart.data.MovingAveragePlotFitAlgorithm,5,4,58,11/27/2001
+Public Class,com.jrefinery.chart.data.PlotFit,3,5,19,11/27/2001
+Public Class,com.jrefinery.chart.demo.DescriptionPanel,5,2,50,11/27/2001
+Public Class,com.jrefinery.chart.demo.EmptyXYDataset,2,6,0,11/27/2001
+Public Class,com.jrefinery.chart.demo.JFreeChartDemo,49,43,97,11/27/2001
+Public Class,com.jrefinery.chart.demo.SampleHighLowDataset,7,12,81,11/27/2001
+Public Class,com.jrefinery.chart.demo.SampleXYDataset,4,8,37,11/27/2001
+Public Class,com.jrefinery.chart.demo.SampleXYDataset2,4,6,70,11/27/2001
+Public Class,com.jrefinery.chart.demo.SampleXYDatasetThread,3,2,0,11/27/2001
+Public Class,com.jrefinery.chart.event.AxisChangeEvent,1,2,0,11/27/2001
+Public Class,com.jrefinery.chart.event.ChartChangeEvent,1,7,77,11/27/2001
+Public Class,com.jrefinery.chart.event.LegendChangeEvent,1,1,0,11/27/2001
+Public Class,com.jrefinery.chart.event.PlotChangeEvent,1,1,0,11/27/2001
+Public Class,com.jrefinery.chart.event.TitleChangeEvent,1,1,0,11/27/2001
+Public Class,com.jrefinery.chart.ui.AxisPropertyEditPanel,20,19,88,11/27/2001
+Public Class,com.jrefinery.chart.ui.ChartPropertyEditPanel,19,9,73,11/27/2001
+Public Class,com.jrefinery.chart.ui.PlotPropertyEditPanel,17,13,78,11/27/2001
+Public Class,com.jrefinery.chart.ui.TitlePropertyEditPanel,16,8,68,11/27/2001
+Public Interface,com.jrefinery.chart.CategoryPlot,2,3,0,11/27/2001
+Public Interface,com.jrefinery.chart.HorizontalAxis,3,2,0,11/27/2001
+Public Interface,com.jrefinery.chart.HorizontalCategoryItemRenderer,4,1,0,11/27/2001
+Public Interface,com.jrefinery.chart.HorizontalValuePlot,1,2,0,11/27/2001
+Public Interface,com.jrefinery.chart.VerticalAxis,3,2,0,11/27/2001
+Public Interface,com.jrefinery.chart.VerticalValuePlot,1,2,0,11/27/2001
+Public Interface,com.jrefinery.chart.XYItemRenderer,4,1,0,11/27/2001
+Public Interface,com.jrefinery.chart.data.PlotFitAlgorithm,2,3,0,11/27/2001
+Public Interface,com.jrefinery.chart.event.AxisChangeListener,1,1,0,11/27/2001
+Public Interface,com.jrefinery.chart.event.ChartChangeListener,1,1,0,11/27/2001
+Public Interface,com.jrefinery.chart.event.LegendChangeListener,1,1,0,11/27/2001
+Public Interface,com.jrefinery.chart.event.PlotChangeListener,1,1,0,11/27/2001
+Public Interface,com.jrefinery.chart.event.TitleChangeListener,1,1,0,11/27/2001

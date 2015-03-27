@@ -1,0 +1,2015 @@
+Kind,Name,CountClassCoupled,PercentLackOfCohesion,CountDeclMethod,Date
+File,AbstractBlock.java,,,39,2008-06-09
+File,AbstractBlockTests.java,,,5,2008-06-09
+File,AbstractCategoryItemLabelGenerator.java,,,13,2008-06-09
+File,AbstractCategoryItemRenderer.java,,,52,2008-06-09
+File,AbstractCategoryItemRendererTests.java,,,7,2008-06-09
+File,AbstractDataset.java,,,12,2008-06-09
+File,AbstractDialLayer.java,,,11,2008-06-09
+File,AbstractDialLayerTests.java,,,5,2008-06-09
+File,AbstractIntervalXYDataset.java,,,4,2008-06-09
+File,AbstractPieItemLabelGenerator.java,,,9,2008-06-09
+File,AbstractPieLabelDistributor.java,,,6,2008-06-09
+File,AbstractRenderer.java,,,170,2008-06-09
+File,AbstractRendererTests.java,,,24,2008-06-09
+File,AbstractSeriesDataset.java,,,5,2008-06-09
+File,AbstractXYAnnotation.java,,,9,2008-06-09
+File,AbstractXYDataset.java,,,3,2008-06-09
+File,AbstractXYItemLabelGenerator.java,,,16,2008-06-09
+File,AbstractXYItemRenderer.java,,,55,2008-06-09
+File,AbstractXYItemRendererTests.java,,,8,2008-06-09
+File,AbstractXYZDataset.java,,,1,2008-06-09
+File,AnnotationsPackageTests.java,,,3,2008-06-09
+File,ArcDialFrame.java,,,25,2008-06-09
+File,ArcDialFrameTests.java,,,6,2008-06-09
+File,AreaChartTests.java,,,9,2008-06-09
+File,AreaRenderer.java,,,7,2008-06-09
+File,AreaRendererEndType.java,,,4,2008-06-09
+File,AreaRendererEndTypeTests.java,,,4,2008-06-09
+File,AreaRendererTests.java,,,8,2008-06-09
+File,Arrangement.java,,,3,2008-06-09
+File,ArrowNeedle.java,,,5,2008-06-09
+File,ArrowNeedleTests.java,,,5,2008-06-09
+File,Axis.java,,,57,2008-06-09
+File,AxisChangeEvent.java,,,2,2008-06-09
+File,AxisChangeListener.java,,,1,2008-06-09
+File,AxisCollection.java,,,6,2008-06-09
+File,AxisLocation.java,,,6,2008-06-09
+File,AxisLocationTests.java,,,5,2008-06-09
+File,AxisPackageTests.java,,,3,2008-06-09
+File,AxisSpace.java,,,19,2008-06-09
+File,AxisSpaceTests.java,,,5,2008-06-09
+File,AxisState.java,,,13,2008-06-09
+File,AxisTests.java,,,5,2008-06-09
+File,BarChart3DTests.java,,,9,2008-06-09
+File,BarChartDemo1.java,,,4,2008-06-09
+File,BarChartTests.java,,,9,2008-06-09
+File,BarRenderer.java,,,33,2008-06-09
+File,BarRenderer3D.java,,,16,2008-06-09
+File,BarRenderer3DTests.java,,,7,2008-06-09
+File,BarRendererTests.java,,,10,2008-06-09
+File,Block.java,,,7,2008-06-09
+File,BlockBorder.java,,,11,2008-06-09
+File,BlockBorderTests.java,,,5,2008-06-09
+File,BlockContainer.java,,,14,2008-06-09
+File,BlockContainerTests.java,,,5,2008-06-09
+File,BlockFrame.java,,,2,2008-06-09
+File,BlockPackageTests.java,,,3,2008-06-09
+File,BlockParams.java,,,7,2008-06-09
+File,BlockResult.java,,,3,2008-06-09
+File,BorderArrangement.java,,,10,2008-06-09
+File,BorderArrangementTests.java,,,8,2008-06-09
+File,BoxAndWhiskerCalculator.java,,,4,2008-06-09
+File,BoxAndWhiskerCalculatorTests.java,,,6,2008-06-09
+File,BoxAndWhiskerCategoryDataset.java,,,18,2008-06-09
+File,BoxAndWhiskerItem.java,,,13,2008-06-09
+File,BoxAndWhiskerItemTests.java,,,4,2008-06-09
+File,BoxAndWhiskerRenderer.java,,,21,2008-06-09
+File,BoxAndWhiskerRendererTests.java,,,24,2008-06-09
+File,BoxAndWhiskerToolTipGenerator.java,,,4,2008-06-09
+File,BoxAndWhiskerToolTipGeneratorTests.java,,,7,2008-06-09
+File,BoxAndWhiskerXYDataset.java,,,11,2008-06-09
+File,BoxAndWhiskerXYToolTipGenerator.java,,,4,2008-06-09
+File,BoxAndWhiskerXYToolTipGeneratorTests.java,,,7,2008-06-09
+File,BubbleXYItemLabelGenerator.java,,,10,2008-06-09
+File,BubbleXYItemLabelGeneratorTests.java,,,8,2008-06-09
+File,CSV.java,,,6,2008-06-09
+File,CandlestickRenderer.java,,,31,2008-06-09
+File,CandlestickRendererTests.java,,,9,2008-06-09
+File,CategoryAnchor.java,,,4,2008-06-09
+File,CategoryAnchorTests.java,,,5,2008-06-09
+File,CategoryAnnotation.java,,,1,2008-06-09
+File,CategoryAxis.java,,,48,2008-06-09
+File,CategoryAxis3D.java,,,5,2008-06-09
+File,CategoryAxis3DTests.java,,,4,2008-06-09
+File,CategoryAxisTests.java,,,7,2008-06-09
+File,CategoryDataset.java,,,0,2008-06-09
+File,CategoryDatasetHandler.java,,,5,2008-06-09
+File,CategoryItemEntity.java,,,16,2008-06-09
+File,CategoryItemEntityTests.java,,,5,2008-06-09
+File,CategoryItemLabelGenerator.java,,,3,2008-06-09
+File,CategoryItemRenderer.java,,,131,2008-06-09
+File,CategoryItemRendererState.java,,,5,2008-06-09
+File,CategoryLabelEntity.java,,,5,2008-06-09
+File,CategoryLabelEntityTests.java,,,5,2008-06-09
+File,CategoryLabelPosition.java,,,12,2008-06-09
+File,CategoryLabelPositionTests.java,,,5,2008-06-09
+File,CategoryLabelPositions.java,,,11,2008-06-09
+File,CategoryLabelPositionsTests.java,,,5,2008-06-09
+File,CategoryLabelWidthType.java,,,4,2008-06-09
+File,CategoryLabelWidthTypeTests.java,,,5,2008-06-09
+File,CategoryLineAnnotation.java,,,19,2008-06-09
+File,CategoryLineAnnotationTests.java,,,7,2008-06-09
+File,CategoryMarker.java,,,8,2008-06-09
+File,CategoryMarkerTests.java,,,8,2008-06-09
+File,CategoryPlot.java,,,174,2008-06-09
+File,CategoryPlotTests.java,,,22,2008-06-09
+File,CategoryPointerAnnotation.java,,,23,2008-06-09
+File,CategoryPointerAnnotationTests.java,,,7,2008-06-09
+File,CategorySeriesHandler.java,,,5,2008-06-09
+File,CategorySeriesLabelGenerator.java,,,1,2008-06-09
+File,CategoryStepRenderer.java,,,10,2008-06-09
+File,CategoryStepRendererTests.java,,,7,2008-06-09
+File,CategoryTableXYDataset.java,,,26,2008-06-09
+File,CategoryTableXYDatasetTests.java,,,8,2008-06-09
+File,CategoryTextAnnotation.java,,,11,2008-06-09
+File,CategoryTextAnnotationTests.java,,,7,2008-06-09
+File,CategoryTick.java,,,6,2008-06-09
+File,CategoryTickTests.java,,,6,2008-06-09
+File,CategoryToPieDataset.java,,,12,2008-06-09
+File,CategoryToPieDatasetTests.java,,,8,2008-06-09
+File,CategoryToolTipGenerator.java,,,1,2008-06-09
+File,CategoryURLGenerator.java,,,1,2008-06-09
+File,CenterArrangement.java,,,13,2008-06-09
+File,ChartChangeEvent.java,,,7,2008-06-09
+File,ChartChangeEventType.java,,,5,2008-06-09
+File,ChartChangeListener.java,,,1,2008-06-09
+File,ChartColor.java,,,2,2008-06-09
+File,ChartComposite.java,,,65,2008-06-09
+File,ChartDeleter.java,,,5,2008-06-09
+File,ChartEditor.java,,,1,2008-06-09
+File,ChartEditorFactory.java,,,1,2008-06-09
+File,ChartEditorManager.java,,,4,2008-06-09
+File,ChartEntity.java,,,20,2008-06-09
+File,ChartFactory.java,,,38,2008-06-09
+File,ChartFrame.java,,,3,2008-06-09
+File,ChartMouseEvent.java,,,4,2008-06-09
+File,ChartMouseListener.java,,,2,2008-06-09
+File,ChartPackageTests.java,,,1,2008-06-09
+File,ChartPanel.java,,,102,2008-06-09
+File,ChartPanelTests.java,,,7,2008-06-09
+File,ChartProgressEvent.java,,,7,2008-06-09
+File,ChartProgressListener.java,,,1,2008-06-09
+File,ChartRenderingInfo.java,,,12,2008-06-09
+File,ChartRenderingInfoTests.java,,,6,2008-06-09
+File,ChartUtilities.java,,,26,2008-06-09
+File,ClipPath.java,,,25,2008-06-09
+File,ClusteredXYBarRenderer.java,,,7,2008-06-09
+File,ClusteredXYBarRendererTests.java,,,9,2008-06-09
+File,ColorBar.java,,,17,2008-06-09
+File,ColorBarTests.java,,,6,2008-06-09
+File,ColorBlock.java,,,8,2008-06-09
+File,ColorBlockTests.java,,,5,2008-06-09
+File,ColorPalette.java,,,26,2008-06-09
+File,ColorPaletteTests.java,,,4,2008-06-09
+File,ColumnArrangement.java,,,11,2008-06-09
+File,ColumnArrangementTests.java,,,5,2008-06-09
+File,CombinationDataset.java,,,2,2008-06-09
+File,CombinedCategoryPlot.java,,,5,2008-06-09
+File,CombinedCategoryPlotDemo1.java,,,6,2008-06-09
+File,CombinedDataset.java,,,31,2008-06-09
+File,CombinedDomainCategoryPlot.java,,,24,2008-06-09
+File,CombinedDomainCategoryPlotTests.java,,,11,2008-06-09
+File,CombinedDomainXYPlot.java,,,25,2008-06-09
+File,CombinedDomainXYPlotTests.java,,,12,2008-06-09
+File,CombinedRangeCategoryPlot.java,,,19,2008-06-09
+File,CombinedRangeCategoryPlotTests.java,,,11,2008-06-09
+File,CombinedRangeXYPlot.java,,,24,2008-06-09
+File,CombinedRangeXYPlotTests.java,,,11,2008-06-09
+File,CombinedXYPlot.java,,,5,2008-06-09
+File,CombinedXYPlotDemo1.java,,,7,2008-06-09
+File,ComparableObjectItem.java,,,8,2008-06-09
+File,ComparableObjectItemTests.java,,,7,2008-06-09
+File,ComparableObjectSeries.java,,,20,2008-06-09
+File,ComparableObjectSeriesTests.java,,,11,2008-06-09
+File,CompassFormat.java,,,5,2008-06-09
+File,CompassPlot.java,,,34,2008-06-09
+File,CompassPlotTests.java,,,5,2008-06-09
+File,CompositeTitle.java,,,8,2008-06-09
+File,CompositeTitleTests.java,,,6,2008-06-09
+File,ContourDataset.java,,,9,2008-06-09
+File,ContourEntity.java,,,6,2008-06-09
+File,ContourEntityTests.java,,,5,2008-06-09
+File,ContourPlot.java,,,79,2008-06-09
+File,ContourPlotTests.java,,,3,2008-06-09
+File,ContourPlotUtilities.java,,,1,2008-06-09
+File,ContourToolTipGenerator.java,,,1,2008-06-09
+File,ContourValuePlot.java,,,1,2008-06-09
+File,CrosshairState.java,,,22,2008-06-09
+File,CustomCategoryURLGenerator.java,,,8,2008-06-09
+File,CustomCategoryURLGeneratorTests.java,,,7,2008-06-09
+File,CustomPieURLGenerator.java,,,8,2008-06-09
+File,CustomPieURLGeneratorTests.java,,,6,2008-06-09
+File,CustomXYItemLabelGeneratorTests.java,,,5,2008-06-09
+File,CustomXYToolTipGenerator.java,,,8,2008-06-09
+File,CustomXYURLGenerator.java,,,8,2008-06-09
+File,CustomXYURLGeneratorTests.java,,,7,2008-06-09
+File,CyclicNumberAxis.java,,,35,2008-06-09
+File,CyclicNumberAxisTests.java,,,6,2008-06-09
+File,CyclicXYItemRenderer.java,,,19,2008-06-09
+File,DataCategoryPackageTests.java,,,3,2008-06-09
+File,DataGanttPackageTests.java,,,3,2008-06-09
+File,DataGeneralPackageTests.java,,,3,2008-06-09
+File,DataPackageResources.java,,,1,2008-06-09
+File,DataPackageResources_de.java,,,1,2008-06-09
+File,DataPackageResources_es.java,,,1,2008-06-09
+File,DataPackageResources_fr.java,,,1,2008-06-09
+File,DataPackageResources_pl.java,,,1,2008-06-09
+File,DataPackageResources_ru.java,,,1,2008-06-09
+File,DataPackageTests.java,,,3,2008-06-09
+File,DataStatisticsPackageTests.java,,,3,2008-06-09
+File,DataTimePackageTests.java,,,3,2008-06-09
+File,DataUtilities.java,,,5,2008-06-09
+File,DataUtilitiesTests.java,,,3,2008-06-09
+File,DataXYPackageTests.java,,,3,2008-06-09
+File,Dataset.java,,,4,2008-06-09
+File,DatasetChangeEvent.java,,,2,2008-06-09
+File,DatasetChangeListener.java,,,1,2008-06-09
+File,DatasetGroup.java,,,5,2008-06-09
+File,DatasetGroupTests.java,,,3,2008-06-09
+File,DatasetReader.java,,,4,2008-06-09
+File,DatasetRenderingOrder.java,,,5,2008-06-09
+File,DatasetTags.java,,,0,2008-06-09
+File,DatasetUtilities.java,,,45,2008-06-09
+File,DatasetUtilitiesTests.java,,,40,2008-06-09
+File,DateAxis.java,,,56,2008-06-09
+File,DateAxisTests.java,,,26,2008-06-09
+File,DateRange.java,,,7,2008-06-09
+File,DateRangeTests.java,,,6,2008-06-09
+File,DateTick.java,,,4,2008-06-09
+File,DateTickMarkPosition.java,,,4,2008-06-09
+File,DateTickMarkPositionTests.java,,,5,2008-06-09
+File,DateTickTests.java,,,6,2008-06-09
+File,DateTickUnit.java,,,19,2008-06-09
+File,DateTickUnitTests.java,,,5,2008-06-09
+File,DateTitle.java,,,5,2008-06-09
+File,DateTitleTests.java,,,6,2008-06-09
+File,Day.java,,,22,2008-06-09
+File,DayTests.java,,,25,2008-06-09
+File,DefaultAxisEditor.java,,,17,2008-06-09
+File,DefaultBoxAndWhiskerCategoryDataset.java,,,44,2008-06-09
+File,DefaultBoxAndWhiskerCategoryDatasetTests.java,,,11,2008-06-09
+File,DefaultBoxAndWhiskerXYDataset.java,,,27,2008-06-09
+File,DefaultBoxAndWhiskerXYDatasetTests.java,,,8,2008-06-09
+File,DefaultCategoryDataset.java,,,25,2008-06-09
+File,DefaultCategoryDatasetTests.java,,,16,2008-06-09
+File,DefaultCategoryItemRenderer.java,,,0,2008-06-09
+File,DefaultCategoryItemRendererTests.java,,,7,2008-06-09
+File,DefaultChartEditor.java,,,8,2008-06-09
+File,DefaultChartEditorFactory.java,,,2,2008-06-09
+File,DefaultColorBarEditor.java,,,5,2008-06-09
+File,DefaultContourDataset.java,,,26,2008-06-09
+File,DefaultDrawingSupplier.java,,,17,2008-06-09
+File,DefaultDrawingSupplierTests.java,,,5,2008-06-09
+File,DefaultHighLowDataset.java,,,19,2008-06-09
+File,DefaultHighLowDatasetTests.java,,,6,2008-06-09
+File,DefaultIntervalCategoryDataset.java,,,35,2008-06-09
+File,DefaultIntervalCategoryDatasetTests.java,,,22,2008-06-09
+File,DefaultIntervalXYDataset.java,,,20,2008-06-09
+File,DefaultIntervalXYDatasetTests.java,,,19,2008-06-09
+File,DefaultKeyedValue.java,,,8,2008-06-09
+File,DefaultKeyedValueDataset.java,,,10,2008-06-09
+File,DefaultKeyedValueDatasetTests.java,,,6,2008-06-09
+File,DefaultKeyedValueTests.java,,,6,2008-06-09
+File,DefaultKeyedValues.java,,,22,2008-06-09
+File,DefaultKeyedValues2D.java,,,23,2008-06-09
+File,DefaultKeyedValues2DDataset.java,,,0,2008-06-09
+File,DefaultKeyedValues2DDatasetTests.java,,,4,2008-06-09
+File,DefaultKeyedValues2DTests.java,,,16,2008-06-09
+File,DefaultKeyedValuesDataset.java,,,0,2008-06-09
+File,DefaultKeyedValuesDatasetTests.java,,,4,2008-06-09
+File,DefaultKeyedValuesTests.java,,,21,2008-06-09
+File,DefaultMultiValueCategoryDataset.java,,,19,2008-06-09
+File,DefaultMultiValueCategoryDatasetTests.java,,,10,2008-06-09
+File,DefaultNumberAxisEditor.java,,,13,2008-06-09
+File,DefaultOHLCDataset.java,,,20,2008-06-09
+File,DefaultOHLCDatasetTests.java,,,8,2008-06-09
+File,DefaultPieDataset.java,,,19,2008-06-09
+File,DefaultPieDatasetTests.java,,,8,2008-06-09
+File,DefaultPlotEditor.java,,,15,2008-06-09
+File,DefaultPolarItemRenderer.java,,,12,2008-06-09
+File,DefaultPolarItemRendererTests.java,,,6,2008-06-09
+File,DefaultStatisticalCategoryDataset.java,,,29,2008-06-09
+File,DefaultStatisticalCategoryDatasetTests.java,,,12,2008-06-09
+File,DefaultTableXYDataset.java,,,36,2008-06-09
+File,DefaultTableXYDatasetTests.java,,,8,2008-06-09
+File,DefaultTitleEditor.java,,,10,2008-06-09
+File,DefaultValueDataset.java,,,7,2008-06-09
+File,DefaultWindDataset.java,,,19,2008-06-09
+File,DefaultWindDatasetTests.java,,,10,2008-06-09
+File,DefaultXYDataset.java,,,15,2008-06-09
+File,DefaultXYDatasetTests.java,,,10,2008-06-09
+File,DefaultXYItemRenderer.java,,,0,2008-06-09
+File,DefaultXYZDataset.java,,,17,2008-06-09
+File,DefaultXYZDatasetTests.java,,,10,2008-06-09
+File,DeviationRenderer.java,,,13,2008-06-09
+File,DeviationRendererTests.java,,,7,2008-06-09
+File,DialBackground.java,,,13,2008-06-09
+File,DialBackgroundTests.java,,,6,2008-06-09
+File,DialCap.java,,,16,2008-06-09
+File,DialCapTests.java,,,6,2008-06-09
+File,DialFrame.java,,,1,2008-06-09
+File,DialLayer.java,,,6,2008-06-09
+File,DialLayerChangeEvent.java,,,2,2008-06-09
+File,DialLayerChangeListener.java,,,1,2008-06-09
+File,DialPackageTests.java,,,3,2008-06-09
+File,DialPlot.java,,,41,2008-06-09
+File,DialPlotTests.java,,,12,2008-06-09
+File,DialPointer.java,,,34,2008-06-09
+File,DialPointerTests.java,,,9,2008-06-09
+File,DialScale.java,,,2,2008-06-09
+File,DialShape.java,,,5,2008-06-09
+File,DialTextAnnotation.java,,,20,2008-06-09
+File,DialTextAnnotationTests.java,,,6,2008-06-09
+File,DialValueIndicator.java,,,37,2008-06-09
+File,DialValueIndicatorTests.java,,,6,2008-06-09
+File,DisplayChart.java,,,3,2008-06-09
+File,DomainInfo.java,,,3,2008-06-09
+File,DomainOrder.java,,,5,2008-06-09
+File,DomainOrderTests.java,,,5,2008-06-09
+File,DrawableLegendItem.java,,,17,2008-06-09
+File,DrawingSupplier.java,,,6,2008-06-09
+File,DynamicDriveToolTipTagFragmentGenerator.java,,,3,2008-06-09
+File,DynamicTimeSeriesCollection.java,,,46,2008-06-09
+File,Effect3D.java,,,2,2008-06-09
+File,EmptyBlock.java,,,5,2008-06-09
+File,EmptyBlockTests.java,,,5,2008-06-09
+File,EncoderUtil.java,,,8,2008-06-09
+File,EntityBlockParams.java,,,1,2008-06-09
+File,EntityBlockResult.java,,,1,2008-06-09
+File,EntityCollection.java,,,8,2008-06-09
+File,EntityPackageTests.java,,,3,2008-06-09
+File,ExtendedCategoryAxis.java,,,11,2008-06-09
+File,ExtendedCategoryAxisTests.java,,,7,2008-06-09
+File,FastScatterPlot.java,,,43,2008-06-09
+File,FastScatterPlotTests.java,,,7,2008-06-09
+File,FixedMillisecond.java,,,17,2008-06-09
+File,FixedMillisecondTests.java,,,6,2008-06-09
+File,FlowArrangement.java,,,14,2008-06-09
+File,FlowArrangementTests.java,,,5,2008-06-09
+File,Function2D.java,,,1,2008-06-09
+File,GanttCategoryDataset.java,,,10,2008-06-09
+File,GanttChartTests.java,,,12,2008-06-09
+File,GanttRenderer.java,,,15,2008-06-09
+File,GanttRendererTests.java,,,7,2008-06-09
+File,GrayPaintScale.java,,,7,2008-06-09
+File,GrayPaintScaleTests.java,,,7,2008-06-09
+File,GreyPalette.java,,,2,2008-06-09
+File,GridArrangement.java,,,9,2008-06-09
+File,GridArrangementTests.java,,,8,2008-06-09
+File,GroupedStackedBarRenderer.java,,,7,2008-06-09
+File,GroupedStackedBarRendererTests.java,,,7,2008-06-09
+File,HashUtilities.java,,,13,2008-06-09
+File,HashUtilitiesTests.java,,,3,2008-06-09
+File,HexNumberFormat.java,,,7,2008-06-09
+File,HighLowItemLabelGenerator.java,,,7,2008-06-09
+File,HighLowItemLabelGeneratorTests.java,,,7,2008-06-09
+File,HighLowRenderer.java,,,17,2008-06-09
+File,HighLowRendererTests.java,,,8,2008-06-09
+File,HistogramBin.java,,,8,2008-06-09
+File,HistogramBinTests.java,,,5,2008-06-09
+File,HistogramDataset.java,,,21,2008-06-09
+File,HistogramDatasetTests.java,,,11,2008-06-09
+File,HistogramType.java,,,5,2008-06-09
+File,Hour.java,,,22,2008-06-09
+File,HourTests.java,,,25,2008-06-09
+File,ImageEncoder.java,,,6,2008-06-09
+File,ImageEncoderFactory.java,,,6,2008-06-09
+File,ImageFormat.java,,,0,2008-06-09
+File,ImageMapPackageTests.java,,,3,2008-06-09
+File,ImageMapUtilities.java,,,6,2008-06-09
+File,ImageTitle.java,,,11,2008-06-09
+File,ImageTitleTests.java,,,8,2008-06-09
+File,IntervalBarRenderer.java,,,3,2008-06-09
+File,IntervalBarRendererTests.java,,,8,2008-06-09
+File,IntervalCategoryDataset.java,,,4,2008-06-09
+File,IntervalCategoryItemLabelGenerator.java,,,4,2008-06-09
+File,IntervalCategoryLabelGeneratorTests.java,,,7,2008-06-09
+File,IntervalCategoryToolTipGenerator.java,,,4,2008-06-09
+File,IntervalMarker.java,,,11,2008-06-09
+File,IntervalMarkerTests.java,,,8,2008-06-09
+File,IntervalXYDataset.java,,,8,2008-06-09
+File,IntervalXYDelegate.java,,,21,2008-06-09
+File,IntervalXYDelegateTests.java,,,5,2008-06-09
+File,IntervalXYItemLabelGenerator.java,,,9,2008-06-09
+File,IntervalXYZDataset.java,,,6,2008-06-09
+File,ItemHandler.java,,,7,2008-06-09
+File,ItemLabelAnchor.java,,,4,2008-06-09
+File,ItemLabelAnchorTests.java,,,4,2008-06-09
+File,ItemLabelPosition.java,,,8,2008-06-09
+File,ItemLabelPositionTests.java,,,4,2008-06-09
+File,JDBCCategoryDataset.java,,,7,2008-06-09
+File,JDBCPieDataset.java,,,6,2008-06-09
+File,JDBCXYDataset.java,,,20,2008-06-09
+File,JFreeChart.java,,,72,2008-06-09
+File,JFreeChartResources.java,,,1,2008-06-09
+File,JFreeChartTestSuite.java,,,2,2008-06-09
+File,JFreeChartTests.java,,,16,2008-06-09
+File,JThermometer.java,,,26,2008-06-09
+File,KeyHandler.java,,,6,2008-06-09
+File,KeyToGroupMap.java,,,12,2008-06-09
+File,KeyToGroupMapTests.java,,,10,2008-06-09
+File,KeyedObject.java,,,6,2008-06-09
+File,KeyedObjectTests.java,,,6,2008-06-09
+File,KeyedObjects.java,,,16,2008-06-09
+File,KeyedObjects2D.java,,,22,2008-06-09
+File,KeyedObjects2DTests.java,,,13,2008-06-09
+File,KeyedObjectsTests.java,,,13,2008-06-09
+File,KeyedValue.java,,,1,2008-06-09
+File,KeyedValueComparator.java,,,4,2008-06-09
+File,KeyedValueComparatorType.java,,,4,2008-06-09
+File,KeyedValueDataset.java,,,0,2008-06-09
+File,KeyedValues.java,,,4,2008-06-09
+File,KeyedValues2D.java,,,7,2008-06-09
+File,KeyedValues2DDataset.java,,,0,2008-06-09
+File,KeyedValuesDataset.java,,,0,2008-06-09
+File,KeypointPNGEncoderAdapter.java,,,6,2008-06-09
+File,LabelBlock.java,,,18,2008-06-09
+File,LabelBlockTests.java,,,5,2008-06-09
+File,LabelsPackageTests.java,,,3,2008-06-09
+File,LayeredBarRenderer.java,,,7,2008-06-09
+File,LayeredBarRendererTests.java,,,8,2008-06-09
+File,LegendGraphic.java,,,38,2008-06-09
+File,LegendGraphicTests.java,,,7,2008-06-09
+File,LegendItem.java,,,40,2008-06-09
+File,LegendItemBlockContainer.java,,,11,2008-06-09
+File,LegendItemCollection.java,,,8,2008-06-09
+File,LegendItemCollectionTests.java,,,5,2008-06-09
+File,LegendItemEntity.java,,,10,2008-06-09
+File,LegendItemEntityTests.java,,,5,2008-06-09
+File,LegendItemSource.java,,,1,2008-06-09
+File,LegendItemTests.java,,,6,2008-06-09
+File,LegendRenderingOrder.java,,,4,2008-06-09
+File,LegendTitle.java,,,30,2008-06-09
+File,LegendTitleTests.java,,,6,2008-06-09
+File,LengthConstraintType.java,,,5,2008-06-09
+File,LevelRenderer.java,,,13,2008-06-09
+File,LevelRendererTests.java,,,10,2008-06-09
+File,LineAndShapeRenderer.java,,,44,2008-06-09
+File,LineAndShapeRendererTests.java,,,9,2008-06-09
+File,LineBorder.java,,,9,2008-06-09
+File,LineBorderTests.java,,,5,2008-06-09
+File,LineChart3DTests.java,,,9,2008-06-09
+File,LineChartTests.java,,,9,2008-06-09
+File,LineFunction2D.java,,,2,2008-06-09
+File,LineNeedle.java,,,4,2008-06-09
+File,LineNeedleTests.java,,,5,2008-06-09
+File,LineRenderer3D.java,,,16,2008-06-09
+File,LineRenderer3DTests.java,,,8,2008-06-09
+File,LogAxis.java,,,34,2008-06-09
+File,LogAxisTests.java,,,13,2008-06-09
+File,LogFormat.java,,,8,2008-06-09
+File,LogFormatTests.java,,,6,2008-06-09
+File,LogarithmicAxis.java,,,28,2008-06-09
+File,LogarithmicAxisTests.java,,,15,2008-06-09
+File,LongNeedle.java,,,5,2008-06-09
+File,LongNeedleTests.java,,,5,2008-06-09
+File,LookupPaintScale.java,,,17,2008-06-09
+File,LookupPaintScaleTests.java,,,8,2008-06-09
+File,Marker.java,,,35,2008-06-09
+File,MarkerAxisBand.java,,,7,2008-06-09
+File,MarkerAxisBandTests.java,,,5,2008-06-09
+File,MarkerChangeEvent.java,,,2,2008-06-09
+File,MarkerChangeListener.java,,,1,2008-06-09
+File,MarkerTests.java,,,17,2008-06-09
+File,MatrixSeries.java,,,11,2008-06-09
+File,MatrixSeriesCollection.java,,,16,2008-06-09
+File,MatrixSeriesCollectionTests.java,,,6,2008-06-09
+File,MatrixSeriesTests.java,,,8,2008-06-09
+File,MeanAndStandardDeviation.java,,,8,2008-06-09
+File,MeanAndStandardDeviationTests.java,,,5,2008-06-09
+File,MeterChartTests.java,,,3,2008-06-09
+File,MeterInterval.java,,,10,2008-06-09
+File,MeterIntervalTests.java,,,5,2008-06-09
+File,MeterNeedle.java,,,26,2008-06-09
+File,MeterNeedleTests.java,,,3,2008-06-09
+File,MeterPlot.java,,,55,2008-06-09
+File,MeterPlotTests.java,,,6,2008-06-09
+File,MiddlePinNeedle.java,,,4,2008-06-09
+File,MiddlePinNeedleTests.java,,,5,2008-06-09
+File,Millisecond.java,,,18,2008-06-09
+File,MillisecondTests.java,,,21,2008-06-09
+File,MinMaxCategoryRenderer.java,,,25,2008-06-09
+File,MinMaxCategoryRendererTests.java,,,8,2008-06-09
+File,Minute.java,,,21,2008-06-09
+File,MinuteTests.java,,,21,2008-06-09
+File,ModuloAxis.java,,,17,2008-06-09
+File,ModuloAxisTests.java,,,6,2008-06-09
+File,Month.java,,,23,2008-06-09
+File,MonthDateFormat.java,,,11,2008-06-09
+File,MonthDateFormatTests.java,,,6,2008-06-09
+File,MonthTests.java,,,25,2008-06-09
+File,MovingAverage.java,,,6,2008-06-09
+File,MovingAverageTests.java,,,4,2008-06-09
+File,MultiValueCategoryDataset.java,,,2,2008-06-09
+File,MultiplePiePlot.java,,,21,2008-06-09
+File,MultiplePiePlotTests.java,,,7,2008-06-09
+File,MultipleXYSeriesLabelGenerator.java,,,9,2008-06-09
+File,MultipleXYSeriesLabelGeneratorTests.java,,,7,2008-06-09
+File,MyDialLayerChangeListener.java,,,2,2008-06-09
+File,MyPlotChangeListener.java,,,4,2008-06-09
+File,NeedlePackageTests.java,,,3,2008-06-09
+File,NonGridContourDataset.java,,,5,2008-06-09
+File,NormalDistributionFunction2D.java,,,4,2008-06-09
+File,NormalizedMatrixSeries.java,,,6,2008-06-09
+File,NotOutlierException.java,,,1,2008-06-09
+File,NumberAxis.java,,,38,2008-06-09
+File,NumberAxis3D.java,,,3,2008-06-09
+File,NumberAxis3DTests.java,,,3,2008-06-09
+File,NumberAxisTests.java,,,14,2008-06-09
+File,NumberTick.java,,,3,2008-06-09
+File,NumberTickUnit.java,,,7,2008-06-09
+File,NumberTickUnitTests.java,,,6,2008-06-09
+File,OHLC.java,,,6,2008-06-09
+File,OHLCDataItem.java,,,9,2008-06-09
+File,OHLCDataItemTests.java,,,5,2008-06-09
+File,OHLCDataset.java,,,10,2008-06-09
+File,OHLCItem.java,,,7,2008-06-09
+File,OHLCItemTests.java,,,6,2008-06-09
+File,OHLCPackageTests.java,,,3,2008-06-09
+File,OHLCSeries.java,,,4,2008-06-09
+File,OHLCSeriesCollection.java,,,22,2008-06-09
+File,OHLCSeriesCollectionTests.java,,,6,2008-06-09
+File,OHLCSeriesTests.java,,,12,2008-06-09
+File,OHLCTests.java,,,5,2008-06-09
+File,Outlier.java,,,11,2008-06-09
+File,OutlierList.java,,,9,2008-06-09
+File,OutlierListCollection.java,,,8,2008-06-09
+File,OutlierTests.java,,,6,2008-06-09
+File,OverLIBToolTipTagFragmentGenerator.java,,,2,2008-06-09
+File,PaintMap.java,,,9,2008-06-09
+File,PaintMapTests.java,,,9,2008-06-09
+File,PaintScale.java,,,3,2008-06-09
+File,PaintScaleLegend.java,,,26,2008-06-09
+File,PaintScaleLegendTests.java,,,6,2008-06-09
+File,PaletteChooserPanel.java,,,2,2008-06-09
+File,PaletteSample.java,,,6,2008-06-09
+File,PeriodAxis.java,,,46,2008-06-09
+File,PeriodAxisLabelInfo.java,,,16,2008-06-09
+File,PeriodAxisLabelInfoTests.java,,,6,2008-06-09
+File,PeriodAxisTests.java,,,8,2008-06-09
+File,PieChart3DTests.java,,,7,2008-06-09
+File,PieChartDemo1.java,,,5,2008-06-09
+File,PieChartTests.java,,,6,2008-06-09
+File,PieDataset.java,,,0,2008-06-09
+File,PieDatasetHandler.java,,,5,2008-06-09
+File,PieLabelDistributor.java,,,9,2008-06-09
+File,PieLabelLinkStyle.java,,,5,2008-06-09
+File,PieLabelRecord.java,,,16,2008-06-09
+File,PieLabelRecordTests.java,,,5,2008-06-09
+File,PiePlot.java,,,130,2008-06-09
+File,PiePlot3D.java,,,12,2008-06-09
+File,PiePlot3DTests.java,,,5,2008-06-09
+File,PiePlotState.java,,,21,2008-06-09
+File,PiePlotTests.java,,,15,2008-06-09
+File,PieSectionEntity.java,,,12,2008-06-09
+File,PieSectionEntityTests.java,,,5,2008-06-09
+File,PieSectionLabelGenerator.java,,,2,2008-06-09
+File,PieToolTipGenerator.java,,,1,2008-06-09
+File,PieURLGenerator.java,,,1,2008-06-09
+File,PinNeedle.java,,,4,2008-06-09
+File,PinNeedleTests.java,,,5,2008-06-09
+File,Plot.java,,,62,2008-06-09
+File,PlotChangeEvent.java,,,2,2008-06-09
+File,PlotChangeListener.java,,,1,2008-06-09
+File,PlotOrientation.java,,,5,2008-06-09
+File,PlotOrientationTests.java,,,4,2008-06-09
+File,PlotPackageTests.java,,,3,2008-06-09
+File,PlotRenderingInfo.java,,,14,2008-06-09
+File,PlotRenderingInfoTests.java,,,5,2008-06-09
+File,PlotState.java,,,2,2008-06-09
+File,PlotTests.java,,,3,2008-06-09
+File,PlotUtilities.java,,,1,2008-06-09
+File,PlumNeedle.java,,,4,2008-06-09
+File,PlumNeedleTests.java,,,5,2008-06-09
+File,PointerNeedle.java,,,4,2008-06-09
+File,PointerNeedleTests.java,,,5,2008-06-09
+File,PolarChartPanel.java,,,7,2008-06-09
+File,PolarItemRenderer.java,,,8,2008-06-09
+File,PolarPlot.java,,,59,2008-06-09
+File,PolarPlotTests.java,,,5,2008-06-09
+File,PowerFunction2D.java,,,2,2008-06-09
+File,Quarter.java,,,21,2008-06-09
+File,QuarterDateFormat.java,,,7,2008-06-09
+File,QuarterDateFormatTests.java,,,6,2008-06-09
+File,QuarterTests.java,,,26,2008-06-09
+File,RainbowPalette.java,,,2,2008-06-09
+File,Range.java,,,19,2008-06-09
+File,RangeInfo.java,,,3,2008-06-09
+File,RangeTests.java,,,12,2008-06-09
+File,RangeType.java,,,5,2008-06-09
+File,RangeTypeTests.java,,,5,2008-06-09
+File,RectangleConstraint.java,,,19,2008-06-09
+File,RectangleConstraintTests.java,,,3,2008-06-09
+File,Regression.java,,,4,2008-06-09
+File,RegressionTests.java,,,12,2008-06-09
+File,RegularTimePeriod.java,,,18,2008-06-09
+File,RelativeDateFormat.java,,,26,2008-06-09
+File,RelativeDateFormatTests.java,,,6,2008-06-09
+File,RendererCategoryPackageTests.java,,,3,2008-06-09
+File,RendererChangeDetector.java,,,4,2008-06-09
+File,RendererChangeEvent.java,,,2,2008-06-09
+File,RendererChangeListener.java,,,1,2008-06-09
+File,RendererPackageTests.java,,,2,2008-06-09
+File,RendererState.java,,,3,2008-06-09
+File,RendererUtilities.java,,,3,2008-06-09
+File,RendererUtilitiesTests.java,,,12,2008-06-09
+File,RendererXYPackageTests.java,,,5,2008-06-09
+File,RingPlot.java,,,20,2008-06-09
+File,RingPlotTests.java,,,5,2008-06-09
+File,RootHandler.java,,,6,2008-06-09
+File,SWTAxisEditor.java,,,12,2008-06-09
+File,SWTBarChartDemo1.java,,,3,2008-06-09
+File,SWTChartEditor.java,,,5,2008-06-09
+File,SWTGraphics2D.java,,,80,2008-06-09
+File,SWTMultipleAxisDemo1.java,,,4,2008-06-09
+File,SWTNumberAxisEditor.java,,,8,2008-06-09
+File,SWTOtherEditor.java,,,3,2008-06-09
+File,SWTPaintCanvas.java,,,8,2008-06-09
+File,SWTPieChartDemo1.java,,,3,2008-06-09
+File,SWTPlotAppearanceEditor.java,,,9,2008-06-09
+File,SWTPlotEditor.java,,,5,2008-06-09
+File,SWTStrokeCanvas.java,,,5,2008-06-09
+File,SWTTimeSeriesDemo.java,,,3,2008-06-09
+File,SWTTitleEditor.java,,,8,2008-06-09
+File,SWTUtils.java,,,14,2008-06-09
+File,ScatterPlotTests.java,,,8,2008-06-09
+File,ScatterRenderer.java,,,23,2008-06-09
+File,ScatterRendererTests.java,,,8,2008-06-09
+File,Second.java,,,19,2008-06-09
+File,SecondTests.java,,,20,2008-06-09
+File,SegmentedTimeline.java,,,81,2008-06-09
+File,SegmentedTimelineTests.java,,,46,2008-06-09
+File,SegmentedTimelineTests2.java,,,11,2008-06-09
+File,Series.java,,,20,2008-06-09
+File,SeriesChangeEvent.java,,,1,2008-06-09
+File,SeriesChangeListener.java,,,1,2008-06-09
+File,SeriesDataset.java,,,3,2008-06-09
+File,SeriesException.java,,,1,2008-06-09
+File,SeriesRenderingOrder.java,,,5,2008-06-09
+File,ServletUtilities.java,,,14,2008-06-09
+File,ShipNeedle.java,,,4,2008-06-09
+File,ShipNeedleTests.java,,,5,2008-06-09
+File,ShortTextTitle.java,,,7,2008-06-09
+File,ShortTextTitleTests.java,,,6,2008-06-09
+File,SimpleHistogramBin.java,,,11,2008-06-09
+File,SimpleHistogramBinTests.java,,,7,2008-06-09
+File,SimpleHistogramDataset.java,,,27,2008-06-09
+File,SimpleHistogramDatasetTests.java,,,7,2008-06-09
+File,SimpleTimePeriod.java,,,9,2008-06-09
+File,SimpleTimePeriodTests.java,,,10,2008-06-09
+File,SlidingCategoryDataset.java,,,19,2008-06-09
+File,SlidingCategoryDatasetTests.java,,,10,2008-06-09
+File,SlidingGanttCategoryDataset.java,,,33,2008-06-09
+File,SlidingGanttCategoryDatasetTests.java,,,5,2008-06-09
+File,SpiderWebPlot.java,,,68,2008-06-09
+File,SpiderWebPlotTests.java,,,6,2008-06-09
+File,StackedAreaChartTests.java,,,9,2008-06-09
+File,StackedAreaRenderer.java,,,12,2008-06-09
+File,StackedAreaRendererTests.java,,,7,2008-06-09
+File,StackedBarChart3DTests.java,,,9,2008-06-09
+File,StackedBarChartTests.java,,,9,2008-06-09
+File,StackedBarRenderer.java,,,9,2008-06-09
+File,StackedBarRenderer3D.java,,,15,2008-06-09
+File,StackedBarRenderer3DTests.java,,,25,2008-06-09
+File,StackedBarRendererTests.java,,,7,2008-06-09
+File,StackedXYAreaRenderer.java,,,24,2008-06-09
+File,StackedXYAreaRenderer2.java,,,12,2008-06-09
+File,StackedXYAreaRenderer2Tests.java,,,9,2008-06-09
+File,StackedXYAreaRendererTests.java,,,10,2008-06-09
+File,StackedXYBarRenderer.java,,,10,2008-06-09
+File,StackedXYBarRendererTests.java,,,9,2008-06-09
+File,StandardCategoryItemLabelGenerator.java,,,6,2008-06-09
+File,StandardCategoryItemLabelGeneratorTests.java,,,9,2008-06-09
+File,StandardCategorySeriesLabelGenerator.java,,,7,2008-06-09
+File,StandardCategorySeriesLabelGeneratorTests.java,,,8,2008-06-09
+File,StandardCategoryToolTipGenerator.java,,,5,2008-06-09
+File,StandardCategoryToolTipGeneratorTests.java,,,8,2008-06-09
+File,StandardCategoryURLGenerator.java,,,7,2008-06-09
+File,StandardCategoryURLGeneratorTests.java,,,6,2008-06-09
+File,StandardContourToolTipGenerator.java,,,2,2008-06-09
+File,StandardContourToolTipGeneratorTests.java,,,3,2008-06-09
+File,StandardDialFrame.java,,,17,2008-06-09
+File,StandardDialFrameTests.java,,,6,2008-06-09
+File,StandardDialRange.java,,,22,2008-06-09
+File,StandardDialRangeTests.java,,,6,2008-06-09
+File,StandardDialScale.java,,,49,2008-06-09
+File,StandardDialScaleTests.java,,,6,2008-06-09
+File,StandardEntityCollection.java,,,11,2008-06-09
+File,StandardEntityCollectionTests.java,,,5,2008-06-09
+File,StandardPieSectionLabelGenerator.java,,,11,2008-06-09
+File,StandardPieSectionLabelGeneratorTests.java,,,8,2008-06-09
+File,StandardPieToolTipGenerator.java,,,7,2008-06-09
+File,StandardPieToolTipGeneratorTests.java,,,7,2008-06-09
+File,StandardPieURLGenerator.java,,,6,2008-06-09
+File,StandardPieURLGeneratorTests.java,,,6,2008-06-09
+File,StandardTickUnitSource.java,,,6,2008-06-09
+File,StandardTickUnitSourceTests.java,,,4,2008-06-09
+File,StandardToolTipTagFragmentGenerator.java,,,2,2008-06-09
+File,StandardToolTipTagFragmentGeneratorTests.java,,,3,2008-06-09
+File,StandardURLTagFragmentGenerator.java,,,2,2008-06-09
+File,StandardURLTagFragmentGeneratorTests.java,,,3,2008-06-09
+File,StandardXYItemLabelGenerator.java,,,8,2008-06-09
+File,StandardXYItemLabelGeneratorTests.java,,,7,2008-06-09
+File,StandardXYItemRenderer.java,,,42,2008-06-09
+File,StandardXYItemRendererTests.java,,,9,2008-06-09
+File,StandardXYSeriesLabelGenerator.java,,,7,2008-06-09
+File,StandardXYSeriesLabelGeneratorTests.java,,,8,2008-06-09
+File,StandardXYToolTipGenerator.java,,,9,2008-06-09
+File,StandardXYToolTipGeneratorTests.java,,,7,2008-06-09
+File,StandardXYURLGenerator.java,,,5,2008-06-09
+File,StandardXYURLGeneratorTests.java,,,4,2008-06-09
+File,StandardXYZToolTipGenerator.java,,,9,2008-06-09
+File,StandardXYZToolTipGeneratorTests.java,,,7,2008-06-09
+File,StandardXYZURLGenerator.java,,,1,2008-06-09
+File,StatisticalBarRenderer.java,,,11,2008-06-09
+File,StatisticalBarRendererTests.java,,,12,2008-06-09
+File,StatisticalCategoryDataset.java,,,4,2008-06-09
+File,StatisticalLineAndShapeRenderer.java,,,8,2008-06-09
+File,StatisticalLineAndShapeRendererTests.java,,,9,2008-06-09
+File,Statistics.java,,,13,2008-06-09
+File,StatisticsTests.java,,,14,2008-06-09
+File,StrokeMap.java,,,9,2008-06-09
+File,StrokeMapTests.java,,,8,2008-06-09
+File,SubCategoryAxis.java,,,13,2008-06-09
+File,SubCategoryAxisTests.java,,,6,2008-06-09
+File,SubSeriesDataset.java,,,23,2008-06-09
+File,SunJPEGEncoderAdapter.java,,,7,2008-06-09
+File,SunPNGEncoderAdapter.java,,,6,2008-06-09
+File,SymbolAxis.java,,,21,2008-06-09
+File,SymbolAxisTests.java,,,5,2008-06-09
+File,SymbolicXYItemLabelGenerator.java,,,6,2008-06-09
+File,SymbolicXYItemLabelGeneratorTests.java,,,7,2008-06-09
+File,TableXYDataset.java,,,1,2008-06-09
+File,TableXYDatasetTests.java,,,15,2008-06-09
+File,Task.java,,,15,2008-06-09
+File,TaskSeries.java,,,10,2008-06-09
+File,TaskSeriesCollection.java,,,37,2008-06-09
+File,TaskSeriesCollectionTests.java,,,29,2008-06-09
+File,TaskSeriesTests.java,,,6,2008-06-09
+File,TaskTests.java,,,6,2008-06-09
+File,TestUtilities.java,,,1,2008-06-09
+File,TextAnnotation.java,,,17,2008-06-09
+File,TextAnnotationTests.java,,,4,2008-06-09
+File,TextTitle.java,,,36,2008-06-09
+File,TextTitleTests.java,,,6,2008-06-09
+File,ThermometerPlot.java,,,77,2008-06-09
+File,ThermometerPlotTests.java,,,7,2008-06-09
+File,Tick.java,,,8,2008-06-09
+File,TickLabelEntity.java,,,1,2008-06-09
+File,TickLabelEntityTests.java,,,5,2008-06-09
+File,TickType.java,,,4,2008-06-09
+File,TickUnit.java,,,8,2008-06-09
+File,TickUnitSource.java,,,3,2008-06-09
+File,TickUnits.java,,,9,2008-06-09
+File,TickUnitsTests.java,,,5,2008-06-09
+File,TimePeriod.java,,,2,2008-06-09
+File,TimePeriodAnchor.java,,,5,2008-06-09
+File,TimePeriodAnchorTests.java,,,4,2008-06-09
+File,TimePeriodFormatException.java,,,1,2008-06-09
+File,TimePeriodValue.java,,,9,2008-06-09
+File,TimePeriodValueTests.java,,,6,2008-06-09
+File,TimePeriodValues.java,,,27,2008-06-09
+File,TimePeriodValuesCollection.java,,,24,2008-06-09
+File,TimePeriodValuesCollectionTests.java,,,9,2008-06-09
+File,TimePeriodValuesTests.java,,,19,2008-06-09
+File,TimeSeries.java,,,44,2008-06-09
+File,TimeSeriesChartDemo1.java,,,5,2008-06-09
+File,TimeSeriesChartTests.java,,,8,2008-06-09
+File,TimeSeriesCollection.java,,,34,2008-06-09
+File,TimeSeriesCollectionTests.java,,,9,2008-06-09
+File,TimeSeriesDataItem.java,,,9,2008-06-09
+File,TimeSeriesDataItemTests.java,,,6,2008-06-09
+File,TimeSeriesTableModel.java,,,11,2008-06-09
+File,TimeSeriesTests.java,,,26,2008-06-09
+File,TimeSeriesURLGenerator.java,,,8,2008-06-09
+File,TimeSeriesURLGeneratorTests.java,,,6,2008-06-09
+File,TimeTableXYDataset.java,,,32,2008-06-09
+File,TimeTableXYDatasetTests.java,,,8,2008-06-09
+File,Timeline.java,,,7,2008-06-09
+File,Title.java,,,20,2008-06-09
+File,TitleChangeEvent.java,,,2,2008-06-09
+File,TitleChangeListener.java,,,1,2008-06-09
+File,TitlePackageTests.java,,,3,2008-06-09
+File,TitleTests.java,,,4,2008-06-09
+File,ToolTipTagFragmentGenerator.java,,,1,2008-06-09
+File,URLTagFragmentGenerator.java,,,1,2008-06-09
+File,URLUtilities.java,,,1,2008-06-09
+File,UnknownKeyException.java,,,1,2008-06-09
+File,UrlsPackageTests.java,,,3,2008-06-09
+File,UtilPackageTests.java,,,3,2008-06-09
+File,Value.java,,,1,2008-06-09
+File,ValueAxis.java,,,68,2008-06-09
+File,ValueAxisPlot.java,,,1,2008-06-09
+File,ValueAxisTests.java,,,5,2008-06-09
+File,ValueDataset.java,,,0,2008-06-09
+File,ValueHandler.java,,,6,2008-06-09
+File,ValueMarker.java,,,6,2008-06-09
+File,ValueMarkerTests.java,,,9,2008-06-09
+File,ValueTick.java,,,5,2008-06-09
+File,Values.java,,,2,2008-06-09
+File,Values2D.java,,,3,2008-06-09
+File,Vector.java,,,7,2008-06-09
+File,VectorDataItem.java,,,6,2008-06-09
+File,VectorDataItemTests.java,,,6,2008-06-09
+File,VectorRenderer.java,,,6,2008-06-09
+File,VectorRendererTests.java,,,7,2008-06-09
+File,VectorSeries.java,,,9,2008-06-09
+File,VectorSeriesCollection.java,,,18,2008-06-09
+File,VectorSeriesCollectionTests.java,,,7,2008-06-09
+File,VectorSeriesTests.java,,,14,2008-06-09
+File,VectorTests.java,,,6,2008-06-09
+File,VectorXYDataset.java,,,3,2008-06-09
+File,WaferMapDataset.java,,,19,2008-06-09
+File,WaferMapPlot.java,,,13,2008-06-09
+File,WaferMapRenderer.java,,,15,2008-06-09
+File,WaterfallBarRenderer.java,,,15,2008-06-09
+File,WaterfallBarRendererTests.java,,,7,2008-06-09
+File,WaterfallChartTests.java,,,7,2008-06-09
+File,Week.java,,,25,2008-06-09
+File,WeekTests.java,,,26,2008-06-09
+File,WindDataset.java,,,2,2008-06-09
+File,WindItemRenderer.java,,,3,2008-06-09
+File,WindItemRendererTests.java,,,7,2008-06-09
+File,WindNeedle.java,,,4,2008-06-09
+File,WindNeedleTests.java,,,5,2008-06-09
+File,XIntervalDataItem.java,,,5,2008-06-09
+File,XIntervalDataItemTests.java,,,6,2008-06-09
+File,XIntervalSeries.java,,,8,2008-06-09
+File,XIntervalSeriesCollection.java,,,20,2008-06-09
+File,XIntervalSeriesCollectionTests.java,,,8,2008-06-09
+File,XIntervalSeriesTests.java,,,16,2008-06-09
+File,XYAnnotation.java,,,1,2008-06-09
+File,XYAnnotationEntity.java,,,4,2008-06-09
+File,XYAreaChartTests.java,,,8,2008-06-09
+File,XYAreaRenderer.java,,,18,2008-06-09
+File,XYAreaRenderer2.java,,,13,2008-06-09
+File,XYAreaRenderer2Tests.java,,,9,2008-06-09
+File,XYAreaRendererTests.java,,,9,2008-06-09
+File,XYBarChartTests.java,,,8,2008-06-09
+File,XYBarDataset.java,,,22,2008-06-09
+File,XYBarDatasetTests.java,,,6,2008-06-09
+File,XYBarRenderer.java,,,32,2008-06-09
+File,XYBarRendererTests.java,,,10,2008-06-09
+File,XYBlockRenderer.java,,,15,2008-06-09
+File,XYBlockRendererTests.java,,,9,2008-06-09
+File,XYBoxAndWhiskerRenderer.java,,,22,2008-06-09
+File,XYBoxAndWhiskerRendererTests.java,,,7,2008-06-09
+File,XYBoxAnnotation.java,,,9,2008-06-09
+File,XYBoxAnnotationTests.java,,,8,2008-06-09
+File,XYBubbleRenderer.java,,,7,2008-06-09
+File,XYBubbleRendererTests.java,,,8,2008-06-09
+File,XYCoordinate.java,,,8,2008-06-09
+File,XYCoordinateTests.java,,,6,2008-06-09
+File,XYCoordinateType.java,,,4,2008-06-09
+File,XYDataItem.java,,,13,2008-06-09
+File,XYDataItemTests.java,,,5,2008-06-09
+File,XYDataset.java,,,6,2008-06-09
+File,XYDatasetTableModel.java,,,10,2008-06-09
+File,XYDifferenceRenderer.java,,,25,2008-06-09
+File,XYDifferenceRendererTests.java,,,8,2008-06-09
+File,XYDotRenderer.java,,,13,2008-06-09
+File,XYDotRendererTests.java,,,8,2008-06-09
+File,XYDrawableAnnotation.java,,,5,2008-06-09
+File,XYDrawableAnnotationTests.java,,,11,2008-06-09
+File,XYErrorRenderer.java,,,15,2008-06-09
+File,XYErrorRendererTests.java,,,7,2008-06-09
+File,XYImageAnnotation.java,,,12,2008-06-09
+File,XYImageAnnotationTests.java,,,6,2008-06-09
+File,XYInterval.java,,,7,2008-06-09
+File,XYIntervalDataItem.java,,,7,2008-06-09
+File,XYIntervalDataItemTests.java,,,6,2008-06-09
+File,XYIntervalSeries.java,,,10,2008-06-09
+File,XYIntervalSeriesCollection.java,,,22,2008-06-09
+File,XYIntervalSeriesCollectionTests.java,,,8,2008-06-09
+File,XYIntervalSeriesTests.java,,,15,2008-06-09
+File,XYIntervalTests.java,,,5,2008-06-09
+File,XYItemEntity.java,,,9,2008-06-09
+File,XYItemEntityTests.java,,,5,2008-06-09
+File,XYItemLabelGenerator.java,,,1,2008-06-09
+File,XYItemRenderer.java,,,134,2008-06-09
+File,XYItemRendererState.java,,,3,2008-06-09
+File,XYLine3DRenderer.java,,,15,2008-06-09
+File,XYLine3DRendererTests.java,,,7,2008-06-09
+File,XYLineAndShapeRenderer.java,,,55,2008-06-09
+File,XYLineAndShapeRendererTests.java,,,11,2008-06-09
+File,XYLineAnnotation.java,,,8,2008-06-09
+File,XYLineAnnotationTests.java,,,7,2008-06-09
+File,XYLineChartTests.java,,,8,2008-06-09
+File,XYPlot.java,,,200,2008-06-09
+File,XYPlotTests.java,,,27,2008-06-09
+File,XYPointerAnnotation.java,,,23,2008-06-09
+File,XYPointerAnnotationTests.java,,,7,2008-06-09
+File,XYPolygonAnnotation.java,,,13,2008-06-09
+File,XYPolygonAnnotationTests.java,,,7,2008-06-09
+File,XYSeries.java,,,35,2008-06-09
+File,XYSeriesCollection.java,,,31,2008-06-09
+File,XYSeriesCollectionTests.java,,,11,2008-06-09
+File,XYSeriesLabelGenerator.java,,,1,2008-06-09
+File,XYSeriesTests.java,,,22,2008-06-09
+File,XYShapeAnnotation.java,,,9,2008-06-09
+File,XYShapeAnnotationTests.java,,,7,2008-06-09
+File,XYSmoothLineAndShapeRenderer.java,,,4,2008-06-09
+File,XYSplineRenderer.java,,,10,2008-06-09
+File,XYSplineRendererTests.java,,,7,2008-06-09
+File,XYStepAreaChartTests.java,,,8,2008-06-09
+File,XYStepAreaRenderer.java,,,18,2008-06-09
+File,XYStepAreaRendererTests.java,,,8,2008-06-09
+File,XYStepChartTests.java,,,8,2008-06-09
+File,XYStepRenderer.java,,,9,2008-06-09
+File,XYStepRendererTests.java,,,9,2008-06-09
+File,XYTextAnnotation.java,,,23,2008-06-09
+File,XYTextAnnotationTests.java,,,7,2008-06-09
+File,XYTitleAnnotation.java,,,15,2008-06-09
+File,XYTitleAnnotationDemo1.java,,,5,2008-06-09
+File,XYTitleAnnotationTests.java,,,7,2008-06-09
+File,XYToolTipGenerator.java,,,1,2008-06-09
+File,XYURLGenerator.java,,,1,2008-06-09
+File,XYZDataset.java,,,2,2008-06-09
+File,XYZToolTipGenerator.java,,,1,2008-06-09
+File,XYZURLGenerator.java,,,1,2008-06-09
+File,XisSymbolic.java,,,3,2008-06-09
+File,YInterval.java,,,5,2008-06-09
+File,YIntervalDataItem.java,,,5,2008-06-09
+File,YIntervalDataItemTests.java,,,6,2008-06-09
+File,YIntervalRenderer.java,,,8,2008-06-09
+File,YIntervalRendererTests.java,,,8,2008-06-09
+File,YIntervalSeries.java,,,8,2008-06-09
+File,YIntervalSeriesCollection.java,,,20,2008-06-09
+File,YIntervalSeriesCollectionTests.java,,,8,2008-06-09
+File,YIntervalSeriesTests.java,,,14,2008-06-09
+File,YIntervalTests.java,,,5,2008-06-09
+File,YWithXInterval.java,,,5,2008-06-09
+File,YWithXIntervalTests.java,,,5,2008-06-09
+File,Year.java,,,18,2008-06-09
+File,YearTests.java,,,25,2008-06-09
+File,YisSymbolic.java,,,3,2008-06-09
+File,Zoomable.java,,,9,2008-06-09
+Package,org.jfree.chart,,,396,2008-06-09
+Public Class,org.jfree.chart.ChartColor,0,50,2,2008-06-09
+Public Abstract Class,org.jfree.chart.ChartFactory,97,0,38,2008-06-09
+Public Class,org.jfree.chart.ChartFrame,4,33,3,2008-06-09
+Public Class,org.jfree.chart.ChartMouseEvent,3,62,4,2008-06-09
+Public Interface,org.jfree.chart.ChartMouseListener,1,0,2,2008-06-09
+Public Class,org.jfree.chart.ChartPanel,56,96,102,2008-06-09
+Public Class,org.jfree.chart.ChartRenderingInfo,11,62,12,2008-06-09
+Public Abstract Class,org.jfree.chart.ChartUtilities,24,0,26,2008-06-09
+Public Class,org.jfree.chart.ClipPath,13,80,25,2008-06-09
+Public Class,org.jfree.chart.DrawableLegendItem,4,86,17,2008-06-09
+Public Interface,org.jfree.chart.Effect3D,0,0,2,2008-06-09
+Public Class,org.jfree.chart.HashUtilities,8,0,13,2008-06-09
+Public Class,org.jfree.chart.JFreeChart,60,92,70,2008-06-09
+Class,org.jfree.chart.JFreeChartInfo,8,0,2,2008-06-09
+Public Class,org.jfree.chart.LegendItem,20,88,40,2008-06-09
+Public Class,org.jfree.chart.LegendItemCollection,5,50,8,2008-06-09
+Public Interface,org.jfree.chart.LegendItemSource,1,0,1,2008-06-09
+Public Class,org.jfree.chart.LegendRenderingOrder,2,68,4,2008-06-09
+Public Class,org.jfree.chart.PaintMap,12,55,9,2008-06-09
+Public Class,org.jfree.chart.PolarChartPanel,10,71,7,2008-06-09
+Public Class,org.jfree.chart.StrokeMap,12,55,9,2008-06-09
+Package,org.jfree.chart.annotations,,,183,2008-06-09
+Public Abstract Class,org.jfree.chart.annotations.AbstractXYAnnotation,10,44,9,2008-06-09
+Public Interface,org.jfree.chart.annotations.CategoryAnnotation,5,0,1,2008-06-09
+Public Class,org.jfree.chart.annotations.CategoryLineAnnotation,25,69,19,2008-06-09
+Public Class,org.jfree.chart.annotations.CategoryPointerAnnotation,31,82,23,2008-06-09
+Public Class,org.jfree.chart.annotations.CategoryTextAnnotation,17,59,11,2008-06-09
+Public Class,org.jfree.chart.annotations.TextAnnotation,11,81,17,2008-06-09
+Public Interface,org.jfree.chart.annotations.XYAnnotation,5,0,1,2008-06-09
+Public Class,org.jfree.chart.annotations.XYBoxAnnotation,18,56,9,2008-06-09
+Public Class,org.jfree.chart.annotations.XYDrawableAnnotation,12,36,5,2008-06-09
+Public Class,org.jfree.chart.annotations.XYImageAnnotation,20,71,12,2008-06-09
+Public Class,org.jfree.chart.annotations.XYLineAnnotation,21,53,8,2008-06-09
+Public Class,org.jfree.chart.annotations.XYPointerAnnotation,27,82,23,2008-06-09
+Public Class,org.jfree.chart.annotations.XYPolygonAnnotation,22,60,13,2008-06-09
+Public Class,org.jfree.chart.annotations.XYShapeAnnotation,21,46,9,2008-06-09
+Public Class,org.jfree.chart.annotations.XYTextAnnotation,21,84,23,2008-06-09
+Package,org.jfree.chart.annotations.junit,,,88,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.AnnotationsPackageTests,14,0,3,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.CategoryLineAnnotationTests,14,0,7,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.CategoryPointerAnnotationTests,17,0,7,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.CategoryTextAnnotationTests,15,0,7,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.TextAnnotationTests,8,0,4,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYBoxAnnotationTests,22,0,8,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYDrawableAnnotationTests,15,0,7,2008-06-09
+Static Class,org.jfree.chart.annotations.junit.XYDrawableAnnotationTests.TestDrawable,3,0,4,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYImageAnnotationTests,7,0,6,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYLineAnnotationTests,18,0,7,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYPointerAnnotationTests,19,0,7,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYPolygonAnnotationTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYShapeAnnotationTests,17,0,7,2008-06-09
+Public Class,org.jfree.chart.annotations.junit.XYTextAnnotationTests,17,0,7,2008-06-09
+Package,org.jfree.chart.axis,,,792,2008-06-09
+Public Abstract Class,org.jfree.chart.axis.Axis,34,94,57,2008-06-09
+Public Class,org.jfree.chart.axis.AxisCollection,4,50,6,2008-06-09
+Public Class,org.jfree.chart.axis.AxisLocation,4,69,6,2008-06-09
+Public Class,org.jfree.chart.axis.AxisSpace,9,49,19,2008-06-09
+Public Class,org.jfree.chart.axis.AxisState,2,69,13,2008-06-09
+Public Class,org.jfree.chart.axis.CategoryAnchor,2,70,4,2008-06-09
+Public Class,org.jfree.chart.axis.CategoryAxis,43,91,48,2008-06-09
+Public Class,org.jfree.chart.axis.CategoryAxis3D,12,100,5,2008-06-09
+Public Class,org.jfree.chart.axis.CategoryLabelPosition,2,75,12,2008-06-09
+Public Class,org.jfree.chart.axis.CategoryLabelPositions,4,81,11,2008-06-09
+Public Class,org.jfree.chart.axis.CategoryLabelWidthType,3,68,4,2008-06-09
+Public Class,org.jfree.chart.axis.CategoryTick,1,33,6,2008-06-09
+Public Class,org.jfree.chart.axis.ColorBar,23,79,17,2008-06-09
+Public Class,org.jfree.chart.axis.CompassFormat,6,96,5,2008-06-09
+Public Class,org.jfree.chart.axis.CyclicNumberAxis,35,87,34,2008-06-09
+Protected Static Class,org.jfree.chart.axis.CyclicNumberAxis.CycleBoundTick,2,0,1,2008-06-09
+Public Class,org.jfree.chart.axis.DateAxis,39,93,48,2008-06-09
+Private Static Class,org.jfree.chart.axis.DateAxis.DefaultTimeline,1,0,8,2008-06-09
+Public Class,org.jfree.chart.axis.DateTick,2,0,4,2008-06-09
+Public Class,org.jfree.chart.axis.DateTickMarkPosition,2,70,4,2008-06-09
+Public Class,org.jfree.chart.axis.DateTickUnit,6,85,19,2008-06-09
+Public Class,org.jfree.chart.axis.ExtendedCategoryAxis,15,61,11,2008-06-09
+Public Class,org.jfree.chart.axis.LogAxis,29,84,34,2008-06-09
+Public Class,org.jfree.chart.axis.LogarithmicAxis,18,86,28,2008-06-09
+Public Class,org.jfree.chart.axis.MarkerAxisBand,21,50,7,2008-06-09
+Public Class,org.jfree.chart.axis.ModuloAxis,5,39,17,2008-06-09
+Public Class,org.jfree.chart.axis.MonthDateFormat,19,72,11,2008-06-09
+Public Class,org.jfree.chart.axis.NumberAxis,32,93,38,2008-06-09
+Public Class,org.jfree.chart.axis.NumberAxis3D,12,100,3,2008-06-09
+Public Class,org.jfree.chart.axis.NumberTick,4,0,3,2008-06-09
+Public Class,org.jfree.chart.axis.NumberTickUnit,3,64,7,2008-06-09
+Public Class,org.jfree.chart.axis.PeriodAxis,46,86,46,2008-06-09
+Public Class,org.jfree.chart.axis.PeriodAxisLabelInfo,18,83,16,2008-06-09
+Public Class,org.jfree.chart.axis.QuarterDateFormat,11,83,7,2008-06-09
+Public Class,org.jfree.chart.axis.SegmentedTimeline,16,94,45,2008-06-09
+Protected Class,org.jfree.chart.axis.SegmentedTimeline.BaseTimelineSegmentRange,0,0,1,2008-06-09
+Public Class,org.jfree.chart.axis.SegmentedTimeline.Segment,3,68,29,2008-06-09
+Protected Class,org.jfree.chart.axis.SegmentedTimeline.SegmentRange,3,66,6,2008-06-09
+Public Class,org.jfree.chart.axis.StandardTickUnitSource,4,66,6,2008-06-09
+Public Class,org.jfree.chart.axis.SubCategoryAxis,28,69,13,2008-06-09
+Public Class,org.jfree.chart.axis.SymbolAxis,36,82,21,2008-06-09
+Public Abstract Class,org.jfree.chart.axis.Tick,3,67,8,2008-06-09
+Public Class,org.jfree.chart.axis.TickType,2,58,4,2008-06-09
+Public Abstract Class,org.jfree.chart.axis.TickUnit,2,62,8,2008-06-09
+Public Interface,org.jfree.chart.axis.TickUnitSource,1,0,3,2008-06-09
+Public Class,org.jfree.chart.axis.TickUnits,9,55,9,2008-06-09
+Public Interface,org.jfree.chart.axis.Timeline,1,0,7,2008-06-09
+Public Abstract Class,org.jfree.chart.axis.ValueAxis,31,95,68,2008-06-09
+Public Abstract Class,org.jfree.chart.axis.ValueTick,2,30,5,2008-06-09
+Package,org.jfree.chart.axis.junit,,,286,2008-06-09
+Public Class,org.jfree.chart.axis.junit.AxisLocationTests,11,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.AxisPackageTests,37,0,3,2008-06-09
+Public Class,org.jfree.chart.axis.junit.AxisSpaceTests,6,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.AxisTests,11,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CategoryAnchorTests,13,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CategoryAxis3DTests,15,0,4,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CategoryAxisTests,18,0,7,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CategoryLabelPositionTests,15,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CategoryLabelPositionsTests,14,70,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CategoryLabelWidthTypeTests,13,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CategoryTickTests,16,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.ColorBarTests,16,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.CyclicNumberAxisTests,19,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.DateAxisTests,31,0,24,2008-06-09
+Static Class,org.jfree.chart.axis.junit.DateAxisTests.MyDateAxis,3,0,2,2008-06-09
+Public Class,org.jfree.chart.axis.junit.DateTickMarkPositionTests,13,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.DateTickTests,17,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.DateTickUnitTests,13,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.ExtendedCategoryAxisTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.axis.junit.LogAxisTests,24,53,13,2008-06-09
+Public Class,org.jfree.chart.axis.junit.LogarithmicAxisTests,17,50,13,2008-06-09
+Static Class,org.jfree.chart.axis.junit.LogarithmicAxisTests.MyLogarithmicAxis,1,0,2,2008-06-09
+Public Class,org.jfree.chart.axis.junit.MarkerAxisBandTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.ModuloAxisTests,14,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.MonthDateFormatTests,15,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.NumberAxis3DTests,13,0,3,2008-06-09
+Public Class,org.jfree.chart.axis.junit.NumberAxisTests,27,42,14,2008-06-09
+Public Class,org.jfree.chart.axis.junit.NumberTickUnitTests,13,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.PeriodAxisLabelInfoTests,23,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.PeriodAxisTests,29,75,8,2008-06-09
+Public Class,org.jfree.chart.axis.junit.QuarterDateFormatTests,13,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.SegmentedTimelineTests,27,91,46,2008-06-09
+Public Class,org.jfree.chart.axis.junit.SegmentedTimelineTests2,5,0,11,2008-06-09
+Public Class,org.jfree.chart.axis.junit.StandardTickUnitSourceTests,11,0,4,2008-06-09
+Public Class,org.jfree.chart.axis.junit.SubCategoryAxisTests,18,0,6,2008-06-09
+Public Class,org.jfree.chart.axis.junit.SymbolAxisTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.TickUnitsTests,13,0,5,2008-06-09
+Public Class,org.jfree.chart.axis.junit.ValueAxisTests,17,80,5,2008-06-09
+Package,org.jfree.chart.block,,,209,2008-06-09
+Public Class,org.jfree.chart.block.AbstractBlock,16,82,39,2008-06-09
+Public Interface,org.jfree.chart.block.Arrangement,4,0,3,2008-06-09
+Public Interface,org.jfree.chart.block.Block,4,0,7,2008-06-09
+Public Class,org.jfree.chart.block.BlockBorder,11,77,11,2008-06-09
+Public Class,org.jfree.chart.block.BlockContainer,18,66,14,2008-06-09
+Public Interface,org.jfree.chart.block.BlockFrame,2,0,2,2008-06-09
+Public Class,org.jfree.chart.block.BlockParams,0,57,7,2008-06-09
+Public Class,org.jfree.chart.block.BlockResult,1,0,3,2008-06-09
+Public Class,org.jfree.chart.block.BorderArrangement,11,41,10,2008-06-09
+Public Class,org.jfree.chart.block.CenterArrangement,11,100,13,2008-06-09
+Public Class,org.jfree.chart.block.ColorBlock,9,62,8,2008-06-09
+Public Class,org.jfree.chart.block.ColumnArrangement,13,78,11,2008-06-09
+Public Class,org.jfree.chart.block.EmptyBlock,4,100,5,2008-06-09
+Public Interface,org.jfree.chart.block.EntityBlockParams,0,0,1,2008-06-09
+Public Interface,org.jfree.chart.block.EntityBlockResult,1,0,1,2008-06-09
+Public Class,org.jfree.chart.block.FlowArrangement,12,82,14,2008-06-09
+Public Class,org.jfree.chart.block.GridArrangement,12,62,9,2008-06-09
+Public Class,org.jfree.chart.block.LabelBlock,20,75,18,2008-06-09
+Public Class,org.jfree.chart.block.LengthConstraintType,2,72,5,2008-06-09
+Public Class,org.jfree.chart.block.LineBorder,14,61,9,2008-06-09
+Public Class,org.jfree.chart.block.RectangleConstraint,4,65,19,2008-06-09
+Package,org.jfree.chart.block.junit,,,67,2008-06-09
+Public Class,org.jfree.chart.block.junit.AbstractBlockTests,17,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.BlockBorderTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.BlockContainerTests,17,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.BlockPackageTests,14,0,3,2008-06-09
+Public Class,org.jfree.chart.block.junit.BorderArrangementTests,22,62,8,2008-06-09
+Public Class,org.jfree.chart.block.junit.ColorBlockTests,17,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.ColumnArrangementTests,15,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.EmptyBlockTests,13,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.FlowArrangementTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.GridArrangementTests,17,75,8,2008-06-09
+Public Class,org.jfree.chart.block.junit.LabelBlockTests,15,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.LineBorderTests,15,0,5,2008-06-09
+Public Class,org.jfree.chart.block.junit.RectangleConstraintTests,5,66,3,2008-06-09
+Package,org.jfree.chart.demo,,,14,2008-06-09
+Public Class,org.jfree.chart.demo.BarChartDemo1,20,0,4,2008-06-09
+Public Class,org.jfree.chart.demo.PieChartDemo1,11,0,5,2008-06-09
+Public Class,org.jfree.chart.demo.TimeSeriesChartDemo1,19,0,5,2008-06-09
+Package,org.jfree.chart.editor,,,84,2008-06-09
+Public Interface,org.jfree.chart.editor.ChartEditor,1,0,1,2008-06-09
+Public Interface,org.jfree.chart.editor.ChartEditorFactory,2,0,1,2008-06-09
+Public Class,org.jfree.chart.editor.ChartEditorManager,5,25,4,2008-06-09
+Class,org.jfree.chart.editor.DefaultAxisEditor,20,87,17,2008-06-09
+Class,org.jfree.chart.editor.DefaultChartEditor,19,67,8,2008-06-09
+Public Class,org.jfree.chart.editor.DefaultChartEditorFactory,3,0,2,2008-06-09
+Class,org.jfree.chart.editor.DefaultColorBarEditor,17,51,5,2008-06-09
+Class,org.jfree.chart.editor.DefaultNumberAxisEditor,21,73,13,2008-06-09
+Class,org.jfree.chart.editor.DefaultPlotEditor,31,83,15,2008-06-09
+Class,org.jfree.chart.editor.DefaultTitleEditor,19,73,10,2008-06-09
+Class,org.jfree.chart.editor.PaletteChooserPanel,5,0,2,2008-06-09
+Public Class,org.jfree.chart.editor.PaletteSample,10,50,6,2008-06-09
+Package,org.jfree.chart.encoders,,,39,2008-06-09
+Public Class,org.jfree.chart.encoders.EncoderUtil,6,0,8,2008-06-09
+Public Interface,org.jfree.chart.encoders.ImageEncoder,3,0,6,2008-06-09
+Public Class,org.jfree.chart.encoders.ImageEncoderFactory,8,50,6,2008-06-09
+Public Interface,org.jfree.chart.encoders.ImageFormat,1,0,0,2008-06-09
+Public Class,org.jfree.chart.encoders.KeypointPNGEncoderAdapter,4,33,6,2008-06-09
+Public Class,org.jfree.chart.encoders.SunJPEGEncoderAdapter,12,57,7,2008-06-09
+Public Class,org.jfree.chart.encoders.SunPNGEncoderAdapter,7,0,6,2008-06-09
+Package,org.jfree.chart.entity,,,102,2008-06-09
+Public Class,org.jfree.chart.entity.CategoryItemEntity,6,66,16,2008-06-09
+Public Class,org.jfree.chart.entity.CategoryLabelEntity,5,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.ChartEntity,15,73,20,2008-06-09
+Public Class,org.jfree.chart.entity.ContourEntity,3,75,6,2008-06-09
+Public Interface,org.jfree.chart.entity.EntityCollection,3,0,8,2008-06-09
+Public Class,org.jfree.chart.entity.LegendItemEntity,5,72,10,2008-06-09
+Public Class,org.jfree.chart.entity.PieSectionEntity,5,65,12,2008-06-09
+Public Class,org.jfree.chart.entity.StandardEntityCollection,9,50,11,2008-06-09
+Public Class,org.jfree.chart.entity.TickLabelEntity,2,100,1,2008-06-09
+Public Class,org.jfree.chart.entity.XYAnnotationEntity,2,50,4,2008-06-09
+Public Class,org.jfree.chart.entity.XYItemEntity,3,69,9,2008-06-09
+Package,org.jfree.chart.entity.junit,,,43,2008-06-09
+Public Class,org.jfree.chart.entity.junit.CategoryItemEntityTests,16,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.junit.CategoryLabelEntityTests,15,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.junit.ContourEntityTests,17,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.junit.EntityPackageTests,10,0,3,2008-06-09
+Public Class,org.jfree.chart.entity.junit.LegendItemEntityTests,16,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.junit.PieSectionEntityTests,16,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.junit.StandardEntityCollectionTests,16,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.junit.TickLabelEntityTests,17,0,5,2008-06-09
+Public Class,org.jfree.chart.entity.junit.XYItemEntityTests,18,0,5,2008-06-09
+Package,org.jfree.chart.event,,,36,2008-06-09
+Public Class,org.jfree.chart.event.AxisChangeEvent,1,0,2,2008-06-09
+Public Interface,org.jfree.chart.event.AxisChangeListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.event.ChartChangeEvent,2,57,7,2008-06-09
+Public Class,org.jfree.chart.event.ChartChangeEventType,2,72,5,2008-06-09
+Public Interface,org.jfree.chart.event.ChartChangeListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.event.ChartProgressEvent,1,77,7,2008-06-09
+Public Interface,org.jfree.chart.event.ChartProgressListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.event.MarkerChangeEvent,1,0,2,2008-06-09
+Public Interface,org.jfree.chart.event.MarkerChangeListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.event.PlotChangeEvent,1,0,2,2008-06-09
+Public Interface,org.jfree.chart.event.PlotChangeListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.event.RendererChangeEvent,0,0,2,2008-06-09
+Public Interface,org.jfree.chart.event.RendererChangeListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.event.TitleChangeEvent,1,0,2,2008-06-09
+Public Interface,org.jfree.chart.event.TitleChangeListener,1,0,1,2008-06-09
+Package,org.jfree.chart.imagemap,,,17,2008-06-09
+Public Class,org.jfree.chart.imagemap.DynamicDriveToolTipTagFragmentGenerator,2,33,3,2008-06-09
+Public Class,org.jfree.chart.imagemap.ImageMapUtilities,13,0,6,2008-06-09
+Public Class,org.jfree.chart.imagemap.OverLIBToolTipTagFragmentGenerator,2,0,2,2008-06-09
+Public Class,org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator,2,0,2,2008-06-09
+Public Class,org.jfree.chart.imagemap.StandardURLTagFragmentGenerator,1,0,2,2008-06-09
+Public Interface,org.jfree.chart.imagemap.ToolTipTagFragmentGenerator,1,0,1,2008-06-09
+Public Interface,org.jfree.chart.imagemap.URLTagFragmentGenerator,1,0,1,2008-06-09
+Package,org.jfree.chart.imagemap.junit,,,9,2008-06-09
+Public Class,org.jfree.chart.imagemap.junit.ImageMapPackageTests,4,0,3,2008-06-09
+Public Class,org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests,3,0,3,2008-06-09
+Public Class,org.jfree.chart.imagemap.junit.StandardURLTagFragmentGeneratorTests,3,0,3,2008-06-09
+Package,org.jfree.chart.junit,,,227,2008-06-09
+Public Class,org.jfree.chart.junit.AreaChartTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.AreaChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.BarChart3DTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.BarChart3DTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.BarChartTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.BarChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.ChartPackageTests,29,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.ChartPanelTests,10,0,7,2008-06-09
+Public Class,org.jfree.chart.junit.ChartRenderingInfoTests,19,0,6,2008-06-09
+Public Class,org.jfree.chart.junit.GanttChartTests,25,54,11,2008-06-09
+Static Class,org.jfree.chart.junit.GanttChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.HashUtilitiesTests,3,0,3,2008-06-09
+Public Class,org.jfree.chart.junit.JFreeChartTestSuite,22,0,2,2008-06-09
+Public Class,org.jfree.chart.junit.JFreeChartTests,33,84,16,2008-06-09
+Public Class,org.jfree.chart.junit.LegendItemCollectionTests,19,0,5,2008-06-09
+Public Class,org.jfree.chart.junit.LegendItemTests,21,0,6,2008-06-09
+Public Class,org.jfree.chart.junit.LineChart3DTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.LineChart3DTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.LineChartTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.LineChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.MeterChartTests,13,0,3,2008-06-09
+Public Class,org.jfree.chart.junit.PaintMapTests,16,0,9,2008-06-09
+Public Class,org.jfree.chart.junit.PieChart3DTests,15,66,6,2008-06-09
+Static Class,org.jfree.chart.junit.PieChart3DTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.PieChartTests,8,60,5,2008-06-09
+Static Class,org.jfree.chart.junit.PieChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.ScatterPlotTests,22,42,7,2008-06-09
+Static Class,org.jfree.chart.junit.ScatterPlotTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.StackedAreaChartTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.StackedAreaChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.StackedBarChart3DTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.StackedBarChart3DTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.StackedBarChartTests,24,37,8,2008-06-09
+Static Class,org.jfree.chart.junit.StackedBarChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.StrokeMapTests,14,0,8,2008-06-09
+Public Class,org.jfree.chart.junit.TestUtilities,3,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.TimeSeriesChartTests,21,42,7,2008-06-09
+Static Class,org.jfree.chart.junit.TimeSeriesChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.WaterfallChartTests,21,42,7,2008-06-09
+Public Class,org.jfree.chart.junit.XYAreaChartTests,22,42,7,2008-06-09
+Static Class,org.jfree.chart.junit.XYAreaChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.XYBarChartTests,24,42,7,2008-06-09
+Static Class,org.jfree.chart.junit.XYBarChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.XYLineChartTests,22,42,7,2008-06-09
+Static Class,org.jfree.chart.junit.XYLineChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.XYStepAreaChartTests,22,42,7,2008-06-09
+Static Class,org.jfree.chart.junit.XYStepAreaChartTests.LocalListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.junit.XYStepChartTests,22,42,7,2008-06-09
+Static Class,org.jfree.chart.junit.XYStepChartTests.LocalListener,1,0,1,2008-06-09
+Package,org.jfree.chart.labels,,,199,2008-06-09
+Public Abstract Class,org.jfree.chart.labels.AbstractCategoryItemLabelGenerator,13,64,13,2008-06-09
+Public Class,org.jfree.chart.labels.AbstractPieItemLabelGenerator,12,52,9,2008-06-09
+Public Class,org.jfree.chart.labels.AbstractXYItemLabelGenerator,11,69,16,2008-06-09
+Public Class,org.jfree.chart.labels.BoxAndWhiskerToolTipGenerator,8,87,4,2008-06-09
+Public Class,org.jfree.chart.labels.BoxAndWhiskerXYToolTipGenerator,9,87,4,2008-06-09
+Public Class,org.jfree.chart.labels.BubbleXYItemLabelGenerator,11,72,10,2008-06-09
+Public Interface,org.jfree.chart.labels.CategoryItemLabelGenerator,2,0,3,2008-06-09
+Public Interface,org.jfree.chart.labels.CategorySeriesLabelGenerator,2,0,1,2008-06-09
+Public Interface,org.jfree.chart.labels.CategoryToolTipGenerator,2,0,1,2008-06-09
+Public Interface,org.jfree.chart.labels.ContourToolTipGenerator,2,0,1,2008-06-09
+Public Class,org.jfree.chart.labels.CustomXYToolTipGenerator,5,68,8,2008-06-09
+Public Class,org.jfree.chart.labels.HighLowItemLabelGenerator,11,52,7,2008-06-09
+Public Class,org.jfree.chart.labels.IntervalCategoryItemLabelGenerator,9,87,4,2008-06-09
+Public Class,org.jfree.chart.labels.IntervalCategoryToolTipGenerator,9,87,4,2008-06-09
+Public Class,org.jfree.chart.labels.IntervalXYItemLabelGenerator,9,88,9,2008-06-09
+Public Class,org.jfree.chart.labels.ItemLabelAnchor,2,74,4,2008-06-09
+Public Class,org.jfree.chart.labels.ItemLabelPosition,2,70,8,2008-06-09
+Public Class,org.jfree.chart.labels.MultipleXYSeriesLabelGenerator,15,64,9,2008-06-09
+Public Interface,org.jfree.chart.labels.PieSectionLabelGenerator,4,0,2,2008-06-09
+Public Interface,org.jfree.chart.labels.PieToolTipGenerator,3,0,1,2008-06-09
+Public Class,org.jfree.chart.labels.StandardCategoryItemLabelGenerator,4,91,6,2008-06-09
+Public Class,org.jfree.chart.labels.StandardCategorySeriesLabelGenerator,7,76,7,2008-06-09
+Public Class,org.jfree.chart.labels.StandardCategoryToolTipGenerator,4,90,5,2008-06-09
+Public Class,org.jfree.chart.labels.StandardContourToolTipGenerator,11,50,2,2008-06-09
+Public Class,org.jfree.chart.labels.StandardPieSectionLabelGenerator,8,81,11,2008-06-09
+Public Class,org.jfree.chart.labels.StandardPieToolTipGenerator,6,90,7,2008-06-09
+Public Class,org.jfree.chart.labels.StandardXYItemLabelGenerator,5,93,8,2008-06-09
+Public Class,org.jfree.chart.labels.StandardXYSeriesLabelGenerator,7,76,7,2008-06-09
+Public Class,org.jfree.chart.labels.StandardXYToolTipGenerator,5,88,9,2008-06-09
+Public Class,org.jfree.chart.labels.StandardXYZToolTipGenerator,10,75,9,2008-06-09
+Public Class,org.jfree.chart.labels.SymbolicXYItemLabelGenerator,10,100,6,2008-06-09
+Public Interface,org.jfree.chart.labels.XYItemLabelGenerator,2,0,1,2008-06-09
+Public Interface,org.jfree.chart.labels.XYSeriesLabelGenerator,2,0,1,2008-06-09
+Public Interface,org.jfree.chart.labels.XYToolTipGenerator,2,0,1,2008-06-09
+Public Interface,org.jfree.chart.labels.XYZToolTipGenerator,2,0,1,2008-06-09
+Package,org.jfree.chart.labels.junit,,,138,2008-06-09
+Public Class,org.jfree.chart.labels.junit.BoxAndWhiskerToolTipGeneratorTests,14,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.BoxAndWhiskerXYToolTipGeneratorTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.BubbleXYItemLabelGeneratorTests,19,0,8,2008-06-09
+Public Class,org.jfree.chart.labels.junit.CustomXYItemLabelGeneratorTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.labels.junit.HighLowItemLabelGeneratorTests,15,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.IntervalCategoryLabelGeneratorTests,17,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.ItemLabelAnchorTests,11,0,4,2008-06-09
+Public Class,org.jfree.chart.labels.junit.ItemLabelPositionTests,11,0,4,2008-06-09
+Public Class,org.jfree.chart.labels.junit.LabelsPackageTests,22,0,3,2008-06-09
+Public Class,org.jfree.chart.labels.junit.MultipleXYSeriesLabelGeneratorTests,12,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardCategoryItemLabelGeneratorTests,18,0,9,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardCategorySeriesLabelGeneratorTests,13,0,8,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardCategoryToolTipGeneratorTests,17,0,8,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardContourToolTipGeneratorTests,13,0,3,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardPieSectionLabelGeneratorTests,16,0,8,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardPieToolTipGeneratorTests,15,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardXYItemLabelGeneratorTests,17,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardXYSeriesLabelGeneratorTests,14,0,8,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardXYToolTipGeneratorTests,17,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.StandardXYZToolTipGeneratorTests,18,0,7,2008-06-09
+Public Class,org.jfree.chart.labels.junit.SymbolicXYItemLabelGeneratorTests,12,0,7,2008-06-09
+Package,org.jfree.chart.needle,,,64,2008-06-09
+Public Class,org.jfree.chart.needle.ArrowNeedle,13,60,5,2008-06-09
+Public Class,org.jfree.chart.needle.LineNeedle,9,100,4,2008-06-09
+Public Class,org.jfree.chart.needle.LongNeedle,10,100,5,2008-06-09
+Public Abstract Class,org.jfree.chart.needle.MeterNeedle,18,80,26,2008-06-09
+Public Class,org.jfree.chart.needle.MiddlePinNeedle,12,100,4,2008-06-09
+Public Class,org.jfree.chart.needle.PinNeedle,12,100,4,2008-06-09
+Public Class,org.jfree.chart.needle.PlumNeedle,10,100,4,2008-06-09
+Public Class,org.jfree.chart.needle.PointerNeedle,9,100,4,2008-06-09
+Public Class,org.jfree.chart.needle.ShipNeedle,11,100,4,2008-06-09
+Public Class,org.jfree.chart.needle.WindNeedle,5,100,4,2008-06-09
+Package,org.jfree.chart.needle.junit,,,51,2008-06-09
+Public Class,org.jfree.chart.needle.junit.ArrowNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.LineNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.LongNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.MeterNeedleTests,8,0,3,2008-06-09
+Public Class,org.jfree.chart.needle.junit.MiddlePinNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.NeedlePackageTests,12,0,3,2008-06-09
+Public Class,org.jfree.chart.needle.junit.PinNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.PlumNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.PointerNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.ShipNeedleTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.needle.junit.WindNeedleTests,15,0,5,2008-06-09
+Package,org.jfree.chart.plot,,,1416,2008-06-09
+Public Abstract Class,org.jfree.chart.plot.AbstractPieLabelDistributor,4,16,6,2008-06-09
+Public Class,org.jfree.chart.plot.CategoryMarker,7,56,8,2008-06-09
+Public Class,org.jfree.chart.plot.CategoryPlot,66,97,174,2008-06-09
+Public Abstract Class,org.jfree.chart.plot.ColorPalette,9,83,26,2008-06-09
+Public Class,org.jfree.chart.plot.CombinedDomainCategoryPlot,23,78,24,2008-06-09
+Public Class,org.jfree.chart.plot.CombinedDomainXYPlot,25,80,25,2008-06-09
+Public Class,org.jfree.chart.plot.CombinedRangeCategoryPlot,26,73,19,2008-06-09
+Public Class,org.jfree.chart.plot.CombinedRangeXYPlot,26,79,24,2008-06-09
+Public Class,org.jfree.chart.plot.CompassPlot,43,90,34,2008-06-09
+Public Class,org.jfree.chart.plot.ContourPlot,53,96,79,2008-06-09
+Public Abstract Class,org.jfree.chart.plot.ContourPlotUtilities,3,0,1,2008-06-09
+Public Interface,org.jfree.chart.plot.ContourValuePlot,1,0,1,2008-06-09
+Public Class,org.jfree.chart.plot.CrosshairState,3,83,22,2008-06-09
+Public Class,org.jfree.chart.plot.DatasetRenderingOrder,2,70,5,2008-06-09
+Public Class,org.jfree.chart.plot.DefaultDrawingSupplier,17,84,17,2008-06-09
+Public Class,org.jfree.chart.plot.DialShape,2,72,5,2008-06-09
+Public Interface,org.jfree.chart.plot.DrawingSupplier,3,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.FastScatterPlot,36,88,43,2008-06-09
+Public Class,org.jfree.chart.plot.GreyPalette,0,100,2,2008-06-09
+Public Class,org.jfree.chart.plot.IntervalMarker,6,72,11,2008-06-09
+Public Class,org.jfree.chart.plot.JThermometer,17,77,26,2008-06-09
+Public Abstract Class,org.jfree.chart.plot.Marker,17,87,35,2008-06-09
+Public Class,org.jfree.chart.plot.MeterInterval,11,65,10,2008-06-09
+Public Class,org.jfree.chart.plot.MeterPlot,49,92,55,2008-06-09
+Public Class,org.jfree.chart.plot.MultiplePiePlot,41,75,21,2008-06-09
+Public Class,org.jfree.chart.plot.PieLabelDistributor,6,66,9,2008-06-09
+Public Class,org.jfree.chart.plot.PieLabelLinkStyle,2,65,5,2008-06-09
+Public Class,org.jfree.chart.plot.PieLabelRecord,1,74,16,2008-06-09
+Public Class,org.jfree.chart.plot.PiePlot,70,96,130,2008-06-09
+Public Class,org.jfree.chart.plot.PiePlot3D,39,80,12,2008-06-09
+Public Class,org.jfree.chart.plot.PiePlotState,2,89,21,2008-06-09
+Public Abstract Class,org.jfree.chart.plot.Plot,45,94,62,2008-06-09
+Public Class,org.jfree.chart.plot.PlotOrientation,2,70,5,2008-06-09
+Public Class,org.jfree.chart.plot.PlotRenderingInfo,13,70,14,2008-06-09
+Public Class,org.jfree.chart.plot.PlotState,2,0,2,2008-06-09
+Public Class,org.jfree.chart.plot.PlotUtilities,3,0,1,2008-06-09
+Public Class,org.jfree.chart.plot.PolarPlot,48,92,59,2008-06-09
+Public Class,org.jfree.chart.plot.RainbowPalette,1,62,2,2008-06-09
+Public Class,org.jfree.chart.plot.RingPlot,36,75,20,2008-06-09
+Public Class,org.jfree.chart.plot.SeriesRenderingOrder,2,70,5,2008-06-09
+Public Class,org.jfree.chart.plot.SpiderWebPlot,54,93,68,2008-06-09
+Public Class,org.jfree.chart.plot.ThermometerPlot,46,96,77,2008-06-09
+Public Interface,org.jfree.chart.plot.ValueAxisPlot,2,0,1,2008-06-09
+Public Class,org.jfree.chart.plot.ValueMarker,3,16,6,2008-06-09
+Public Class,org.jfree.chart.plot.WaferMapPlot,27,92,13,2008-06-09
+Public Class,org.jfree.chart.plot.XYPlot,67,97,200,2008-06-09
+Public Interface,org.jfree.chart.plot.Zoomable,3,0,9,2008-06-09
+Package,org.jfree.chart.plot.dial,,,297,2008-06-09
+Public Abstract Class,org.jfree.chart.plot.dial.AbstractDialLayer,12,45,11,2008-06-09
+Public Class,org.jfree.chart.plot.dial.ArcDialFrame,24,74,25,2008-06-09
+Public Class,org.jfree.chart.plot.dial.DialBackground,14,64,13,2008-06-09
+Public Class,org.jfree.chart.plot.dial.DialCap,18,63,16,2008-06-09
+Public Interface,org.jfree.chart.plot.dial.DialFrame,2,0,1,2008-06-09
+Public Interface,org.jfree.chart.plot.dial.DialLayer,5,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.DialLayerChangeEvent,1,0,2,2008-06-09
+Public Interface,org.jfree.chart.plot.dial.DialLayerChangeListener,1,0,1,2008-06-09
+Public Class,org.jfree.chart.plot.dial.DialPlot,32,86,41,2008-06-09
+Public Abstract Class,org.jfree.chart.plot.dial.DialPointer,3,55,10,2008-06-09
+Public Static Class,org.jfree.chart.plot.dial.DialPointer.Pin,21,51,11,2008-06-09
+Public Static Class,org.jfree.chart.plot.dial.DialPointer.Pointer,23,57,13,2008-06-09
+Public Interface,org.jfree.chart.plot.dial.DialScale,0,0,2,2008-06-09
+Public Class,org.jfree.chart.plot.dial.DialTextAnnotation,20,72,20,2008-06-09
+Public Class,org.jfree.chart.plot.dial.DialValueIndicator,28,85,37,2008-06-09
+Public Class,org.jfree.chart.plot.dial.StandardDialFrame,21,63,17,2008-06-09
+Public Class,org.jfree.chart.plot.dial.StandardDialRange,19,73,22,2008-06-09
+Public Class,org.jfree.chart.plot.dial.StandardDialScale,24,88,49,2008-06-09
+Package,org.jfree.chart.plot.dial.junit,,,79,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.AbstractDialLayerTests,14,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.ArcDialFrameTests,17,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.DialBackgroundTests,16,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.DialCapTests,17,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.DialPackageTests,13,0,3,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.DialPlotTests,21,50,12,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.DialPointerTests,18,0,9,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.DialTextAnnotationTests,17,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.DialValueIndicatorTests,19,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.MyDialLayerChangeListener,1,0,2,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.StandardDialFrameTests,17,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.StandardDialRangeTests,16,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.dial.junit.StandardDialScaleTests,18,0,6,2008-06-09
+Package,org.jfree.chart.plot.junit,,,245,2008-06-09
+Public Class,org.jfree.chart.plot.junit.CategoryMarkerTests,18,62,8,2008-06-09
+Public Class,org.jfree.chart.plot.junit.CategoryPlotTests,58,0,22,2008-06-09
+Public Class,org.jfree.chart.plot.junit.ColorPaletteTests,7,0,4,2008-06-09
+Public Class,org.jfree.chart.plot.junit.CombinedDomainCategoryPlotTests,32,81,11,2008-06-09
+Public Class,org.jfree.chart.plot.junit.CombinedDomainXYPlotTests,32,83,12,2008-06-09
+Public Class,org.jfree.chart.plot.junit.CombinedRangeCategoryPlotTests,31,81,11,2008-06-09
+Public Class,org.jfree.chart.plot.junit.CombinedRangeXYPlotTests,32,81,11,2008-06-09
+Public Class,org.jfree.chart.plot.junit.CompassPlotTests,16,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.ContourPlotTests,13,0,3,2008-06-09
+Public Class,org.jfree.chart.plot.junit.DefaultDrawingSupplierTests,21,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.FastScatterPlotTests,23,0,7,2008-06-09
+Public Class,org.jfree.chart.plot.junit.IntervalMarkerTests,14,68,8,2008-06-09
+Public Class,org.jfree.chart.plot.junit.MarkerTests,14,58,17,2008-06-09
+Public Class,org.jfree.chart.plot.junit.MeterIntervalTests,17,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.MeterPlotTests,21,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.junit.MultiplePiePlotTests,21,85,7,2008-06-09
+Public Class,org.jfree.chart.plot.junit.MyPlotChangeListener,1,0,4,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PieLabelRecordTests,12,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PiePlot3DTests,18,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PiePlotTests,37,0,13,2008-06-09
+Static Class,org.jfree.chart.plot.junit.PiePlotTests.NullLegendLabelGenerator,4,0,2,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PlotOrientationTests,13,0,4,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PlotPackageTests,30,0,3,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PlotRenderingInfoTests,18,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PlotTests,14,0,3,2008-06-09
+Public Class,org.jfree.chart.plot.junit.PolarPlotTests,24,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.RingPlotTests,17,0,5,2008-06-09
+Public Class,org.jfree.chart.plot.junit.SpiderWebPlotTests,28,0,6,2008-06-09
+Public Class,org.jfree.chart.plot.junit.ThermometerPlotTests,17,0,7,2008-06-09
+Public Class,org.jfree.chart.plot.junit.ValueMarkerTests,20,77,9,2008-06-09
+Public Class,org.jfree.chart.plot.junit.XYPlotTests,58,0,27,2008-06-09
+Package,org.jfree.chart.renderer,,,271,2008-06-09
+Public Abstract Class,org.jfree.chart.renderer.AbstractRenderer,31,97,170,2008-06-09
+Public Class,org.jfree.chart.renderer.AreaRendererEndType,2,70,4,2008-06-09
+Public Class,org.jfree.chart.renderer.DefaultPolarItemRenderer,29,70,12,2008-06-09
+Public Class,org.jfree.chart.renderer.GrayPaintScale,5,42,7,2008-06-09
+Public Class,org.jfree.chart.renderer.LookupPaintScale,13,68,12,2008-06-09
+Class,org.jfree.chart.renderer.LookupPaintScale.PaintItem,5,53,5,2008-06-09
+Public Class,org.jfree.chart.renderer.NotOutlierException,1,0,1,2008-06-09
+Public Class,org.jfree.chart.renderer.Outlier,3,59,11,2008-06-09
+Public Class,org.jfree.chart.renderer.OutlierList,6,70,9,2008-06-09
+Public Class,org.jfree.chart.renderer.OutlierListCollection,5,70,8,2008-06-09
+Public Interface,org.jfree.chart.renderer.PaintScale,1,0,3,2008-06-09
+Public Interface,org.jfree.chart.renderer.PolarItemRenderer,9,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.RendererState,3,0,3,2008-06-09
+Public Class,org.jfree.chart.renderer.RendererUtilities,3,0,3,2008-06-09
+Public Class,org.jfree.chart.renderer.WaferMapRenderer,23,77,15,2008-06-09
+Package,org.jfree.chart.renderer.category,,,498,2008-06-09
+Public Abstract Class,org.jfree.chart.renderer.category.AbstractCategoryItemRenderer,47,91,52,2008-06-09
+Public Class,org.jfree.chart.renderer.category.AreaRenderer,27,64,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.BarRenderer,38,90,33,2008-06-09
+Public Class,org.jfree.chart.renderer.category.BarRenderer3D,43,81,16,2008-06-09
+Public Class,org.jfree.chart.renderer.category.BoxAndWhiskerRenderer,42,79,21,2008-06-09
+Public Interface,org.jfree.chart.renderer.category.CategoryItemRenderer,22,0,131,2008-06-09
+Public Class,org.jfree.chart.renderer.category.CategoryItemRendererState,1,40,5,2008-06-09
+Public Class,org.jfree.chart.renderer.category.CategoryStepRenderer,22,81,9,2008-06-09
+Protected Static Class,org.jfree.chart.renderer.category.CategoryStepRenderer.State,3,0,1,2008-06-09
+Public Class,org.jfree.chart.renderer.category.DefaultCategoryItemRenderer,0,0,0,2008-06-09
+Public Class,org.jfree.chart.renderer.category.GanttRenderer,29,73,15,2008-06-09
+Public Class,org.jfree.chart.renderer.category.GroupedStackedBarRenderer,24,50,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.IntervalBarRenderer,18,100,3,2008-06-09
+Public Class,org.jfree.chart.renderer.category.LayeredBarRenderer,25,78,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.LevelRenderer,20,82,13,2008-06-09
+Public Class,org.jfree.chart.renderer.category.LineAndShapeRenderer,24,89,44,2008-06-09
+Public Class,org.jfree.chart.renderer.category.LineRenderer3D,36,79,16,2008-06-09
+Public Class,org.jfree.chart.renderer.category.MinMaxCategoryRenderer,30,83,19,2008-06-09
+Class,org.jfree.chart.renderer.category.MinMaxCategoryRenderer.getIcon.(Anon_1),6,0,3,2008-06-09
+Class,org.jfree.chart.renderer.category.MinMaxCategoryRenderer.getIcon.(Anon_2),6,0,3,2008-06-09
+Public Class,org.jfree.chart.renderer.category.ScatterRenderer,27,75,23,2008-06-09
+Public Class,org.jfree.chart.renderer.category.StackedAreaRenderer,21,75,12,2008-06-09
+Public Class,org.jfree.chart.renderer.category.StackedBarRenderer,23,66,9,2008-06-09
+Public Class,org.jfree.chart.renderer.category.StackedBarRenderer3D,34,76,15,2008-06-09
+Public Class,org.jfree.chart.renderer.category.StatisticalBarRenderer,28,51,11,2008-06-09
+Public Class,org.jfree.chart.renderer.category.StatisticalLineAndShapeRenderer,23,56,8,2008-06-09
+Public Class,org.jfree.chart.renderer.category.WaterfallBarRenderer,26,68,15,2008-06-09
+Package,org.jfree.chart.renderer.category.junit,,,213,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests,11,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.AreaRendererTests,20,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.BarRenderer3DTests,15,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.BarRendererTests,26,0,10,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests,36,0,20,2008-06-09
+Class,org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests.testBug1572478Horizontal.(Anon_2),2,0,2,2008-06-09
+Class,org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests.testBug1572478Vertical.(Anon_1),2,0,2,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.CategoryStepRendererTests,19,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.DefaultCategoryItemRendererTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.GanttRendererTests,15,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.GroupedStackedBarRendererTests,20,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.IntervalBarRendererTests,22,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.LayeredBarRendererTests,22,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.LevelRendererTests,22,0,10,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.LineAndShapeRendererTests,20,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.LineRenderer3DTests,17,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests,24,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.RendererCategoryPackageTests,23,0,3,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.ScatterRendererTests,13,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.StackedAreaRendererTests,14,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests,17,0,24,2008-06-09
+Static Class,org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests.MyRenderer,3,0,1,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.StackedBarRendererTests,15,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests,23,0,12,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.StatisticalLineAndShapeRendererTests,23,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.category.junit.WaterfallBarRendererTests,16,0,7,2008-06-09
+Package,org.jfree.chart.renderer.junit,,,73,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.AbstractRendererTests,36,0,22,2008-06-09
+Static Class,org.jfree.chart.renderer.junit.AbstractRendererTests.MyRendererChangeListener,1,0,2,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.AreaRendererEndTypeTests,13,0,4,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.DefaultPolarItemRendererTests,13,0,6,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.GrayPaintScaleTests,13,85,7,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.LookupPaintScaleTests,15,75,8,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.OutlierTests,7,83,6,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.RendererChangeDetector,1,0,4,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.RendererPackageTests,9,0,2,2008-06-09
+Public Class,org.jfree.chart.renderer.junit.RendererUtilitiesTests,4,0,8,2008-06-09
+Class,org.jfree.chart.renderer.junit.RendererUtilitiesTests.testFindLiveItemsLowerBoundAscending.(Anon_1),1,0,1,2008-06-09
+Class,org.jfree.chart.renderer.junit.RendererUtilitiesTests.testFindLiveItemsLowerBoundDescending.(Anon_2),1,0,1,2008-06-09
+Class,org.jfree.chart.renderer.junit.RendererUtilitiesTests.testFindLiveItemsUpperBoundAscending.(Anon_3),1,0,1,2008-06-09
+Class,org.jfree.chart.renderer.junit.RendererUtilitiesTests.testFindLiveItemsUpperBoundDescending.(Anon_4),1,0,1,2008-06-09
+Package,org.jfree.chart.renderer.xy,,,651,2008-06-09
+Public Abstract Class,org.jfree.chart.renderer.xy.AbstractXYItemRenderer,51,90,55,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.CandlestickRenderer,34,87,31,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.ClusteredXYBarRenderer,23,71,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.CyclicXYItemRenderer,13,100,5,2008-06-09
+Protected Static Class,org.jfree.chart.renderer.xy.CyclicXYItemRenderer.OverwriteDataSet,6,76,14,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.DefaultXYItemRenderer,0,0,0,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.DeviationRenderer,23,58,12,2008-06-09
+Public Static Class,org.jfree.chart.renderer.xy.DeviationRenderer.State,3,0,1,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.HighLowRenderer,31,76,17,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.StackedXYAreaRenderer,33,79,16,2008-06-09
+Static Class,org.jfree.chart.renderer.xy.StackedXYAreaRenderer.StackedXYAreaRendererState,5,65,8,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.StackedXYAreaRenderer2,24,79,12,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.StackedXYBarRenderer,28,65,10,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.StandardXYItemRenderer,40,90,37,2008-06-09
+Public Static Class,org.jfree.chart.renderer.xy.StandardXYItemRenderer.State,2,73,5,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.VectorRenderer,21,66,6,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.WindItemRenderer,20,100,3,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYAreaRenderer,34,85,17,2008-06-09
+Static Class,org.jfree.chart.renderer.xy.XYAreaRenderer.XYAreaRendererState,4,0,1,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYAreaRenderer2,34,69,13,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYBarRenderer,40,85,29,2008-06-09
+Protected Class,org.jfree.chart.renderer.xy.XYBarRenderer.XYBarRendererState,1,33,3,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYBlockRenderer,22,68,15,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYBoxAndWhiskerRenderer,38,80,22,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYBubbleRenderer,26,82,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYDifferenceRenderer,39,81,25,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYDotRenderer,24,69,13,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYErrorRenderer,20,70,15,2008-06-09
+Public Interface,org.jfree.chart.renderer.xy.XYItemRenderer,23,0,134,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYItemRendererState,3,33,3,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYLine3DRenderer,8,83,15,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYLineAndShapeRenderer,32,90,52,2008-06-09
+Public Static Class,org.jfree.chart.renderer.xy.XYLineAndShapeRenderer.State,2,66,3,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYSplineRenderer,14,56,8,2008-06-09
+Class,org.jfree.chart.renderer.xy.XYSplineRenderer.ControlPoint,0,25,2,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYStepAreaRenderer,22,87,18,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.XYStepRenderer,20,77,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.YIntervalRenderer,29,68,8,2008-06-09
+Package,org.jfree.chart.renderer.xy.junit,,,222,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.AbstractXYItemRendererTests,12,87,8,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.CandlestickRendererTests,20,88,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.ClusteredXYBarRendererTests,17,88,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.DeviationRendererTests,14,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.HighLowRendererTests,19,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.RendererXYPackageTests,32,0,5,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.StackedXYAreaRenderer2Tests,28,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.StackedXYAreaRendererTests,30,0,10,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.StackedXYBarRendererTests,25,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.StandardXYItemRendererTests,34,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.VectorRendererTests,14,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.WindItemRendererTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYAreaRenderer2Tests,22,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYAreaRendererTests,25,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYBarRendererTests,30,0,10,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYBlockRendererTests,18,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYBoxAndWhiskerRendererTests,17,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYBubbleRendererTests,18,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYDifferenceRendererTests,24,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYDotRendererTests,21,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYErrorRendererTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYLine3DRendererTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests,31,0,11,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYSplineRendererTests,16,0,7,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYStepAreaRendererTests,19,0,8,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.XYStepRendererTests,21,0,9,2008-06-09
+Public Class,org.jfree.chart.renderer.xy.junit.YIntervalRendererTests,26,0,8,2008-06-09
+Package,org.jfree.chart.resources,,,1,2008-06-09
+Public Class,org.jfree.chart.resources.JFreeChartResources,0,0,1,2008-06-09
+Package,org.jfree.chart.servlet,,,22,2008-06-09
+Public Class,org.jfree.chart.servlet.ChartDeleter,6,40,5,2008-06-09
+Public Class,org.jfree.chart.servlet.DisplayChart,6,0,3,2008-06-09
+Public Class,org.jfree.chart.servlet.ServletUtilities,22,71,14,2008-06-09
+Package,org.jfree.chart.title,,,192,2008-06-09
+Public Class,org.jfree.chart.title.CompositeTitle,6,62,8,2008-06-09
+Public Class,org.jfree.chart.title.DateTitle,6,100,5,2008-06-09
+Public Class,org.jfree.chart.title.ImageTitle,9,36,11,2008-06-09
+Public Class,org.jfree.chart.title.LegendGraphic,18,85,38,2008-06-09
+Public Class,org.jfree.chart.title.LegendItemBlockContainer,14,77,11,2008-06-09
+Public Class,org.jfree.chart.title.LegendTitle,26,87,30,2008-06-09
+Public Class,org.jfree.chart.title.PaintScaleLegend,27,81,26,2008-06-09
+Public Class,org.jfree.chart.title.ShortTextTitle,11,0,7,2008-06-09
+Public Class,org.jfree.chart.title.TextTitle,27,84,36,2008-06-09
+Public Abstract Class,org.jfree.chart.title.Title,12,84,20,2008-06-09
+Package,org.jfree.chart.title.junit,,,58,2008-06-09
+Public Class,org.jfree.chart.title.junit.CompositeTitleTests,20,0,6,2008-06-09
+Public Class,org.jfree.chart.title.junit.DateTitleTests,17,0,6,2008-06-09
+Public Class,org.jfree.chart.title.junit.ImageTitleTests,10,75,8,2008-06-09
+Public Class,org.jfree.chart.title.junit.LegendGraphicTests,22,0,7,2008-06-09
+Public Class,org.jfree.chart.title.junit.LegendTitleTests,20,0,6,2008-06-09
+Public Class,org.jfree.chart.title.junit.PaintScaleLegendTests,20,0,6,2008-06-09
+Public Class,org.jfree.chart.title.junit.ShortTextTitleTests,13,0,6,2008-06-09
+Public Class,org.jfree.chart.title.junit.TextTitleTests,15,0,6,2008-06-09
+Public Class,org.jfree.chart.title.junit.TitlePackageTests,11,0,3,2008-06-09
+Public Class,org.jfree.chart.title.junit.TitleTests,4,0,4,2008-06-09
+Package,org.jfree.chart.urls,,,56,2008-06-09
+Public Interface,org.jfree.chart.urls.CategoryURLGenerator,2,0,1,2008-06-09
+Public Class,org.jfree.chart.urls.CustomCategoryURLGenerator,5,37,8,2008-06-09
+Public Class,org.jfree.chart.urls.CustomPieURLGenerator,9,56,8,2008-06-09
+Public Class,org.jfree.chart.urls.CustomXYURLGenerator,5,68,8,2008-06-09
+Public Interface,org.jfree.chart.urls.PieURLGenerator,3,0,1,2008-06-09
+Public Class,org.jfree.chart.urls.StandardCategoryURLGenerator,7,53,7,2008-06-09
+Public Class,org.jfree.chart.urls.StandardPieURLGenerator,5,62,6,2008-06-09
+Public Class,org.jfree.chart.urls.StandardXYURLGenerator,3,60,5,2008-06-09
+Public Class,org.jfree.chart.urls.StandardXYZURLGenerator,2,0,1,2008-06-09
+Public Class,org.jfree.chart.urls.TimeSeriesURLGenerator,8,60,8,2008-06-09
+Public Class,org.jfree.chart.urls.URLUtilities,8,0,1,2008-06-09
+Public Interface,org.jfree.chart.urls.XYURLGenerator,2,0,1,2008-06-09
+Public Interface,org.jfree.chart.urls.XYZURLGenerator,2,0,1,2008-06-09
+Package,org.jfree.chart.urls.junit,,,45,2008-06-09
+Public Class,org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests,14,0,7,2008-06-09
+Public Class,org.jfree.chart.urls.junit.CustomPieURLGeneratorTests,14,0,6,2008-06-09
+Public Class,org.jfree.chart.urls.junit.CustomXYURLGeneratorTests,14,0,7,2008-06-09
+Public Class,org.jfree.chart.urls.junit.StandardCategoryURLGeneratorTests,12,0,6,2008-06-09
+Public Class,org.jfree.chart.urls.junit.StandardPieURLGeneratorTests,13,0,6,2008-06-09
+Public Class,org.jfree.chart.urls.junit.StandardXYURLGeneratorTests,11,0,4,2008-06-09
+Public Class,org.jfree.chart.urls.junit.TimeSeriesURLGeneratorTests,13,0,6,2008-06-09
+Public Class,org.jfree.chart.urls.junit.UrlsPackageTests,9,0,3,2008-06-09
+Package,org.jfree.chart.util,,,41,2008-06-09
+Public Class,org.jfree.chart.util.HexNumberFormat,6,85,7,2008-06-09
+Public Class,org.jfree.chart.util.LogFormat,8,62,8,2008-06-09
+Public Class,org.jfree.chart.util.RelativeDateFormat,12,83,26,2008-06-09
+Package,org.jfree.chart.util.junit,,,15,2008-06-09
+Public Class,org.jfree.chart.util.junit.LogFormatTests,12,0,6,2008-06-09
+Public Class,org.jfree.chart.util.junit.RelativeDateFormatTests,7,0,6,2008-06-09
+Public Class,org.jfree.chart.util.junit.UtilPackageTests,4,0,3,2008-06-09
+Package,org.jfree.data,,,204,2008-06-09
+Public Class,org.jfree.data.ComparableObjectItem,2,58,8,2008-06-09
+Public Class,org.jfree.data.ComparableObjectSeries,8,67,20,2008-06-09
+Public Abstract Class,org.jfree.data.DataUtilities,7,0,5,2008-06-09
+Public Class,org.jfree.data.DefaultKeyedValue,5,54,8,2008-06-09
+Public Class,org.jfree.data.DefaultKeyedValues,16,68,22,2008-06-09
+Public Class,org.jfree.data.DefaultKeyedValues2D,10,67,23,2008-06-09
+Public Interface,org.jfree.data.DomainInfo,1,0,3,2008-06-09
+Public Class,org.jfree.data.DomainOrder,2,72,5,2008-06-09
+Public Class,org.jfree.data.KeyToGroupMap,15,60,12,2008-06-09
+Public Class,org.jfree.data.KeyedObject,2,55,6,2008-06-09
+Public Class,org.jfree.data.KeyedObjects,8,62,16,2008-06-09
+Public Class,org.jfree.data.KeyedObjects2D,9,60,22,2008-06-09
+Public Interface,org.jfree.data.KeyedValue,1,0,1,2008-06-09
+Public Class,org.jfree.data.KeyedValueComparator,6,25,4,2008-06-09
+Public Class,org.jfree.data.KeyedValueComparatorType,1,66,4,2008-06-09
+Public Interface,org.jfree.data.KeyedValues,3,0,4,2008-06-09
+Public Interface,org.jfree.data.KeyedValues2D,3,0,7,2008-06-09
+Public Class,org.jfree.data.Range,4,64,19,2008-06-09
+Public Interface,org.jfree.data.RangeInfo,1,0,3,2008-06-09
+Public Class,org.jfree.data.RangeType,2,72,5,2008-06-09
+Public Class,org.jfree.data.UnknownKeyException,1,0,1,2008-06-09
+Public Interface,org.jfree.data.Value,1,0,1,2008-06-09
+Public Interface,org.jfree.data.Values,1,0,2,2008-06-09
+Public Interface,org.jfree.data.Values2D,1,0,3,2008-06-09
+Package,org.jfree.data.category,,,95,2008-06-09
+Public Interface,org.jfree.data.category.CategoryDataset,0,0,0,2008-06-09
+Public Class,org.jfree.data.category.CategoryToPieDataset,10,58,12,2008-06-09
+Public Class,org.jfree.data.category.DefaultCategoryDataset,6,58,25,2008-06-09
+Public Class,org.jfree.data.category.DefaultIntervalCategoryDataset,13,77,35,2008-06-09
+Public Interface,org.jfree.data.category.IntervalCategoryDataset,2,0,4,2008-06-09
+Public Class,org.jfree.data.category.SlidingCategoryDataset,9,45,19,2008-06-09
+Package,org.jfree.data.category.junit,,,59,2008-06-09
+Public Class,org.jfree.data.category.junit.CategoryToPieDatasetTests,17,0,8,2008-06-09
+Public Class,org.jfree.data.category.junit.DataCategoryPackageTests,6,0,3,2008-06-09
+Public Class,org.jfree.data.category.junit.DefaultCategoryDatasetTests,17,93,16,2008-06-09
+Public Class,org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests,17,0,22,2008-06-09
+Public Class,org.jfree.data.category.junit.SlidingCategoryDatasetTests,15,0,10,2008-06-09
+Package,org.jfree.data.contour,,,40,2008-06-09
+Public Interface,org.jfree.data.contour.ContourDataset,2,0,9,2008-06-09
+Public Class,org.jfree.data.contour.DefaultContourDataset,11,82,26,2008-06-09
+Public Class,org.jfree.data.contour.NonGridContourDataset,4,80,5,2008-06-09
+Package,org.jfree.data.function,,,9,2008-06-09
+Public Interface,org.jfree.data.function.Function2D,0,0,1,2008-06-09
+Public Class,org.jfree.data.function.LineFunction2D,0,0,2,2008-06-09
+Public Class,org.jfree.data.function.NormalDistributionFunction2D,1,25,4,2008-06-09
+Public Class,org.jfree.data.function.PowerFunction2D,1,0,2,2008-06-09
+Package,org.jfree.data.gantt,,,105,2008-06-09
+Public Interface,org.jfree.data.gantt.GanttCategoryDataset,2,0,10,2008-06-09
+Public Class,org.jfree.data.gantt.SlidingGanttCategoryDataset,9,40,33,2008-06-09
+Public Class,org.jfree.data.gantt.Task,9,76,15,2008-06-09
+Public Class,org.jfree.data.gantt.TaskSeries,7,0,10,2008-06-09
+Public Class,org.jfree.data.gantt.TaskSeriesCollection,16,73,37,2008-06-09
+Package,org.jfree.data.gantt.junit,,,49,2008-06-09
+Public Class,org.jfree.data.gantt.junit.DataGanttPackageTests,6,0,3,2008-06-09
+Public Class,org.jfree.data.gantt.junit.SlidingGanttCategoryDatasetTests,16,0,5,2008-06-09
+Public Class,org.jfree.data.gantt.junit.TaskSeriesCollectionTests,25,0,29,2008-06-09
+Public Class,org.jfree.data.gantt.junit.TaskSeriesTests,16,0,6,2008-06-09
+Public Class,org.jfree.data.gantt.junit.TaskTests,16,0,6,2008-06-09
+Package,org.jfree.data.general,,,211,2008-06-09
+Public Abstract Class,org.jfree.data.general.AbstractDataset,15,72,12,2008-06-09
+Public Abstract Class,org.jfree.data.general.AbstractSeriesDataset,2,100,5,2008-06-09
+Public Interface,org.jfree.data.general.CombinationDataset,1,0,2,2008-06-09
+Public Class,org.jfree.data.general.CombinedDataset,9,80,30,2008-06-09
+Private Class,org.jfree.data.general.CombinedDataset.DatasetInfo,1,0,1,2008-06-09
+Public Interface,org.jfree.data.general.Dataset,2,0,4,2008-06-09
+Public Class,org.jfree.data.general.DatasetChangeEvent,1,0,2,2008-06-09
+Public Interface,org.jfree.data.general.DatasetChangeListener,1,0,1,2008-06-09
+Public Class,org.jfree.data.general.DatasetGroup,3,60,5,2008-06-09
+Public Class,org.jfree.data.general.DatasetUtilities,30,0,45,2008-06-09
+Public Class,org.jfree.data.general.DefaultKeyedValueDataset,6,65,10,2008-06-09
+Public Class,org.jfree.data.general.DefaultKeyedValues2DDataset,0,0,0,2008-06-09
+Public Class,org.jfree.data.general.DefaultKeyedValuesDataset,0,0,0,2008-06-09
+Public Class,org.jfree.data.general.DefaultPieDataset,8,57,19,2008-06-09
+Public Class,org.jfree.data.general.DefaultValueDataset,3,64,7,2008-06-09
+Public Interface,org.jfree.data.general.KeyedValueDataset,0,0,0,2008-06-09
+Public Interface,org.jfree.data.general.KeyedValues2DDataset,0,0,0,2008-06-09
+Public Interface,org.jfree.data.general.KeyedValuesDataset,0,0,0,2008-06-09
+Public Interface,org.jfree.data.general.PieDataset,0,0,0,2008-06-09
+Public Abstract Class,org.jfree.data.general.Series,10,80,20,2008-06-09
+Public Class,org.jfree.data.general.SeriesChangeEvent,0,100,1,2008-06-09
+Public Interface,org.jfree.data.general.SeriesChangeListener,1,0,1,2008-06-09
+Public Interface,org.jfree.data.general.SeriesDataset,1,0,3,2008-06-09
+Public Class,org.jfree.data.general.SeriesException,1,100,1,2008-06-09
+Public Class,org.jfree.data.general.SubSeriesDataset,3,32,23,2008-06-09
+Public Interface,org.jfree.data.general.ValueDataset,0,0,0,2008-06-09
+Public Class,org.jfree.data.general.WaferMapDataset,7,83,19,2008-06-09
+Package,org.jfree.data.general.junit,,,68,2008-06-09
+Public Class,org.jfree.data.general.junit.DataGeneralPackageTests,8,0,3,2008-06-09
+Public Class,org.jfree.data.general.junit.DatasetGroupTests,13,0,3,2008-06-09
+Public Class,org.jfree.data.general.junit.DatasetUtilitiesTests,27,57,40,2008-06-09
+Public Class,org.jfree.data.general.junit.DefaultKeyedValueDatasetTests,15,0,6,2008-06-09
+Public Class,org.jfree.data.general.junit.DefaultKeyedValues2DDatasetTests,17,0,4,2008-06-09
+Public Class,org.jfree.data.general.junit.DefaultKeyedValuesDatasetTests,18,0,4,2008-06-09
+Public Class,org.jfree.data.general.junit.DefaultPieDatasetTests,20,75,8,2008-06-09
+Package,org.jfree.data.io,,,6,2008-06-09
+Public Class,org.jfree.data.io.CSV,10,58,6,2008-06-09
+Package,org.jfree.data.jdbc,,,33,2008-06-09
+Public Class,org.jfree.data.jdbc.JDBCCategoryDataset,19,71,7,2008-06-09
+Public Class,org.jfree.data.jdbc.JDBCPieDataset,17,66,6,2008-06-09
+Public Class,org.jfree.data.jdbc.JDBCXYDataset,21,81,20,2008-06-09
+Package,org.jfree.data.junit,,,131,2008-06-09
+Public Class,org.jfree.data.junit.ComparableObjectItemTests,14,0,7,2008-06-09
+Public Class,org.jfree.data.junit.ComparableObjectSeriesTests,16,0,7,2008-06-09
+Static Class,org.jfree.data.junit.ComparableObjectSeriesTests.MyComparableObjectSeries,2,0,4,2008-06-09
+Public Class,org.jfree.data.junit.DataPackageTests,15,0,3,2008-06-09
+Public Class,org.jfree.data.junit.DataUtilitiesTests,4,33,3,2008-06-09
+Public Class,org.jfree.data.junit.DefaultKeyedValueTests,17,0,6,2008-06-09
+Public Class,org.jfree.data.junit.DefaultKeyedValues2DTests,17,87,16,2008-06-09
+Public Class,org.jfree.data.junit.DefaultKeyedValuesTests,20,0,21,2008-06-09
+Public Class,org.jfree.data.junit.DomainOrderTests,13,0,5,2008-06-09
+Public Class,org.jfree.data.junit.KeyToGroupMapTests,16,0,10,2008-06-09
+Public Class,org.jfree.data.junit.KeyedObjectTests,14,0,6,2008-06-09
+Public Class,org.jfree.data.junit.KeyedObjects2DTests,17,0,13,2008-06-09
+Public Class,org.jfree.data.junit.KeyedObjectsTests,21,0,13,2008-06-09
+Public Class,org.jfree.data.junit.RangeTests,14,0,12,2008-06-09
+Public Class,org.jfree.data.junit.RangeTypeTests,13,0,5,2008-06-09
+Package,org.jfree.data.resources,,,6,2008-06-09
+Public Class,org.jfree.data.resources.DataPackageResources,0,0,1,2008-06-09
+Public Class,org.jfree.data.resources.DataPackageResources_de,0,0,1,2008-06-09
+Public Class,org.jfree.data.resources.DataPackageResources_es,0,0,1,2008-06-09
+Public Class,org.jfree.data.resources.DataPackageResources_fr,0,0,1,2008-06-09
+Public Class,org.jfree.data.resources.DataPackageResources_pl,0,0,1,2008-06-09
+Public Class,org.jfree.data.resources.DataPackageResources_ru,0,0,1,2008-06-09
+Package,org.jfree.data.statistics,,,268,2008-06-09
+Public Abstract Class,org.jfree.data.statistics.BoxAndWhiskerCalculator,10,0,4,2008-06-09
+Public Interface,org.jfree.data.statistics.BoxAndWhiskerCategoryDataset,3,0,18,2008-06-09
+Public Class,org.jfree.data.statistics.BoxAndWhiskerItem,5,76,13,2008-06-09
+Public Interface,org.jfree.data.statistics.BoxAndWhiskerXYDataset,2,0,11,2008-06-09
+Public Class,org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset,9,79,44,2008-06-09
+Public Class,org.jfree.data.statistics.DefaultBoxAndWhiskerXYDataset,11,82,27,2008-06-09
+Public Class,org.jfree.data.statistics.DefaultMultiValueCategoryDataset,12,67,19,2008-06-09
+Public Class,org.jfree.data.statistics.DefaultStatisticalCategoryDataset,8,80,29,2008-06-09
+Public Class,org.jfree.data.statistics.HistogramBin,2,62,8,2008-06-09
+Public Class,org.jfree.data.statistics.HistogramDataset,14,77,21,2008-06-09
+Public Class,org.jfree.data.statistics.HistogramType,2,72,5,2008-06-09
+Public Class,org.jfree.data.statistics.MeanAndStandardDeviation,3,58,8,2008-06-09
+Public Interface,org.jfree.data.statistics.MultiValueCategoryDataset,2,0,2,2008-06-09
+Public Abstract Class,org.jfree.data.statistics.Regression,3,0,4,2008-06-09
+Public Class,org.jfree.data.statistics.SimpleHistogramBin,3,63,11,2008-06-09
+Public Class,org.jfree.data.statistics.SimpleHistogramDataset,13,81,27,2008-06-09
+Public Interface,org.jfree.data.statistics.StatisticalCategoryDataset,2,0,4,2008-06-09
+Public Abstract Class,org.jfree.data.statistics.Statistics,9,0,13,2008-06-09
+Package,org.jfree.data.statistics.junit,,,115,2008-06-09
+Public Class,org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests,9,33,6,2008-06-09
+Public Class,org.jfree.data.statistics.junit.BoxAndWhiskerItemTests,15,0,4,2008-06-09
+Public Class,org.jfree.data.statistics.junit.DataStatisticsPackageTests,14,0,3,2008-06-09
+Public Class,org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests,19,81,11,2008-06-09
+Public Class,org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests,18,87,8,2008-06-09
+Public Class,org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests,19,0,10,2008-06-09
+Public Class,org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests,16,66,12,2008-06-09
+Public Class,org.jfree.data.statistics.junit.HistogramBinTests,14,0,5,2008-06-09
+Public Class,org.jfree.data.statistics.junit.HistogramDatasetTests,15,54,11,2008-06-09
+Public Class,org.jfree.data.statistics.junit.MeanAndStandardDeviationTests,14,0,5,2008-06-09
+Public Class,org.jfree.data.statistics.junit.RegressionTests,6,0,12,2008-06-09
+Public Class,org.jfree.data.statistics.junit.SimpleHistogramBinTests,15,0,7,2008-06-09
+Public Class,org.jfree.data.statistics.junit.SimpleHistogramDatasetTests,13,85,7,2008-06-09
+Public Class,org.jfree.data.statistics.junit.StatisticsTests,12,85,14,2008-06-09
+Package,org.jfree.data.time,,,490,2008-06-09
+Public Class,org.jfree.data.time.DateRange,3,71,7,2008-06-09
+Public Class,org.jfree.data.time.Day,8,87,22,2008-06-09
+Public Class,org.jfree.data.time.DynamicTimeSeriesCollection,17,91,42,2008-06-09
+Protected Class,org.jfree.data.time.DynamicTimeSeriesCollection.ValueSequence,1,25,4,2008-06-09
+Public Class,org.jfree.data.time.FixedMillisecond,3,58,17,2008-06-09
+Public Class,org.jfree.data.time.Hour,8,77,22,2008-06-09
+Public Class,org.jfree.data.time.Millisecond,6,75,18,2008-06-09
+Public Class,org.jfree.data.time.Minute,9,78,21,2008-06-09
+Public Class,org.jfree.data.time.Month,7,73,23,2008-06-09
+Public Class,org.jfree.data.time.MovingAverage,13,0,6,2008-06-09
+Public Class,org.jfree.data.time.Quarter,8,78,21,2008-06-09
+Public Abstract Class,org.jfree.data.time.RegularTimePeriod,15,100,18,2008-06-09
+Public Class,org.jfree.data.time.Second,10,75,19,2008-06-09
+Public Class,org.jfree.data.time.SimpleTimePeriod,2,70,9,2008-06-09
+Public Interface,org.jfree.data.time.TimePeriod,1,0,2,2008-06-09
+Public Class,org.jfree.data.time.TimePeriodAnchor,2,72,5,2008-06-09
+Public Class,org.jfree.data.time.TimePeriodFormatException,1,0,1,2008-06-09
+Public Class,org.jfree.data.time.TimePeriodValue,7,66,9,2008-06-09
+Public Class,org.jfree.data.time.TimePeriodValues,12,87,27,2008-06-09
+Public Class,org.jfree.data.time.TimePeriodValuesCollection,16,77,24,2008-06-09
+Public Class,org.jfree.data.time.TimeSeries,25,88,44,2008-06-09
+Public Class,org.jfree.data.time.TimeSeriesCollection,19,80,34,2008-06-09
+Public Class,org.jfree.data.time.TimeSeriesDataItem,6,66,9,2008-06-09
+Public Class,org.jfree.data.time.TimeSeriesTableModel,11,77,11,2008-06-09
+Public Class,org.jfree.data.time.TimeTableXYDataset,16,78,32,2008-06-09
+Public Class,org.jfree.data.time.Week,11,77,25,2008-06-09
+Public Class,org.jfree.data.time.Year,8,77,18,2008-06-09
+Package,org.jfree.data.time.junit,,,330,2008-06-09
+Public Class,org.jfree.data.time.junit.DataTimePackageTests,23,0,3,2008-06-09
+Public Class,org.jfree.data.time.junit.DateRangeTests,14,0,6,2008-06-09
+Public Class,org.jfree.data.time.junit.DayTests,24,0,25,2008-06-09
+Public Class,org.jfree.data.time.junit.FixedMillisecondTests,13,0,6,2008-06-09
+Public Class,org.jfree.data.time.junit.HourTests,22,0,25,2008-06-09
+Public Class,org.jfree.data.time.junit.MillisecondTests,25,0,21,2008-06-09
+Public Class,org.jfree.data.time.junit.MinuteTests,23,0,21,2008-06-09
+Public Class,org.jfree.data.time.junit.MonthTests,23,90,25,2008-06-09
+Public Class,org.jfree.data.time.junit.MovingAverageTests,6,75,4,2008-06-09
+Public Class,org.jfree.data.time.junit.QuarterTests,24,90,26,2008-06-09
+Public Class,org.jfree.data.time.junit.SecondTests,24,0,20,2008-06-09
+Public Class,org.jfree.data.time.junit.SimpleTimePeriodTests,13,0,10,2008-06-09
+Public Class,org.jfree.data.time.junit.TimePeriodAnchorTests,13,0,4,2008-06-09
+Public Class,org.jfree.data.time.junit.TimePeriodValueTests,14,0,6,2008-06-09
+Public Class,org.jfree.data.time.junit.TimePeriodValuesCollectionTests,18,77,9,2008-06-09
+Public Class,org.jfree.data.time.junit.TimePeriodValuesTests,27,93,15,2008-06-09
+Static Class,org.jfree.data.time.junit.TimePeriodValuesTests.MySeriesChangeListener,1,0,4,2008-06-09
+Public Class,org.jfree.data.time.junit.TimeSeriesCollectionTests,19,0,9,2008-06-09
+Public Class,org.jfree.data.time.junit.TimeSeriesDataItemTests,15,0,6,2008-06-09
+Public Class,org.jfree.data.time.junit.TimeSeriesTests,28,90,26,2008-06-09
+Public Class,org.jfree.data.time.junit.TimeTableXYDatasetTests,16,87,8,2008-06-09
+Public Class,org.jfree.data.time.junit.WeekTests,20,90,26,2008-06-09
+Public Class,org.jfree.data.time.junit.YearTests,22,0,25,2008-06-09
+Package,org.jfree.data.time.ohlc,,,39,2008-06-09
+Public Class,org.jfree.data.time.ohlc.OHLC,0,50,6,2008-06-09
+Public Class,org.jfree.data.time.ohlc.OHLCItem,3,0,7,2008-06-09
+Public Class,org.jfree.data.time.ohlc.OHLCSeries,5,0,4,2008-06-09
+Public Class,org.jfree.data.time.ohlc.OHLCSeriesCollection,13,70,22,2008-06-09
+Package,org.jfree.data.time.ohlc.junit,,,32,2008-06-09
+Public Class,org.jfree.data.time.ohlc.junit.OHLCItemTests,14,83,6,2008-06-09
+Public Class,org.jfree.data.time.ohlc.junit.OHLCPackageTests,6,0,3,2008-06-09
+Public Class,org.jfree.data.time.ohlc.junit.OHLCSeriesCollectionTests,17,0,6,2008-06-09
+Public Class,org.jfree.data.time.ohlc.junit.OHLCSeriesTests,18,83,12,2008-06-09
+Public Class,org.jfree.data.time.ohlc.junit.OHLCTests,12,0,5,2008-06-09
+Package,org.jfree.data.xml,,,44,2008-06-09
+Public Class,org.jfree.data.xml.CategoryDatasetHandler,9,19,5,2008-06-09
+Public Class,org.jfree.data.xml.CategorySeriesHandler,11,46,5,2008-06-09
+Public Class,org.jfree.data.xml.DatasetReader,15,0,4,2008-06-09
+Public Interface,org.jfree.data.xml.DatasetTags,1,0,0,2008-06-09
+Public Class,org.jfree.data.xml.ItemHandler,10,53,7,2008-06-09
+Public Class,org.jfree.data.xml.KeyHandler,7,55,6,2008-06-09
+Public Class,org.jfree.data.xml.PieDatasetHandler,9,19,5,2008-06-09
+Public Class,org.jfree.data.xml.RootHandler,3,16,6,2008-06-09
+Public Class,org.jfree.data.xml.ValueHandler,9,50,6,2008-06-09
+Package,org.jfree.data.xy,,,568,2008-06-09
+Public Abstract Class,org.jfree.data.xy.AbstractIntervalXYDataset,2,0,4,2008-06-09
+Public Abstract Class,org.jfree.data.xy.AbstractXYDataset,3,0,3,2008-06-09
+Public Abstract Class,org.jfree.data.xy.AbstractXYZDataset,2,0,1,2008-06-09
+Public Class,org.jfree.data.xy.CategoryTableXYDataset,9,53,26,2008-06-09
+Public Class,org.jfree.data.xy.DefaultHighLowDataset,7,82,19,2008-06-09
+Public Class,org.jfree.data.xy.DefaultIntervalXYDataset,10,52,20,2008-06-09
+Public Class,org.jfree.data.xy.DefaultOHLCDataset,9,62,20,2008-06-09
+Public Class,org.jfree.data.xy.DefaultTableXYDataset,16,71,36,2008-06-09
+Public Class,org.jfree.data.xy.DefaultWindDataset,12,53,13,2008-06-09
+Public Class,org.jfree.data.xy.DefaultXYDataset,11,40,15,2008-06-09
+Public Class,org.jfree.data.xy.DefaultXYZDataset,11,44,17,2008-06-09
+Public Interface,org.jfree.data.xy.IntervalXYDataset,1,0,8,2008-06-09
+Public Class,org.jfree.data.xy.IntervalXYDelegate,10,78,21,2008-06-09
+Public Interface,org.jfree.data.xy.IntervalXYZDataset,1,0,6,2008-06-09
+Public Class,org.jfree.data.xy.MatrixSeries,3,72,11,2008-06-09
+Public Class,org.jfree.data.xy.MatrixSeriesCollection,9,59,16,2008-06-09
+Public Class,org.jfree.data.xy.NormalizedMatrixSeries,3,61,6,2008-06-09
+Public Class,org.jfree.data.xy.OHLCDataItem,5,71,9,2008-06-09
+Public Interface,org.jfree.data.xy.OHLCDataset,1,0,10,2008-06-09
+Public Interface,org.jfree.data.xy.TableXYDataset,0,0,1,2008-06-09
+Public Class,org.jfree.data.xy.Vector,2,14,7,2008-06-09
+Public Class,org.jfree.data.xy.VectorDataItem,3,0,6,2008-06-09
+Public Class,org.jfree.data.xy.VectorSeries,4,0,9,2008-06-09
+Public Class,org.jfree.data.xy.VectorSeriesCollection,12,22,18,2008-06-09
+Public Interface,org.jfree.data.xy.VectorXYDataset,1,0,3,2008-06-09
+Class,org.jfree.data.xy.WindDataItem,2,44,6,2008-06-09
+Public Interface,org.jfree.data.xy.WindDataset,1,0,2,2008-06-09
+Public Class,org.jfree.data.xy.XIntervalDataItem,3,0,5,2008-06-09
+Public Class,org.jfree.data.xy.XIntervalSeries,4,0,8,2008-06-09
+Public Class,org.jfree.data.xy.XIntervalSeriesCollection,11,19,20,2008-06-09
+Public Class,org.jfree.data.xy.XYBarDataset,5,47,22,2008-06-09
+Public Class,org.jfree.data.xy.XYCoordinate,3,25,8,2008-06-09
+Public Class,org.jfree.data.xy.XYDataItem,5,69,13,2008-06-09
+Public Interface,org.jfree.data.xy.XYDataset,2,0,6,2008-06-09
+Public Class,org.jfree.data.xy.XYDatasetTableModel,6,40,10,2008-06-09
+Public Class,org.jfree.data.xy.XYInterval,0,57,7,2008-06-09
+Public Class,org.jfree.data.xy.XYIntervalDataItem,2,0,7,2008-06-09
+Public Class,org.jfree.data.xy.XYIntervalSeries,4,0,10,2008-06-09
+Public Class,org.jfree.data.xy.XYIntervalSeriesCollection,10,31,22,2008-06-09
+Public Class,org.jfree.data.xy.XYSeries,13,81,35,2008-06-09
+Public Class,org.jfree.data.xy.XYSeriesCollection,15,69,31,2008-06-09
+Public Interface,org.jfree.data.xy.XYZDataset,1,0,2,2008-06-09
+Public Interface,org.jfree.data.xy.XisSymbolic,2,0,3,2008-06-09
+Public Class,org.jfree.data.xy.YInterval,0,40,5,2008-06-09
+Public Class,org.jfree.data.xy.YIntervalDataItem,2,0,5,2008-06-09
+Public Class,org.jfree.data.xy.YIntervalSeries,4,0,8,2008-06-09
+Public Class,org.jfree.data.xy.YIntervalSeriesCollection,10,19,20,2008-06-09
+Public Class,org.jfree.data.xy.YWithXInterval,0,40,5,2008-06-09
+Public Interface,org.jfree.data.xy.YisSymbolic,2,0,3,2008-06-09
+Package,org.jfree.data.xy.junit,,,306,2008-06-09
+Public Class,org.jfree.data.xy.junit.CategoryTableXYDatasetTests,14,87,8,2008-06-09
+Public Class,org.jfree.data.xy.junit.DataXYPackageTests,36,0,3,2008-06-09
+Public Class,org.jfree.data.xy.junit.DefaultHighLowDatasetTests,14,0,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.DefaultIntervalXYDatasetTests,14,63,19,2008-06-09
+Public Class,org.jfree.data.xy.junit.DefaultOHLCDatasetTests,18,87,8,2008-06-09
+Public Class,org.jfree.data.xy.junit.DefaultTableXYDatasetTests,17,87,8,2008-06-09
+Public Class,org.jfree.data.xy.junit.DefaultWindDatasetTests,19,0,10,2008-06-09
+Public Class,org.jfree.data.xy.junit.DefaultXYDatasetTests,13,90,10,2008-06-09
+Public Class,org.jfree.data.xy.junit.DefaultXYZDatasetTests,13,90,10,2008-06-09
+Public Class,org.jfree.data.xy.junit.IntervalXYDelegateTests,16,0,5,2008-06-09
+Public Class,org.jfree.data.xy.junit.MatrixSeriesCollectionTests,14,0,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.MatrixSeriesTests,14,0,8,2008-06-09
+Public Class,org.jfree.data.xy.junit.OHLCDataItemTests,13,0,5,2008-06-09
+Public Class,org.jfree.data.xy.junit.TableXYDatasetTests,17,0,15,2008-06-09
+Public Class,org.jfree.data.xy.junit.VectorDataItemTests,13,0,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.VectorSeriesCollectionTests,14,0,7,2008-06-09
+Public Class,org.jfree.data.xy.junit.VectorSeriesTests,17,75,14,2008-06-09
+Public Class,org.jfree.data.xy.junit.VectorTests,12,0,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.XIntervalDataItemTests,14,83,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.XIntervalSeriesCollectionTests,16,0,8,2008-06-09
+Public Class,org.jfree.data.xy.junit.XIntervalSeriesTests,18,75,16,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYBarDatasetTests,13,0,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYCoordinateTests,12,0,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYDataItemTests,15,0,5,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYIntervalDataItemTests,14,83,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYIntervalSeriesCollectionTests,15,0,8,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYIntervalSeriesTests,18,76,15,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYIntervalTests,12,0,5,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYSeriesCollectionTests,17,0,11,2008-06-09
+Public Class,org.jfree.data.xy.junit.XYSeriesTests,20,68,22,2008-06-09
+Public Class,org.jfree.data.xy.junit.YIntervalDataItemTests,14,83,6,2008-06-09
+Public Class,org.jfree.data.xy.junit.YIntervalSeriesCollectionTests,16,0,8,2008-06-09
+Public Class,org.jfree.data.xy.junit.YIntervalSeriesTests,18,78,14,2008-06-09
+Public Class,org.jfree.data.xy.junit.YIntervalTests,12,0,5,2008-06-09
+Public Class,org.jfree.data.xy.junit.YWithXIntervalTests,12,0,5,2008-06-09
+Package,org.jfree.experimental.chart.annotations,,,15,2008-06-09
+Public Class,org.jfree.experimental.chart.annotations.XYTitleAnnotation,26,69,15,2008-06-09
+Package,org.jfree.experimental.chart.annotations.junit,,,7,2008-06-09
+Public Class,org.jfree.experimental.chart.annotations.junit.XYTitleAnnotationTests,20,0,7,2008-06-09
+Package,org.jfree.experimental.chart.demo,,,18,2008-06-09
+Public Class,org.jfree.experimental.chart.demo.CombinedCategoryPlotDemo1,18,0,6,2008-06-09
+Public Class,org.jfree.experimental.chart.demo.CombinedXYPlotDemo1,29,0,6,2008-06-09
+Class,org.jfree.experimental.chart.demo.CombinedXYPlotDemo1.createCombinedChart.(Anon_1),4,0,1,2008-06-09
+Public Class,org.jfree.experimental.chart.demo.XYTitleAnnotationDemo1,26,0,5,2008-06-09
+Package,org.jfree.experimental.chart.plot,,,10,2008-06-09
+Public Class,org.jfree.experimental.chart.plot.CombinedCategoryPlot,6,0,5,2008-06-09
+Public Class,org.jfree.experimental.chart.plot.CombinedXYPlot,5,0,5,2008-06-09
+Package,org.jfree.experimental.chart.renderer.xy,,,4,2008-06-09
+Public Class,org.jfree.experimental.chart.renderer.xy.XYSmoothLineAndShapeRenderer,14,0,4,2008-06-09
+Package,org.jfree.experimental.chart.swt,,,65,2008-06-09
+Public Class,org.jfree.experimental.chart.swt.ChartComposite,36,94,65,2008-06-09
+Package,org.jfree.experimental.chart.swt.demo,,,13,2008-06-09
+Public Class,org.jfree.experimental.chart.swt.demo.SWTBarChartDemo1,16,0,3,2008-06-09
+Public Class,org.jfree.experimental.chart.swt.demo.SWTMultipleAxisDemo1,22,0,4,2008-06-09
+Public Class,org.jfree.experimental.chart.swt.demo.SWTPieChartDemo1,10,0,3,2008-06-09
+Public Class,org.jfree.experimental.chart.swt.demo.SWTTimeSeriesDemo,16,0,3,2008-06-09
+Package,org.jfree.experimental.chart.swt.editor,,,55,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTAxisEditor,9,82,9,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTAxisEditor.SWTAxisEditor.(Anon_1),2,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTAxisEditor.SWTAxisEditor.(Anon_2),3,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTAxisEditor.SWTAxisEditor.(Anon_3),2,0,1,2008-06-09
+Public Class,org.jfree.experimental.chart.swt.editor.SWTChartEditor,5,44,3,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTChartEditor.SWTChartEditor.(Anon_1),1,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTChartEditor.SWTChartEditor.(Anon_2),1,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTNumberAxisEditor,7,50,7,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTNumberAxisEditor.SWTNumberAxisEditor.(Anon_1),1,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTOtherEditor,4,16,2,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTOtherEditor.SWTOtherEditor.(Anon_1),3,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTPlotAppearanceEditor,10,72,5,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTPlotAppearanceEditor.SWTPlotAppearanceEditor.(Anon_1),3,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTPlotAppearanceEditor.SWTPlotAppearanceEditor.(Anon_2),3,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTPlotAppearanceEditor.SWTPlotAppearanceEditor.(Anon_3),3,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTPlotAppearanceEditor.SWTPlotAppearanceEditor.(Anon_4),2,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTPlotEditor,9,50,5,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTStrokeCanvas,3,0,4,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTStrokeCanvas.SWTStrokeCanvas.(Anon_1),2,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTTitleEditor,7,74,5,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTTitleEditor.SWTTitleEditor.(Anon_1),1,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTTitleEditor.SWTTitleEditor.(Anon_2),2,0,1,2008-06-09
+Class,org.jfree.experimental.chart.swt.editor.SWTTitleEditor.SWTTitleEditor.(Anon_3),3,0,1,2008-06-09
+Package,org.jfree.experimental.chart.util,,,4,2008-06-09
+Public Class,org.jfree.experimental.chart.util.XYCoordinateType,2,62,4,2008-06-09
+Package,org.jfree.experimental.swt,,,102,2008-06-09
+Public Class,org.jfree.experimental.swt.SWTGraphics2D,40,88,80,2008-06-09
+Public Class,org.jfree.experimental.swt.SWTPaintCanvas,0,57,7,2008-06-09
+Class,org.jfree.experimental.swt.SWTPaintCanvas.SWTPaintCanvas.(Anon_1),1,0,1,2008-06-09
+Public Class,org.jfree.experimental.swt.SWTUtils,26,85,14,2008-06-09

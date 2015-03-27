@@ -1,0 +1,19 @@
+@relation io.realm.internal.Row
+
+@attribute ID numeric
+@attribute CountClassCoupled numeric
+@attribute CountDeclMethod numeric
+@attribute PercentLackOfCohesion numeric
+@attribute Date date 'yyyy-MM-dd'
+
+@data
+1,10,58,80,2013-01-01
+2,10,58,80,2013-04-01
+3,10,58,80,2013-07-01
+4,10,59,80,2013-10-01
+5,10,59,80,2014-01-01
+6,10,59,80,2014-04-01
+7,11,59,80,2014-07-01
+8,10,58,74,2014-10-01
+9,10,60,74,2015-01-01
+10,10,60,74,2015-04-01
